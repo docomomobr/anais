@@ -1,6 +1,6 @@
 {
   "slug": "sdnne03",
-  "date": "2026-03-24",
+  "date": "2026-03-25",
   "total_articles": 41,
   "profile": {
     "total": 41,
@@ -13,20 +13,7 @@
     "keywords_es": 0,
     "references_": 41
   },
-  "auto_fixed": [
-    {
-      "check": "A17",
-      "article_id": "sdnne03-006",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": true,
-      "detail": "1 referências duplicadas",
-      "suggestion": "Remover duplicatas",
-      "dup_indices": [
-        20
-      ]
-    }
-  ],
+  "auto_fixed": [],
   "issues": [
     {
       "check": "A11",

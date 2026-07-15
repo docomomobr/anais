@@ -1,0 +1,406 @@
+{
+  "slug": "sdbr08",
+  "date": "2026-03-27",
+  "total_articles": 188,
+  "profile": {
+    "total": 188,
+    "locale_es": 11,
+    "abstract": 170,
+    "abstract_en": 106,
+    "abstract_es": 10,
+    "keywords": 167,
+    "keywords_en": 101,
+    "keywords_es": 10,
+    "references_": 180
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A01",
+      "article_id": "sdbr08-006",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr08-022",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr08-028",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 25,
+      "detail": "Ref muito longa (645 chars), possível concatenação: \"JORNAL DO BRASIL “Programa do Congresso da AICA em Brasília”, 20/março/1959 “Bra...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdbr08-032",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdbr08-043",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr08-047",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdbr08-048",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr08-052",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A08",
+      "article_id": "sdbr08-052",
+      "field": "keywords_en",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Keywords\" encontrado no fontes/ mas keywords_en vazio",
+      "suggestion": "Rodar extrair_metadados_en.py --force ou extrair manualmente"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr08-053",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A08",
+      "article_id": "sdbr08-053",
+      "field": "keywords_en",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Keywords\" encontrado no fontes/ mas keywords_en vazio",
+      "suggestion": "Rodar extrair_metadados_en.py --force ou extrair manualmente"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr08-057",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 0,
+      "detail": "Ref muito longa (940 chars), possível concatenação: \"Affairs, A. f. (s.d.). Bunkazai shitei nado no kennsu. Acesso em 20 de 06 de 200...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr08-059",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A12",
+      "article_id": "sdbr08-060",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 21,
+      "detail": "Possível não-referência: \"FONTE IMAGENS: Fig 1. Arquivo Luiz Forte Netto, apud....\"",
+      "suggestion": "Verificar e remover se não for referência bibliográfica"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr08-062",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdbr08-065",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A14",
+      "article_id": "sdbr08-066",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: contém header de conferência (\"seminário docomomo\")",
+      "suggestion": "Verificar e limpar o abstract"
+    },
+    {
+      "check": "A14",
+      "article_id": "sdbr08-067",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: contém template de formulário (\"máximo de\")",
+      "suggestion": "Verificar e limpar o abstract"
+    },
+    {
+      "check": "A33",
+      "article_id": "sdbr08-069",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract truncado vs plumber (DB=2100 plumber=4117 ratio=0.51)",
+      "suggestion": "Re-extrair abstract do plumber"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr08-071",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 15,
+      "detail": "Ref muito longa (1091 chars), possível concatenação: \"SANTOS, Marcos Antonio dos. Brasília, o lago Paranoá e o tombamento: natureza e ...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr08-073",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A33",
+      "article_id": "sdbr08-098",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract truncado vs plumber (DB=550 plumber=1290 ratio=0.43)",
+      "suggestion": "Re-extrair abstract do plumber"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr08-110",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr08-120",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 9,
+      "detail": "Ref muito longa (780 chars), possível concatenação: \"SEGRE, Roberto; SERAPIÃO, Fernando; SANTOS, Daniela; SOUZA, Thiago. Artigo: O re...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr08-131",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 19,
+      "detail": "Ref muito longa (700 chars), possível concatenação: \"PONZONI NETO, Angelo at al. (orgs.). Acervo dos palácios do Governo do Estado de...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr08-146",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A33",
+      "article_id": "sdbr08-148",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract truncado vs plumber (DB=1718 plumber=3150 ratio=0.55)",
+      "suggestion": "Re-extrair abstract do plumber"
+    },
+    {
+      "check": "A15",
+      "article_id": "sdbr08-153",
+      "field": "locale",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Abstract detectado como inglês (conf=1.00) mas locale=pt-BR",
+      "suggestion": "Verificar se locale deveria ser \"en\""
+    },
+    {
+      "check": "A04",
+      "article_id": "sdbr08-158",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_es presente mas abstract_es faltando",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr08-162",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 2,
+      "detail": "Ref muito longa (735 chars), possível concatenação: \"AMORIM, Luiz. Arquitetura. In: ROSEMBERG, André (Org.). Pernambuco: 5 décadas de...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr08-163",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 14,
+      "detail": "Ref muito longa (638 chars), possível concatenação: \"Novo projeto incluirá trens nos canteiros centrais da W3 Sul. Disponível em <www...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdbr08-165",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A03",
+      "article_id": "sdbr08-172",
+      "field": "keywords_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_es presente mas keywords_es faltando",
+      "suggestion": "Extrair keywords_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr08-176",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 22,
+      "detail": "Ref muito longa (521 chars), possível concatenação: \"MENDONÇA, Olívia. Projeto Substitutivo nº 3 ao Projeto de Lei Complementar nº 25...\"",
+      "suggestion": "Verificar e separar se necessário"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdbr08-028",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (645 chars), possível concatenação: \"JORNAL DO BRASIL “Programa do Congresso da AICA em Brasília”, 20/março/1959 “Bra...\""
+    },
+    {
+      "article_id": "sdbr08-057",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (940 chars), possível concatenação: \"Affairs, A. f. (s.d.). Bunkazai shitei nado no kennsu. Acesso em 20 de 06 de 200...\""
+    },
+    {
+      "article_id": "sdbr08-066",
+      "checks_flagged": [
+        "A14"
+      ],
+      "reason": "abstract: contém header de conferência (\"seminário docomomo\")"
+    },
+    {
+      "article_id": "sdbr08-067",
+      "checks_flagged": [
+        "A14"
+      ],
+      "reason": "abstract: contém template de formulário (\"máximo de\")"
+    },
+    {
+      "article_id": "sdbr08-071",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (1091 chars), possível concatenação: \"SANTOS, Marcos Antonio dos. Brasília, o lago Paranoá e o tombamento: natureza e ...\""
+    },
+    {
+      "article_id": "sdbr08-120",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (780 chars), possível concatenação: \"SEGRE, Roberto; SERAPIÃO, Fernando; SANTOS, Daniela; SOUZA, Thiago. Artigo: O re...\""
+    },
+    {
+      "article_id": "sdbr08-131",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (700 chars), possível concatenação: \"PONZONI NETO, Angelo at al. (orgs.). Acervo dos palácios do Governo do Estado de...\""
+    },
+    {
+      "article_id": "sdbr08-162",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (735 chars), possível concatenação: \"AMORIM, Luiz. Arquitetura. In: ROSEMBERG, André (Org.). Pernambuco: 5 décadas de...\""
+    },
+    {
+      "article_id": "sdbr08-163",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (638 chars), possível concatenação: \"Novo projeto incluirá trens nos canteiros centrais da W3 Sul. Disponível em <www...\""
+    },
+    {
+      "article_id": "sdbr08-176",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (521 chars), possível concatenação: \"MENDONÇA, Olívia. Projeto Substitutivo nº 3 ao Projeto de Lei Complementar nº 25...\""
+    }
+  ]
+}

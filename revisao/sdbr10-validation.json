@@ -1,0 +1,326 @@
+{
+  "slug": "sdbr10",
+  "date": "2026-03-14",
+  "total_articles": 118,
+  "profile": {
+    "total": 118,
+    "locale_es": 14,
+    "abstract": 116,
+    "abstract_en": 115,
+    "abstract_es": 4,
+    "keywords": 112,
+    "keywords_en": 114,
+    "keywords_es": 13,
+    "references_": 113
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A04",
+      "article_id": "sdbr10-007",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_es presente mas abstract_es faltando",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr10-007",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A04",
+      "article_id": "sdbr10-011",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_es presente mas abstract_es faltando",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr10-011",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr10-014",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A08",
+      "article_id": "sdbr10-014",
+      "field": "keywords_en",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Keywords\" encontrado no fontes/ mas keywords_en vazio",
+      "suggestion": "Rodar extrair_metadados_en.py --force ou extrair manualmente"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr10-024",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A08",
+      "article_id": "sdbr10-024",
+      "field": "keywords_en",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Keywords\" encontrado no fontes/ mas keywords_en vazio",
+      "suggestion": "Rodar extrair_metadados_en.py --force ou extrair manualmente"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdbr10-026",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A04",
+      "article_id": "sdbr10-034",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_es presente mas abstract_es faltando",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr10-034",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdbr10-035",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A04",
+      "article_id": "sdbr10-047",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_es presente mas abstract_es faltando",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr10-047",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A04",
+      "article_id": "sdbr10-049",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_es presente mas abstract_es faltando",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr10-049",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdbr10-051",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A04",
+      "article_id": "sdbr10-052",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_es presente mas abstract_es faltando",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr10-052",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A04",
+      "article_id": "sdbr10-077",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_es presente mas abstract_es faltando",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr10-077",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr10-078",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A08",
+      "article_id": "sdbr10-078",
+      "field": "keywords_en",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Keywords\" encontrado no fontes/ mas keywords_en vazio",
+      "suggestion": "Rodar extrair_metadados_en.py --force ou extrair manualmente"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr10-096",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A04",
+      "article_id": "sdbr10-097",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_es presente mas abstract_es faltando",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr10-097",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr10-100",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A14",
+      "article_id": "sdbr10-106",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: contém template de formulário (\"máximo de\")",
+      "suggestion": "Verificar e limpar o abstract"
+    },
+    {
+      "check": "A04",
+      "article_id": "sdbr10-113",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_es presente mas abstract_es faltando",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr10-113",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr10-118",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 2,
+      "detail": "Ref muito longa (720 chars), possível concatenação: \"Barreto, Aldo Paes.”Aplausos”. Jornal do Comércio. Recife, 02 out 1982. Dia a Di...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr10-118",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 3,
+      "detail": "Ref muito longa (563 chars), possível concatenação: \"Mello, Francisco A. Bandeira de. “Recife – porta para a Europa, África e Estados...\"",
+      "suggestion": "Verificar e separar se necessário"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdbr10-106",
+      "checks_flagged": [
+        "A14"
+      ],
+      "reason": "abstract: contém template de formulário (\"máximo de\")"
+    },
+    {
+      "article_id": "sdbr10-118",
+      "checks_flagged": [
+        "A11",
+        "A11"
+      ],
+      "reason": "Ref muito longa (720 chars), possível concatenação: \"Barreto, Aldo Paes.”Aplausos”. Jornal do Comércio. Recife, 02 out 1982. Dia a Di...\""
+    }
+  ]
+}

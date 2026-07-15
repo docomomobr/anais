@@ -1,0 +1,719 @@
+{
+  "correcoes": [
+    {
+      "id": "sdbr09-001",
+      "campo": "title",
+      "de": "O entrelaçamento entre linguagem Arquitetônica e ideias pedagógicas",
+      "para": "O entrelaçamento entre linguagem arquitetônica e ideias pedagógicas",
+      "motivo": "adjetivo genérico"
+    },
+    {
+      "id": "sdbr09-003",
+      "campo": "title",
+      "de": "Inventário da Arquitetura Moderna Cearense",
+      "para": "Inventário da arquitetura moderna cearense",
+      "motivo": "descritiva + demônimo"
+    },
+    {
+      "id": "sdbr09-003",
+      "campo": "subtitle",
+      "de": "o campus do Benfica da Universidade Federal do Ceará",
+      "para": "o Campus do Benfica da Universidade Federal do Ceará",
+      "motivo": "nome próprio de área universitária"
+    },
+    {
+      "id": "sdbr09-004",
+      "campo": "title",
+      "de": "Uma nova proposta tipológica na Obra de Vilanova Artigas nos anos 1970",
+      "para": "Uma nova proposta tipológica na obra de Vilanova Artigas nos anos 1970",
+      "motivo": "obra genérico"
+    },
+    {
+      "id": "sdbr09-006",
+      "campo": "title",
+      "de": "Arquitetura Moderna em Goiânia",
+      "para": "Arquitetura moderna em Goiânia",
+      "motivo": "descritiva + toponímico"
+    },
+    {
+      "id": "sdbr09-007",
+      "campo": "subtitle",
+      "de": "praça Ernesto Tochetto",
+      "para": "Praça Ernesto Tochetto",
+      "motivo": "nome próprio de logradouro"
+    },
+    {
+      "id": "sdbr09-008",
+      "campo": "subtitle",
+      "de": "ver e olhar a Arquitetura Modernista na Serra Gaúcha",
+      "para": "ver e olhar a arquitetura modernista na Serra Gaúcha",
+      "motivo": "descritiva + toponímico"
+    },
+    {
+      "id": "sdbr09-010",
+      "campo": "title",
+      "de": "Arquitectura moderna en La Obra pública",
+      "para": "Arquitectura moderna en la obra pública",
+      "motivo": "espanhol: la minúscula, obra genérico"
+    },
+    {
+      "id": "sdbr09-011",
+      "campo": "subtitle",
+      "de": "a transmissão da linhagem corbusiana Pela Escola Carioca",
+      "para": "a transmissão da linhagem corbusiana pela Escola Carioca",
+      "motivo": "pela preposição"
+    },
+    {
+      "id": "sdbr09-016",
+      "campo": "title",
+      "de": "Identidade e subjetividade na Obra de Fernando Távora",
+      "para": "Identidade e subjetividade na obra de Fernando Távora",
+      "motivo": "obra genérico"
+    },
+    {
+      "id": "sdbr09-018",
+      "campo": "subtitle",
+      "de": "notas sobre interferências das normas de financiamento do BNH no projeto de edifícios de Apartamentos paulistanos",
+      "para": "notas sobre interferências das normas de financiamento do BNH no projeto de edifícios de apartamentos paulistanos",
+      "motivo": "genérico + demônimo"
+    },
+    {
+      "id": "sdbr09-019",
+      "campo": "title",
+      "de": "Gestão do CODEPAC na preservação do Patrimônio Cultural",
+      "para": "Gestão do CODEPAC na preservação do patrimônio cultural",
+      "motivo": "termos genéricos"
+    },
+    {
+      "id": "sdbr09-019",
+      "campo": "subtitle",
+      "de": "Arquitetura Moderna em Bauru-SP",
+      "para": "arquitetura moderna em Bauru-SP",
+      "motivo": "subtítulo inicia minúscula; descritiva + toponímico"
+    },
+    {
+      "id": "sdbr09-021",
+      "campo": "title",
+      "de": "Nuevas formas y estructuras en La Arquitectura religiosa",
+      "para": "Nuevas formas y estructuras en la arquitectura religiosa",
+      "motivo": "espanhol: la minúscula, arquitectura genérico"
+    },
+    {
+      "id": "sdbr09-021",
+      "campo": "subtitle",
+      "de": "Enrique de La Mora y Félix Candela en San Luis Potosí",
+      "para": "Enrique de la Mora y Félix Candela en San Luis Potosí",
+      "motivo": "espanhol: de la minúscula em nome"
+    },
+    {
+      "id": "sdbr09-024",
+      "campo": "title",
+      "de": "A perda de um ícone do Movimento Moderno Carioca",
+      "para": "A perda de um ícone do Movimento Moderno carioca",
+      "motivo": "carioca demônimo"
+    },
+    {
+      "id": "sdbr09-025",
+      "campo": "title",
+      "de": "Migrações heterogêneas, superpovoamento e busca de oportunidades imediatas se contrapõem à Conservação do Patrimônio Arquitetônico de Brasília e reorientam o planejamento urbano no Distrito Federal",
+      "para": "Migrações heterogêneas, superpovoamento e busca de oportunidades imediatas se contrapõem à conservação do patrimônio arquitetônico de Brasília e reorientam o planejamento urbano no Distrito Federal",
+      "motivo": "conservação, patrimônio, arquitetônico genéricos"
+    },
+    {
+      "id": "sdbr09-028",
+      "campo": "title",
+      "de": "Autores y producción del Movimiento moderno en Mendoza Argentina (1930-1970)",
+      "para": "Autores y producción del Movimiento Moderno en Mendoza Argentina (1930-1970)",
+      "motivo": "Movimiento Moderno expressão consolidada (ES)"
+    },
+    {
+      "id": "sdbr09-030",
+      "campo": "title",
+      "de": "Articulaciones entre enseñanza, investigación y extensión para el conocimiento y registro de La Arquitectura moderna",
+      "para": "Articulaciones entre enseñanza, investigación y extensión para el conocimiento y registro de la arquitectura moderna",
+      "motivo": "espanhol: la minúscula, arquitectura genérico"
+    },
+    {
+      "id": "sdbr09-030",
+      "campo": "subtitle",
+      "de": "una experiencia en La Universidad nacional de Tucumán, Argentina",
+      "para": "una experiencia en la Universidad Nacional de Tucumán, Argentina",
+      "motivo": "espanhol: la minúscula; Universidad Nacional nome próprio"
+    },
+    {
+      "id": "sdbr09-031",
+      "campo": "title",
+      "de": "Valoración de La Arquitectura del siglo XX",
+      "para": "Valoración de la arquitectura del siglo XX",
+      "motivo": "espanhol: la minúscula, arquitectura genérico"
+    },
+    {
+      "id": "sdbr09-038",
+      "campo": "subtitle",
+      "de": "a cidade moderna dos anos 1950 e o Construtivismo",
+      "para": "a cidade moderna dos anos 1950 e o construtivismo",
+      "motivo": "movimento artístico genérico isolado (como modernismo)"
+    },
+    {
+      "id": "sdbr09-040",
+      "campo": "subtitle",
+      "de": "as Residências modernas na Serra Gaúcha — Brasil",
+      "para": "as residências modernas na Serra Gaúcha — Brasil",
+      "motivo": "genérico"
+    },
+    {
+      "id": "sdbr09-044",
+      "campo": "title",
+      "de": "Documentos da Arquitetura Moderna em Teresina, Piauí",
+      "para": "Documentos da arquitetura moderna em Teresina, Piauí",
+      "motivo": "descritiva + toponímico"
+    },
+    {
+      "id": "sdbr09-045",
+      "campo": "title",
+      "de": "O concreto na Arquitetura Moderna em Santos",
+      "para": "O concreto na arquitetura moderna em Santos",
+      "motivo": "descritiva + toponímico"
+    },
+    {
+      "id": "sdbr09-045",
+      "campo": "subtitle",
+      "de": "o caso do teatro municipal de Santos, um relato para registro e reflexões",
+      "para": "o caso do Teatro Municipal de Santos, um relato para registro e reflexões",
+      "motivo": "nome próprio de edifício"
+    },
+    {
+      "id": "sdbr09-046",
+      "campo": "title",
+      "de": "O Desenho da cidade",
+      "para": "O desenho da cidade",
+      "motivo": "desenho genérico"
+    },
+    {
+      "id": "sdbr09-046",
+      "campo": "subtitle",
+      "de": "indisciplinado, Sempre interdisciplinar",
+      "para": "indisciplinado, sempre interdisciplinar",
+      "motivo": "advérbio genérico"
+    },
+    {
+      "id": "sdbr09-053",
+      "campo": "title",
+      "de": "Quando Documentar não é suficiente",
+      "para": "Quando documentar não é suficiente",
+      "motivo": "verbo genérico"
+    },
+    {
+      "id": "sdbr09-053",
+      "campo": "subtitle",
+      "de": "Obras, datas, reflexões e construções teóricas",
+      "para": "obras, datas, reflexões e construções teóricas",
+      "motivo": "subtítulo inicia minúscula; obras genérico"
+    },
+    {
+      "id": "sdbr09-054",
+      "campo": "title",
+      "de": "O planejamento urbano, o Patrimônio Moderno e o valor de Contemporaneidade",
+      "para": "O planejamento urbano, o Patrimônio Moderno e o valor de contemporaneidade",
+      "motivo": "contemporaneidade genérico; Patrimônio Moderno consolidada"
+    },
+    {
+      "id": "sdbr09-055",
+      "campo": "subtitle",
+      "de": "reflexões sobre a trajetória da casa da rua Santa Cruz",
+      "para": "reflexões sobre a trajetória da casa da Rua Santa Cruz",
+      "motivo": "nome próprio de logradouro"
+    },
+    {
+      "id": "sdbr09-059",
+      "campo": "title",
+      "de": "El patrimonio efímero y La representación del trabajo",
+      "para": "El patrimonio efímero y la representación del trabajo",
+      "motivo": "espanhol: la minúscula"
+    },
+    {
+      "id": "sdbr09-063",
+      "campo": "subtitle",
+      "de": "a forma da residência moderna portuguesa e a sua influência nos Territórios brasileiro e africano",
+      "para": "a forma da residência moderna portuguesa e a sua influência nos territórios brasileiro e africano",
+      "motivo": "territórios genérico"
+    },
+    {
+      "id": "sdbr09-065",
+      "campo": "title",
+      "de": "Descobrindo o Art Déco no cemitério São João Batista",
+      "para": "Descobrindo o Art Déco no Cemitério São João Batista",
+      "motivo": "nome próprio de cemitério"
+    },
+    {
+      "id": "sdbr09-069",
+      "campo": "subtitle",
+      "de": "um breve balanço da consulta ao acervo da Comissão de gestão de Imóveis do IPESP",
+      "para": "um breve balanço da consulta ao acervo da Comissão de Gestão de Imóveis do IPESP",
+      "motivo": "nome próprio de instituição"
+    },
+    {
+      "id": "sdbr09-071",
+      "campo": "title",
+      "de": "Sobre o edifício a Tarde",
+      "para": "Sobre o edifício A Tarde",
+      "motivo": "A Tarde nome próprio (jornal/edifício)"
+    },
+    {
+      "id": "sdbr09-074",
+      "campo": "title",
+      "de": "Lucio Costa - Obra completa",
+      "para": "Lucio Costa — obra completa",
+      "motivo": "obra genérico; travessão em vez de hífen"
+    },
+    {
+      "id": "sdbr09-075",
+      "campo": "subtitle",
+      "de": "análise sintática de Residências unifamiliares em João Pessoa",
+      "para": "análise sintática de residências unifamiliares em João Pessoa",
+      "motivo": "genérico"
+    },
+    {
+      "id": "sdbr09-076",
+      "campo": "subtitle",
+      "de": "a contribuição do Curso de arquitetura da ENBA",
+      "para": "a contribuição do Curso de Arquitetura da ENBA",
+      "motivo": "nome próprio de programa acadêmico"
+    },
+    {
+      "id": "sdbr09-077",
+      "campo": "subtitle",
+      "de": "o abrigo e o Monumento do carnaval das escolas de Samba do Rio de Janeiro",
+      "para": "o abrigo e o monumento do carnaval das escolas de samba do Rio de Janeiro",
+      "motivo": "monumento, samba genéricos"
+    },
+    {
+      "id": "sdbr09-078",
+      "campo": "title",
+      "de": "Arquitetura Moderna na sede campestre da Tuna Luso brasileira em Belém do Pará",
+      "para": "Arquitetura moderna na sede campestre da Tuna Luso Brasileira em Belém do Pará",
+      "motivo": "descritiva + toponímico; Tuna Luso Brasileira nome próprio"
+    },
+    {
+      "id": "sdbr09-079",
+      "campo": "title",
+      "de": "A experiência de Conservação do Iate Tênis clube da Pampulha como indicador da importância da abordagem contextual",
+      "para": "A experiência de conservação do Iate Tênis Clube da Pampulha como indicador da importância da abordagem contextual",
+      "motivo": "conservação genérico; Clube nome próprio"
+    },
+    {
+      "id": "sdbr09-080",
+      "campo": "title",
+      "de": "Diálogos entre arquitetura e educação na Arquitetura Escolar moderna",
+      "para": "Diálogos entre arquitetura e educação na arquitetura escolar moderna",
+      "motivo": "arquitetura escolar não é expressão consolidada"
+    },
+    {
+      "id": "sdbr09-082",
+      "campo": "title",
+      "de": "La documentación de La intervención de Burle Marx en el Paseo de Copacabana",
+      "para": "La documentación de la intervención de Burle Marx en el Paseo de Copacabana",
+      "motivo": "espanhol: la minúscula (não primeira palavra)"
+    },
+    {
+      "id": "sdbr09-082",
+      "campo": "subtitle",
+      "de": "lecturas para La protección de un patrimonio paisajístico moderno",
+      "para": "lecturas para la protección de un patrimonio paisajístico moderno",
+      "motivo": "espanhol: la minúscula"
+    },
+    {
+      "id": "sdbr09-083",
+      "campo": "title",
+      "de": "Arquitetura Moderna e contemporânea em Belém",
+      "para": "Arquitetura moderna e contemporânea em Belém",
+      "motivo": "descritiva + toponímico"
+    },
+    {
+      "id": "sdbr09-084",
+      "campo": "title",
+      "de": "Escritório forte Gandolfi",
+      "para": "Escritório Forte Gandolfi",
+      "motivo": "nome próprio de escritório"
+    },
+    {
+      "id": "sdbr09-084",
+      "campo": "subtitle",
+      "de": "um registro da sua produção Arquitetônica (1962-1973)",
+      "para": "um registro da sua produção arquitetônica (1962-1973)",
+      "motivo": "adjetivo genérico"
+    },
+    {
+      "id": "sdbr09-085",
+      "campo": "subtitle",
+      "de": "o Gabinete de urbanização colonial e a habitação nas regiões tropicais",
+      "para": "o Gabinete de Urbanização Colonial e a habitação nas regiões tropicais",
+      "motivo": "nome próprio de instituição"
+    },
+    {
+      "id": "sdbr09-086",
+      "campo": "title",
+      "de": "Caminhos da Arquitetura Moderna em Fortaleza",
+      "para": "Caminhos da arquitetura moderna em Fortaleza",
+      "motivo": "descritiva + toponímico"
+    },
+    {
+      "id": "sdbr09-086",
+      "campo": "subtitle",
+      "de": "a contribuição do Professor Arquiteto José Liberal de Castro",
+      "para": "a contribuição do professor arquiteto José Liberal de Castro",
+      "motivo": "títulos profissionais genéricos"
+    },
+    {
+      "id": "sdbr09-088",
+      "campo": "title",
+      "de": "Restauração do conjunto residencial prefeito Mendes de Moraes - Pedregulho",
+      "para": "Restauração do Conjunto Residencial Prefeito Mendes de Moraes — Pedregulho",
+      "motivo": "nome próprio de conjunto habitacional; travessão"
+    },
+    {
+      "id": "sdbr09-089",
+      "campo": "title",
+      "de": "O papel do museólogo na consolidação do documento histórico em Patrimônio Cultural",
+      "para": "O papel do museólogo na consolidação do documento histórico em patrimônio cultural",
+      "motivo": "termos genéricos"
+    },
+    {
+      "id": "sdbr09-090",
+      "campo": "subtitle",
+      "de": "critérios para documentação da Arquitetura Moderna no Nordeste, 1930-1980",
+      "para": "critérios para documentação da arquitetura moderna no Nordeste, 1930-1980",
+      "motivo": "descritiva + toponímico"
+    },
+    {
+      "id": "sdbr09-092",
+      "campo": "title",
+      "de": "Una Obra olvidada de La modernidad arquitectónica española",
+      "para": "Una obra olvidada de la modernidad arquitectónica española",
+      "motivo": "espanhol: la minúscula, obra genérico"
+    },
+    {
+      "id": "sdbr09-092",
+      "campo": "subtitle",
+      "de": "La embajada de España en Brasilia",
+      "para": "la embajada de España en Brasilia",
+      "motivo": "subtítulo inicia minúscula (espanhol)"
+    },
+    {
+      "id": "sdbr09-095",
+      "campo": "subtitle",
+      "de": "um estudo das visões de Lúcio Costa sobre o espaço universitário",
+      "para": "um estudo das visões de Lucio Costa sobre o espaço universitário",
+      "motivo": "Lucio Costa sem acento (convenção)"
+    },
+    {
+      "id": "sdbr09-098",
+      "campo": "title",
+      "de": "Lina Bo Bardi é o museu Imaginário de André Malraux",
+      "para": "Lina Bo Bardi é o Museu Imaginário de André Malraux",
+      "motivo": "Museu Imaginário conceito próprio (Le Musée imaginaire)"
+    },
+    {
+      "id": "sdbr09-100",
+      "campo": "title",
+      "de": "As Obras do plano de edificações escolares de Anísio Teixeira e a Arquitetura Moderna na Bahia (1947-1950)",
+      "para": "As obras do plano de edificações escolares de Anísio Teixeira e a arquitetura moderna na Bahia (1947-1950)",
+      "motivo": "obras genérico; descritiva + toponímico"
+    },
+    {
+      "id": "sdbr09-101",
+      "campo": "title",
+      "de": "Construtores estrangeiros e a produção Arquitetônica moderna no Bom Retiro (1950-1970)",
+      "para": "Construtores estrangeiros e a produção arquitetônica moderna no Bom Retiro (1950-1970)",
+      "motivo": "adjetivo genérico"
+    },
+    {
+      "id": "sdbr09-102",
+      "campo": "title",
+      "de": "Grades de Ferro ornamentais em Belo Horizonte",
+      "para": "Grades de ferro ornamentais em Belo Horizonte",
+      "motivo": "material genérico"
+    },
+    {
+      "id": "sdbr09-103",
+      "campo": "subtitle",
+      "de": "a Obra de Aristides Salgado",
+      "para": "a obra de Aristides Salgado",
+      "motivo": "obra genérico"
+    },
+    {
+      "id": "sdbr09-105",
+      "campo": "title",
+      "de": "A Obra de Raphael Hardy Filho em Araxá-MG",
+      "para": "A obra de Raphael Hardy Filho em Araxá-MG",
+      "motivo": "obra genérico"
+    },
+    {
+      "id": "sdbr09-106",
+      "campo": "title",
+      "de": "Quanto Vale um Patrimônio Cultural?",
+      "para": "Quanto vale um patrimônio cultural?",
+      "motivo": "vale verbo, patrimônio cultural genéricos"
+    },
+    {
+      "id": "sdbr09-108",
+      "campo": "title",
+      "de": "Registro da rede social dos projetistas do Concurso do Plano Piloto para Brasília",
+      "para": "Registro da rede social dos projetistas do concurso do Plano Piloto para Brasília",
+      "motivo": "concurso genérico; Plano Piloto nome próprio"
+    },
+    {
+      "id": "sdbr09-109",
+      "campo": "title",
+      "de": "As propostas de Ensino de Anísio Teixeira e os projetos de José de Souza Reis para a Arquitetura Escolar de Brasília",
+      "para": "As propostas de ensino de Anísio Teixeira e os projetos de José de Souza Reis para a arquitetura escolar de Brasília",
+      "motivo": "ensino genérico; arquitetura escolar genérico + toponímico"
+    },
+    {
+      "id": "sdbr09-110",
+      "campo": "subtitle",
+      "de": "influência de Frank Lloyd Wright na Arquitetura Moderna religiosa em São Paulo",
+      "para": "influência de Frank Lloyd Wright na arquitetura moderna religiosa em São Paulo",
+      "motivo": "descritiva + toponímico"
+    },
+    {
+      "id": "sdbr09-113",
+      "campo": "subtitle",
+      "de": "arquivos de uma experiência Arquitetônica",
+      "para": "arquivos de uma experiência arquitetônica",
+      "motivo": "adjetivo genérico"
+    },
+    {
+      "id": "sdbr09-115",
+      "campo": "title",
+      "de": "Silos, Barcos y readymades",
+      "para": "Silos, barcos y readymades",
+      "motivo": "espanhol: barcos não é primeira palavra"
+    },
+    {
+      "id": "sdbr09-116",
+      "campo": "subtitle",
+      "de": "Jardim de infância Ana Rosa Falcão de Carvalho",
+      "para": "Jardim de Infância Ana Rosa Falcão de Carvalho",
+      "motivo": "nome próprio de instituição"
+    },
+    {
+      "id": "sdbr09-117",
+      "campo": "subtitle",
+      "de": "relato da experiência e Intervenção",
+      "para": "relato da experiência e intervenção",
+      "motivo": "intervenção genérico"
+    },
+    {
+      "id": "sdbr09-120",
+      "campo": "title",
+      "de": "9º seminário DOCOMOMO Brasil",
+      "para": "9º Seminário DOCOMOMO Brasil",
+      "motivo": "nome próprio de evento"
+    },
+    {
+      "id": "sdbr09-122",
+      "campo": "title",
+      "de": "O caráter de três casas Modernistas na av. Washington Luiz em Presidente Prudente-SP",
+      "para": "O caráter de três casas modernistas na av. Washington Luiz em Presidente Prudente-SP",
+      "motivo": "modernistas adjetivo genérico"
+    },
+    {
+      "id": "sdbr09-124",
+      "campo": "subtitle",
+      "de": "projeto de pesquisa \"arquivo histórico municipal Washington Luís — a cidade de São Paulo e sua arquitetura\"",
+      "para": "projeto de pesquisa \"Arquivo Histórico Municipal Washington Luís — a cidade de São Paulo e sua arquitetura\"",
+      "motivo": "nome próprio de instituição (dentro de aspas)"
+    },
+    {
+      "id": "sdbr09-127",
+      "campo": "title",
+      "de": "Preservação do patrimônio e formação da área Metropolitana de Brasília",
+      "para": "Preservação do patrimônio e formação da área metropolitana de Brasília",
+      "motivo": "metropolitana adjetivo genérico"
+    },
+    {
+      "id": "sdbr09-129",
+      "campo": "title",
+      "de": "Políticas de preservação do conjunto urbanístico de Brasília e de desenvolvimento territorial e urbano da área Metropolitana de Brasília",
+      "para": "Políticas de preservação do conjunto urbanístico de Brasília e de desenvolvimento territorial e urbano da área metropolitana de Brasília",
+      "motivo": "metropolitana adjetivo genérico"
+    },
+    {
+      "id": "sdbr09-130",
+      "campo": "subtitle",
+      "de": "Arquiteto moderno",
+      "para": "arquiteto moderno",
+      "motivo": "subtítulo inicia minúscula; título profissional genérico"
+    },
+    {
+      "id": "sdbr09-132",
+      "campo": "subtitle",
+      "de": "reflexiones sobre La relación Arquitectura y estado en La Argentina peronista",
+      "para": "reflexiones sobre la relación arquitectura y Estado en la Argentina peronista",
+      "motivo": "espanhol: la minúscula; arquitectura genérico; Estado conceito político"
+    },
+    {
+      "id": "sdbr09-133",
+      "campo": "title",
+      "de": "Plano urbanístico da Baía de Vitória, por Paulo Mendes da Rocha",
+      "para": "Plano Urbanístico da Baía de Vitória, por Paulo Mendes da Rocha",
+      "motivo": "nome próprio de plano urbanístico"
+    },
+    {
+      "id": "sdbr09-135",
+      "campo": "title",
+      "de": "Duas casas, a mesma Orla marítima, os mesmos Arquitetos, dois mundos",
+      "para": "Duas casas, a mesma orla marítima, os mesmos arquitetos, dois mundos",
+      "motivo": "orla e arquitetos genéricos"
+    },
+    {
+      "id": "sdbr09-137",
+      "campo": "title",
+      "de": "A Arquitetura Escolar na Serra Gaúcha no contexto da Modernidade",
+      "para": "A arquitetura escolar na Serra Gaúcha no contexto da Modernidade",
+      "motivo": "arquitetura escolar genérico + toponímico"
+    },
+    {
+      "id": "sdbr09-138",
+      "campo": "title",
+      "de": "Preservación del patrimonio Edificado del siglo XX",
+      "para": "Preservación del patrimonio edificado del siglo XX",
+      "motivo": "espanhol: edificado genérico"
+    },
+    {
+      "id": "sdbr09-138",
+      "campo": "subtitle",
+      "de": "caso de estudio: el Palacio de Bellas Artes de La Ciudad de México",
+      "para": "caso de estudio: el Palacio de Bellas Artes de la Ciudad de México",
+      "motivo": "espanhol: la minúscula"
+    },
+    {
+      "id": "sdbr09-139",
+      "campo": "title",
+      "de": "Ecos de Samba",
+      "para": "Ecos de samba",
+      "motivo": "samba genérico"
+    },
+    {
+      "id": "sdbr09-139",
+      "campo": "subtitle",
+      "de": "el papel de Brasil en La puesta AL día de La Arquitectura española con La internacional (1950-1965)",
+      "para": "el papel de Brasil en la puesta al día de la arquitectura española con la internacional (1950-1965)",
+      "motivo": "espanhol: la/al minúsculas, arquitectura genérico"
+    },
+    {
+      "id": "sdbr09-140",
+      "campo": "title",
+      "de": "A experiência do museu de arte de São Paulo",
+      "para": "A experiência do Museu de Arte de São Paulo",
+      "motivo": "MASP nome próprio de instituição"
+    },
+    {
+      "id": "sdbr09-140",
+      "campo": "subtitle",
+      "de": "a ação de Arquitetos e artistas estrangeiros na Modernidade Paulista",
+      "para": "a ação de arquitetos e artistas estrangeiros na Modernidade paulista",
+      "motivo": "arquitetos título profissional; paulista demônimo"
+    },
+    {
+      "id": "sdbr09-142",
+      "campo": "subtitle",
+      "de": "documentações, conexões, críticas — detalhes São coisas muito grandes pra esquecer",
+      "para": "documentações, conexões, críticas — detalhes são coisas muito grandes pra esquecer",
+      "motivo": "são verbo"
+    },
+    {
+      "id": "sdbr09-143",
+      "campo": "subtitle",
+      "de": "Residências modernas",
+      "para": "residências modernas",
+      "motivo": "subtítulo inicia minúscula; genérico"
+    },
+    {
+      "id": "sdbr09-145",
+      "campo": "subtitle",
+      "de": "expansão Metropolitana: o desafio da gestão das grandes cidades",
+      "para": "expansão metropolitana: o desafio da gestão das grandes cidades",
+      "motivo": "metropolitana adjetivo genérico"
+    },
+    {
+      "id": "sdbr09-152",
+      "campo": "title",
+      "de": "Medo de ser moderno e Outros medos",
+      "para": "Medo de ser moderno e outros medos",
+      "motivo": "outros genérico"
+    },
+    {
+      "id": "sdbr09-155",
+      "campo": "title",
+      "de": "A formação do Arquiteto e o patrimônio recente",
+      "para": "A formação do arquiteto e o patrimônio recente",
+      "motivo": "título profissional genérico"
+    },
+    {
+      "id": "sdbr09-156",
+      "campo": "title",
+      "de": "Capacitação em Conservação da Arquitetura Moderna",
+      "para": "Capacitação em conservação da Arquitetura Moderna",
+      "motivo": "conservação genérico; Arquitetura Moderna conceito"
+    },
+    {
+      "id": "sdbr09-160",
+      "campo": "title",
+      "de": "A função social da propriedade & o plano diretor",
+      "para": "A função social da propriedade & o Plano Diretor",
+      "motivo": "Plano Diretor instrumento urbanístico próprio"
+    },
+    {
+      "id": "sdbr09-165",
+      "campo": "title",
+      "de": "Uma Intervenção controvertida",
+      "para": "Uma intervenção controvertida",
+      "motivo": "intervenção genérico"
+    },
+    {
+      "id": "sdbr09-166",
+      "campo": "title",
+      "de": "Instituto Lina Bo e p. m. Bardi 2011",
+      "para": "Instituto Lina Bo e P. M. Bardi 2011",
+      "motivo": "iniciais de nome próprio (Pietro Maria)"
+    },
+    {
+      "id": "sdbr09-167",
+      "campo": "title",
+      "de": "Uma casa, alguns desenhos e Algumas Cartas",
+      "para": "Uma casa, alguns desenhos e algumas cartas",
+      "motivo": "genéricos"
+    },
+    {
+      "id": "sdbr09-169",
+      "campo": "title",
+      "de": "Recepção e difusão da Arquitetura Moderna Brasileira nos números Especiais das revistas especializadas européias (1940-1960)",
+      "para": "Recepção e difusão da Arquitetura Moderna Brasileira nos números especiais das revistas especializadas européias (1940-1960)",
+      "motivo": "especiais adjetivo genérico; AMB consolidada"
+    },
+    {
+      "id": "sdbr09-170",
+      "campo": "title",
+      "de": "Archimedes memória",
+      "para": "Archimedes Memória",
+      "motivo": "Memória é sobrenome (arquiteto brasileiro)"
+    }
+  ],
+  "dict_additions": {
+    "nomes": [
+      "Tochetto",
+      "Medaglia"
+    ],
+    "expressoes": [],
+    "remover": []
+  },
+  "padroes_confirmados": [
+    "Artigos em espanhol: 'la' minúscula (exceto primeira palavra)",
+    "Construtivismo isolado: minúscula (como modernismo)",
+    "Plano Diretor: maiúscula (instrumento urbanístico estatutário)",
+    "Museu Imaginário de André Malraux: maiúscula (conceito próprio)",
+    "Archimedes Memória: sobrenome com maiúscula"
+  ]
+}

@@ -1,17 +1,17 @@
 {
   "slug": "sdsul03",
-  "date": "2026-03-21",
+  "date": "2026-03-22",
   "total_articles": 39,
   "profile": {
     "total": 39,
     "locale_es": 3,
-    "abstract": 35,
+    "abstract": 32,
     "abstract_en": 29,
-    "abstract_es": 0,
-    "keywords": 30,
+    "abstract_es": 3,
+    "keywords": 27,
     "keywords_en": 24,
-    "keywords_es": 0,
-    "references_": 33
+    "keywords_es": 3,
+    "references_": 34
   },
   "auto_fixed": [],
   "issues": [
@@ -25,6 +25,76 @@
       "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
     },
     {
+      "check": "A13",
+      "article_id": "sdsul03-010",
+      "field": "references_",
+      "severity": "info",
+      "auto_fixable": false,
+      "ref_index": 12,
+      "detail": "URL órfã: \"http://thefunkybachelor.wordpress.com/2009/08/05/venetian-blinds-history/\"",
+      "suggestion": "Juntar à ref anterior ou verificar se é ref válida"
+    },
+    {
+      "check": "A13",
+      "article_id": "sdsul03-010",
+      "field": "references_",
+      "severity": "info",
+      "auto_fixable": false,
+      "ref_index": 13,
+      "detail": "URL órfã: \"http://searchwarp.com/swa9820.htm\"",
+      "suggestion": "Juntar à ref anterior ou verificar se é ref válida"
+    },
+    {
+      "check": "A13",
+      "article_id": "sdsul03-010",
+      "field": "references_",
+      "severity": "info",
+      "auto_fixable": false,
+      "ref_index": 14,
+      "detail": "URL órfã: \"http://www.uk-conservatories-online.co.uk\"",
+      "suggestion": "Juntar à ref anterior ou verificar se é ref válida"
+    },
+    {
+      "check": "A13",
+      "article_id": "sdsul03-010",
+      "field": "references_",
+      "severity": "info",
+      "auto_fixable": false,
+      "ref_index": 15,
+      "detail": "URL órfã: \"http://www.content4reprint.com/view/spanish-77498.htm\"",
+      "suggestion": "Juntar à ref anterior ou verificar se é ref válida"
+    },
+    {
+      "check": "A13",
+      "article_id": "sdsul03-010",
+      "field": "references_",
+      "severity": "info",
+      "auto_fixable": false,
+      "ref_index": 16,
+      "detail": "URL órfã: \"http://www.mae.ncsu.edu/silverberg/AdaptiveShading/history.htm\"",
+      "suggestion": "Juntar à ref anterior ou verificar se é ref válida"
+    },
+    {
+      "check": "A13",
+      "article_id": "sdsul03-010",
+      "field": "references_",
+      "severity": "info",
+      "auto_fixable": false,
+      "ref_index": 17,
+      "detail": "URL órfã: \"http://www.persianascoelho.com.br/HISTORIAPERSIANA.htm\"",
+      "suggestion": "Juntar à ref anterior ou verificar se é ref válida"
+    },
+    {
+      "check": "A13",
+      "article_id": "sdsul03-010",
+      "field": "references_",
+      "severity": "info",
+      "auto_fixable": false,
+      "ref_index": 19,
+      "detail": "URL órfã: \"http://question-speciale-materialisation.blogspot.com/2009_11_01_archive.html\"",
+      "suggestion": "Juntar à ref anterior ou verificar se é ref válida"
+    },
+    {
       "check": "A01",
       "article_id": "sdsul03-013",
       "field": "keywords_en",
@@ -34,76 +104,13 @@
       "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
     },
     {
-      "check": "A19",
-      "article_id": "sdsul03-013",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract_en: possível truncamento (termina com \"...ó, projeto de 1967, cujo pátio singular,\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
-    {
       "check": "A01",
-      "article_id": "sdsul03-020",
-      "field": "keywords_en",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract_en presente mas keywords_en faltando",
-      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
-    },
-    {
-      "check": "A19",
-      "article_id": "sdsul03-020",
-      "field": "abstract",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract: possível truncamento (termina com \"..., Mendoza, Rosario). Desde esta posición\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
-    {
-      "check": "A19",
-      "article_id": "sdsul03-020",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract_en: possível truncamento (termina com \"..., Mendoza, Rosario). Desde esta posición\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
-    {
-      "check": "A14",
-      "article_id": "sdsul03-021",
-      "field": "abstract",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract: contém email",
-      "suggestion": "Verificar e limpar o abstract"
-    },
-    {
-      "check": "A19",
-      "article_id": "sdsul03-021",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract_en: possível truncamento (termina com \"... quotation from Seneca, Bernard Rudofsky\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
-    {
-      "check": "A19",
-      "article_id": "sdsul03-026",
-      "field": "abstract",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract: possível truncamento (termina com \"...inaptidão para matemática, sua família o\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
-    {
-      "check": "A14",
       "article_id": "sdsul03-029",
-      "field": "abstract",
+      "field": "keywords_en",
       "severity": "warning",
       "auto_fixable": false,
-      "detail": "abstract: contém email",
-      "suggestion": "Verificar e limpar o abstract"
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
     },
     {
       "check": "A01",
@@ -122,41 +129,7 @@
       "auto_fixable": false,
       "detail": "abstract_en presente mas keywords_en faltando",
       "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
-    },
-    {
-      "check": "A19",
-      "article_id": "sdsul03-038",
-      "field": "abstract",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract: possível truncamento (termina com \"...tapa de la Primera Modernidad, en que se\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
-    {
-      "check": "A19",
-      "article_id": "sdsul03-039",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract_en: possível truncamento (termina com \"...o a wooden bangalow of seasonal use, was\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
     }
   ],
-  "category_b_candidates": [
-    {
-      "article_id": "sdsul03-021",
-      "checks_flagged": [
-        "A14",
-        "A19"
-      ],
-      "reason": "abstract: contém email"
-    },
-    {
-      "article_id": "sdsul03-029",
-      "checks_flagged": [
-        "A14"
-      ],
-      "reason": "abstract: contém email"
-    }
-  ]
+  "category_b_candidates": []
 }

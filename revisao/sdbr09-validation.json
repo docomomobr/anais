@@ -1,0 +1,437 @@
+{
+  "slug": "sdbr09",
+  "date": "2026-03-15",
+  "total_articles": 146,
+  "profile": {
+    "total": 146,
+    "locale_es": 14,
+    "abstract": 144,
+    "abstract_en": 132,
+    "abstract_es": 3,
+    "keywords": 142,
+    "keywords_en": 117,
+    "keywords_es": 1,
+    "references_": 142
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A01",
+      "article_id": "sdbr09-003",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr09-005",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 13,
+      "detail": "Ref muito longa (605 chars), possível concatenação: \"SISSON, Rachel. Marcos Históricos e configurações espaciais: um estudo de caso: ...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr09-006",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 22,
+      "detail": "Ref muito longa (753 chars), possível concatenação: \"Segre, Roberto. América Latina Fim de Milênio:raízes e perspectivas de sua arqui...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-009",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-018",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A03",
+      "article_id": "sdbr09-021",
+      "field": "keywords_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_es presente mas keywords_es faltando",
+      "suggestion": "Extrair keywords_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-024",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr09-027",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr09-030",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 2,
+      "detail": "Ref muito longa (553 chars), possível concatenação: \"Paterlini, Olga, Nancy Mozzi, Susana Villavicencio, Sofía Viaña, Raimundo Rubio,...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-032",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr09-035",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 11,
+      "detail": "Ref muito longa (598 chars), possível concatenação: \"Sítios internet http://www.revistaau.com.br/arquitetura-urbanismo/176/artigo1165...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdbr09-037",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...ifies the academic production and actual\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-039",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-048",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-049",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdbr09-050",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...mento of the significance of the natural\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-051",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-052",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-079",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr09-079",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 3,
+      "detail": "Ref muito longa (584 chars), possível concatenação: \"ALVES, Castro. Navio negreiro. [S.l.]: Virtual Books, 2000. Disponível em: <http...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr09-082",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr09-085",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 9,
+      "detail": "Ref muito longa (578 chars), possível concatenação: \"Landerset, Jacques Filipe Corte-Real. Relatórios [referentes aos meses de Maio d...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr09-092",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdbr09-100",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...lly referenced in the carioca production\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdbr09-103",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...a Arquitetura e a do oficio do arquiteto\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-107",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-111",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A03",
+      "article_id": "sdbr09-115",
+      "field": "keywords_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_es presente mas keywords_es faltando",
+      "suggestion": "Extrair keywords_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A07",
+      "article_id": "sdbr09-115",
+      "field": "abstract_en",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Abstract\" encontrado no fontes/ mas abstract_en vazio",
+      "suggestion": "Rodar extrair_metadados_en.py --force ou extrair manualmente"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-118",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr09-121",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr09-121",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 8,
+      "detail": "Ref muito longa (831 chars), possível concatenação: \"Van Riel, Silvio, Aidolfi, Alberto (a cura di), La conservazione dell’architettu...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-124",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdbr09-124",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...ologies to the old architectural records\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A14",
+      "article_id": "sdbr09-127",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: contém email",
+      "suggestion": "Verificar e limpar o abstract"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr09-138",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr09-152",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdbr09-165",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A07",
+      "article_id": "sdbr09-165",
+      "field": "abstract_en",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Abstract\" encontrado no fontes/ mas abstract_en vazio",
+      "suggestion": "Rodar extrair_metadados_en.py --force ou extrair manualmente"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdbr09-005",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (605 chars), possível concatenação: \"SISSON, Rachel. Marcos Históricos e configurações espaciais: um estudo de caso: ...\""
+    },
+    {
+      "article_id": "sdbr09-006",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (753 chars), possível concatenação: \"Segre, Roberto. América Latina Fim de Milênio:raízes e perspectivas de sua arqui...\""
+    },
+    {
+      "article_id": "sdbr09-030",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (553 chars), possível concatenação: \"Paterlini, Olga, Nancy Mozzi, Susana Villavicencio, Sofía Viaña, Raimundo Rubio,...\""
+    },
+    {
+      "article_id": "sdbr09-035",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (598 chars), possível concatenação: \"Sítios internet http://www.revistaau.com.br/arquitetura-urbanismo/176/artigo1165...\""
+    },
+    {
+      "article_id": "sdbr09-079",
+      "checks_flagged": [
+        "A01",
+        "A11"
+      ],
+      "reason": "Ref muito longa (584 chars), possível concatenação: \"ALVES, Castro. Navio negreiro. [S.l.]: Virtual Books, 2000. Disponível em: <http...\""
+    },
+    {
+      "article_id": "sdbr09-085",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (578 chars), possível concatenação: \"Landerset, Jacques Filipe Corte-Real. Relatórios [referentes aos meses de Maio d...\""
+    },
+    {
+      "article_id": "sdbr09-121",
+      "checks_flagged": [
+        "A09",
+        "A11"
+      ],
+      "reason": "Ref muito longa (831 chars), possível concatenação: \"Van Riel, Silvio, Aidolfi, Alberto (a cura di), La conservazione dell’architettu...\""
+    },
+    {
+      "article_id": "sdbr09-127",
+      "checks_flagged": [
+        "A14"
+      ],
+      "reason": "abstract: contém email"
+    }
+  ]
+}

@@ -1,0 +1,1522 @@
+author_id,nome_db,orcid,nome_orcid,veredito,sinais_arquitetura,termos
+8,Célia Helena Castro Gonsales,0000-0002-9249-1390,Célia Gonsales,ok,6,"cidade, city, habitacao, housing, urban, urbana"
+11,Cybelle Salvador Miranda,0009-0000-7653-4445,Cybelle Albuquerque de Miranda,sem_dados,0,
+13,Daniel Juracy Mellado Paz,0000-0002-2119-5850,Daniel Juracy Mellado Paz,sem_dados,0,
+17,Fernando Diniz Moreira,0000-0002-1387-4036,Fernando Diniz Moreira,ok,8,"architect, arquitet, cidade, design, edificio, patrimonio"
+20,Andrey Rosenthal Schlee,0000-0003-1190-4534,Andrey Rosenthal Schlee,sem_dados,0,
+23,Josemary Omena Passos Ferrare,0000-0003-3828-3563,Josemary Ferrare,sem_dados,0,
+24,José Almir Farias Filho,0000-0002-7781-4614,José Almir Farias Filho,ok,8,"arquitet, cidade, construcao, patrimonio, urban, urbana"
+25,Jéssica Lopes Gualter de Castro Santos,0000-0003-1534-8192,Jessica Castro dos Santos,area_suspeita,0,
+26,Lineu Castello,0000-0003-2034-3599,LINEU CASTELLO,sem_dados,0,
+31,Paulo José Lisboa Nobre,0000-0003-4089-9252,PAULO NOBRE,area_suspeita,0,
+36,Ricardo Alexandre Paiva,0000-0002-0332-097X,RICARDO ALEXANDRE PAIVA,ok,13,"architect, arquitet, cidade, city, construcao, design"
+37,Rodrigo Miranda Feitosa,0009-0000-9120-1841,Rodrigo Miranda Feitosa,area_suspeita,0,
+38,Grete Soares - Pflueger,0000-0002-9376-8689,GRETE PFLUEGER,ok,9,"arquitet, cidade, construcao, mdu, patrimonio, urban"
+39,Ruth Verde Zein,0000-0003-0923-4914,Ruth Verde Zein,ok,2,"architect, arquitet"
+41,Tânia Beisl Ramos,0000-0002-6102-7288,Tânia Beisl Ramos,ok,11,"architect, arquitet, cidade, construcao, design, habitacao"
+42,Madalena Cunha Matos,0000-0003-1779-3855,Madalena Matos,ok,12,"architect, arquitet, design, habitacao, housing, landscape"
+44,Vanine Borges Amaral,0000-0002-7392-9932,Vanine Borges Amaral,ok,1,heritage
+48,Thaís Campos da Fonseca Luna,0009-0001-7138-4449,Thaís Luna,area_suspeita,0,
+49,Guilah Naslavsky,0000-0003-3367-9657,Guilah Naslavsky,ok,7,"architect, arquitet, docomomo, habitacao, modernismo, urban"
+50,Bruno Melo Braga,0009-0002-3140-2195,Bruno Melo Braga,ok,1,arquitet
+52,Igor Lima Ribeiro,0000-0002-4971-9484,Igor Ribeiro,sem_dados,0,
+54,Natan Pinheiro de Araújo Filho,0000-0002-0386-183X,Natan Pinheiro de Araújo Filho,area_suspeita,0,
+56,Patricia Ataíde Solon de Oliveira,0000-0002-0258-0307,Patricia Ataíde Solon de Oliveira,sem_dados,0,
+57,Marcos Venicius Pinto de Lima,0000-0002-0332-2721,Marcos Venicius Malveira de Lima,area_suspeita,0,
+60,Thais Alessandra Bastos Caminha Sanjad,0000-0002-3811-9782,Thais Sanjad,ok,5,"arquitet, patrimonio, restauro, urban, urbanis"
+62,Carlos Alberto Ferreira Martins,0000-0003-4321-2057,Carlos Alberto Ferreira Martins,area_suspeita,0,
+63,Nayane Áurea Santiago Costa,0000-0001-5354-0519,Nayane Santos Costa,sem_dados,0,
+65,Eloane de Jesus Ramos Cantuária,0000-0003-4918-7702,Eloane Cantuária,area_suspeita,0,
+69,Juliana Cardoso Nery,0000-0002-8476-5339,Juliana Cardoso Nery,area_suspeita,0,
+70,Zilsa Maria Pinto Santiago,0000-0001-9980-4954,Zilsa Maria Santiago,ok,8,"arquitet, cidade, design, housing, patrimonio, urban"
+71,Thaise Gambarra Soares,0000-0003-2764-4247,Thaise Gambarra Soares,ok,6,"architect, patrimonio, urban, urbana, urbanis, urbano"
+72,Maria Macarena Cortés Darrigrande,0000-0002-1510-342X,Macarena Cortes Darrigrande,sem_dados,0,
+76,Emanuelle Albuquerque de Oliveira,0000-0002-3863-7491,Emanuelle Beserra,SUSPEITO,0,
+78,Andréa Soler Machado,0000-0003-0243-7946,Andréa Machado Leal Ribeiro,area_suspeita,0,
+79,Betina Tschiedel Martau,0000-0001-6440-8126,Betina Tschiedel Martau,ok,2,"architect, urban"
+81,Uta Pottgiesser,0000-0002-8594-3168,Uta Pottgiesser,ok,5,"architect, city, design, heritage, landscape"
+84,Eduardo Pierrotti Rossetti,0000-0002-0678-1659,Eduardo Rossetti,sem_dados,0,
+85,Luiz Manuel do Eirado Amorim,0000-0003-0393-6106,Luiz Amorim,ok,9,"architect, arquitet, built environment, cidade, design, edificio"
+87,Plínio Renan Gonçalves da Silveira,0000-0001-6159-8585,Plínio Renan Gonçalves da Silveira,sem_dados,0,
+88,Pedro Tarcio Pereira Mergulhão,0000-0003-2151-4716,Pedro Tarcio Pereira Mergulhão,sem_dados,0,
+89,Thalita Lins do Nascimento,0000-0001-8410-5501,Thalita Cristina Brito Nascimento,area_suspeita,0,
+91,Carolina Marques Chaves Galvão,0000-0001-9444-3424,Carolina Marques Chaves Galvão,area_suspeita,0,
+92,Fernando de Medeiros Galvão,0000-0003-4174-9264,Fernando de Medeiros Galvão,ok,1,patrimonio
+95,Evillyn Biazatti de Araújo,0000-0003-0295-1283,Evillyn Biazatti de Araujo,ok,5,"architect, arquitet, design, urban, urbanis"
+99,Ana Frigeri,0000-0003-0121-7300,Ana Vittori Frigeri,ok,7,"arquitet, cidade, construcao, patrimonio, urban, urbanis"
+100,Maria Bárbara Guimarães,0000-0001-7121-8611,Maria Bárbara Guimarães,area_suspeita,0,
+101,Giuliano Orsi M. Carvalho,0000-0003-3180-4899,Giuliano Carvalho,ok,2,"urban, urbanis"
+102,Fabrine Pereira de Brito,0000-0002-9121-6979,Fabrine Pereira Brito,sem_dados,0,
+103,Thaís Melz,0000-0002-4321-7766,Thaís Melz,ok,2,"urban, urbana"
+104,Camila Antunes de Carvalho Casado,0009-0006-9943-2752,Camila Casado,sem_dados,0,
+108,George Alexandre Ferreira Dantas,0000-0002-8352-7590,George Dantas,ok,4,"arquitet, patrimonio, urban, urbanis"
+110,Lúcia Tone Ferreira Hidaka,0000-0001-5018-626X,LÚCIA HIDAKA,ok,1,urban
+111,Celma Chaves,0000-0003-3437-3844,Celma Chaves Pont Vidal,ok,5,"arquitet, cidade, patrimonio, urban, urbana"
+112,Rodrigo Augusto de Lima,0000-0002-2268-8788,Rodrigo Augusto de Lima Rodrigues,ok,7,"arquitet, cidade, construcao, docomomo, fau, urban"
+113,Laís Viggiano,0000-0001-8600-2936,LAIS VIGGIANO,sem_dados,0,
+116,Arthur Thiago Thamay Medeiros,0000-0002-0629-9408,Arthur Thiago Thamay Medeiros,ok,7,"architect, arquitet, built environment, city, design, heritage"
+119,Igor Michel Bruno Dantas,0000-0002-0473-6328,Igor Michel Bruno Dantas,area_suspeita,0,
+120,Alcília Afonso de Albuquerque e Melo,0000-0002-6344-9329,Alcilia Afonso,ok,10,"arquitet, cidade, design, habitacao, iau, mdu"
+121,Teresa Raquel Dutra Cahú,0000-0003-3077-7884,Teresa Cahú,ok,5,"arquitet, urban, urbana, urbanis, urbano"
+122,Aristóteles de Siqueira Campos Cantalice II,0000-0003-2730-0890,Aristóteles Cantalice II,ok,8,"arquitet, design, fau, habitacao, urban, urbana"
+129,Roberta Rodrigues,0000-0002-0881-0337,Roberta Cunha Matheus Rodrigues,ok,1,city
+137,Maria Antônia Saldanha Pessoa de Queiroz,0000-0002-8974-692X,Maria Rachel Queiroz,ok,1,design
+139,Bruno de Paiva Y Raviolo,0000-0001-9080-7702,Bruno Raviolo,area_suspeita,0,
+143,Livia Furtado,0000-0002-0302-7167,Lívia Furtado,sem_dados,0,
+144,Glenda Souza,0009-0003-7005-9948,Glenda Souza,area_suspeita,0,
+145,Jacqueline Romaro,0000-0001-5478-0370,Jacqueline Romaro,sem_dados,0,
+148,Maria Sândeny de Lima,0000-0001-8773-0898,MARIA SANDENY DE LIMA,area_suspeita,0,
+149,Sabrynna Gabryelly Sales Barbosa,0000-0001-5962-8212,Sabrynna Barbosa,area_suspeita,0,
+150,Luís Henrique Barbosa Leal Maranhão,0000-0002-9525-2539,Luís Henrique Leal,area_suspeita,0,
+151,Bruno Firmino Costa da Silva,0000-0003-1665-1804,Bruno da Silva,ok,8,"arquitet, cidade, edificio, modernismo, urban, urbana"
+153,Graciete Guerra da Costa,0000-0003-2033-983X,Graciete Guerra da COSTA,ok,6,"arquitet, fau, patrimonio, urban, urbanis, urbano"
+157,Silvia Maria Santana Andrade Lima,0000-0001-5401-1627,SILVIA MARIA SANTANA ANDRADE LIMA,sem_dados,0,
+158,Vitória Isabelle de Sousa Oliveira,0009-0007-9152-6620,Vitória Lourdes Sousa,area_suspeita,0,
+160,Ágatha Ferreira,0000-0002-1362-5240,Agatha Ferreira,sem_dados,0,
+162,Larissa de Miranda Teixeira Mota,0000-0001-5434-2215,Larissa Mota,ok,3,"arquitet, urban, urbanis"
+163,Mayara Lemos,0000-0003-0312-3543,Mayara Lemos,ok,1,arquitet
+166,Gabriela Souto Maior dos Santos,0009-0000-4330-5611,Gabriela Souto Maior dos Santos,sem_dados,0,
+170,Jefferson Eduardo da Silva Morales,0000-0002-6288-9023,Jefferson Eduardo da Silva Morales,sem_dados,0,
+171,Georgia Patricia da Silva Ferko,0000-0002-0020-6557,Georgia Ferko,ok,3,"patrimonio, urban, urbana"
+173,Luiz Mattoso Cattony,0000-0002-7122-3063,Luiz Cattony,sem_dados,0,
+179,Deborah Padula Kishimoto,0000-0001-9548-5319,Deborah Kishimoto,sem_dados,0,
+180,Giesse Monteiro Alves de Andrade,0009-0008-6847-5965,Giesse Monteiro Alves de Andrade,sem_dados,0,
+183,Natália Batista da Silva,0000-0002-1884-2340,Natália Lampert Batista,ok,3,"construcao, urban, urbana"
+186,Victor Martins Lago,0000-0002-4788-1437,Victor Martins Lago,area_suspeita,0,
+187,Carlos Guilherme Santos Serôa da Mota,0000-0003-0393-0433,Carlos Mota,sem_dados,0,
+191,Carine Ayanne Mendes de Farias,0000-0001-5286-3906,Carine Ayanne Mendes de Farias,area_suspeita,0,
+192,Marjorie Jordana Garcia Fernandes,0000-0001-9590-6152,Marjorie Garcia,ok,7,"arquitet, cidade, edificio, patrimonio, projeto de arquitetura, urban"
+194,Ana Lúcia da Silva Abrahim,0000-0002-9936-1548,Ana Lúcia da Silva,area_suspeita,0,
+195,Taise Costa de Farias,0000-0001-5390-6269,Taise Farias,ok,6,"arquitet, cidade, patrimonio, restauro, urban, urbanis"
+196,Sued Trajano,0000-0002-9059-4441,Sued Trajano de Oliveira,ok,9,"arquitet, cidade, construcao, design, paisagis, patrimonio"
+198,Antonio Tolrino de Rezende Veras,0000-0001-9213-9306,Antonio  Tolrino de Rezende Veras,ok,5,"cidade, patrimonio, urban, urbana, urbano"
+199,Larissa Lopes Cabral de Sousa,0000-0003-4523-1198,Larissa Sousa,ok,3,"arquitet, urban, urbanis"
+200,Isabella de Bonis Silva Simões,0009-0009-0808-461X,Isabella De Bonis Silva Simões,area_suspeita,0,
+201,Mariana Santos de Oliveira,0000-0002-9443-0137,Mariana Luiza de Oliveira Santos,area_suspeita,0,
+203,Márcio Baraúna Bento,0000-0002-0072-4653,Márcio Bento,sem_dados,0,
+204,Rafaela Cristina Sander,0000-0002-0968-0730,Rafaela Sander,sem_dados,0,
+205,Angélica P Triani,0000-0001-9739-1172,Angélica Pereira Triani,area_suspeita,0,
+207,Paulina Onofre Ramalho,0000-0002-4125-7246,Paulina Onofre Ramalho,area_suspeita,0,
+210,Mayara Dayanne Sousa Rezende,0000-0001-9509-4713,Mayara Rezende,area_suspeita,0,
+213,Thiscianne Moraes Pessoa,0000-0002-1459-2460,Thiscianne Pessoa,sem_dados,0,
+214,Paulo Arthur Silva Aleixo,0000-0002-0788-393X,Paulo Arthur Silva Aleixo,ok,4,"arquitet, cidade, urban, urbanis"
+217,Ohana P Silva,0009-0002-8837-1983,Ohana Isney Alves da Silva,area_suspeita,0,
+218,Arthur Montenegro de Oliveira,0009-0004-5113-1497,Arthur Montenegro de Oliveira,ok,8,"arquitet, cidade, design, fau, patrimonio, urban"
+220,Valdete Santos de Araujo,0000-0002-8683-9813,Valdete Santos de Araujo,ok,2,"urban, urbana"
+221,Ariele Luckwu Mendes,0000-0002-6150-5120,Ariele Luckwü  Mendes,ok,3,"architect, design, docomomo"
+222,Gisele Bahia Lins,0000-0002-3275-7556,Gisele Bahia Lins,sem_dados,0,
+223,Genilson Pereira Santana,0000-0002-6322-4816,Genilson Pereira Santana,ok,3,"cidade, urban, urbana"
+225,Paula Maria Wanderley Maciel do Rêgo Silva,0000-0002-2345-4043,PAULA MACIEL SILVA,area_suspeita,0,
+228,Ivanilson Santos Pereira,0000-0002-7911-1365,Ivanilson Santos Pereira,ok,9,"arquitet, construcao, docomomo, edificio, fau, patrimonio"
+229,Adriana Castelo Branco Ponte de Araujo,0000-0002-5249-6058,Adriana Castelo Branco Ponte de Araújo,ok,1,architect
+230,Camila Rodrigues dos Santos,0000-0001-7633-3563,Camila  Rodrigues dos Santos,ok,3,"arquitet, urban, urbanis"
+231,Roberto de Almeida Bottura,0000-0002-4014-1479,Roberto  de Almeida Bottura,area_suspeita,0,
+232,Mirela Fonseca Barreto,0000-0002-9111-5692,Mirela Fonseca Barreto,ok,5,"arquitet, urban, urbana, urbanis, urbano"
+233,Amanda Finatto Dal Molin,0000-0002-2595-7170,Amanda Finatto Dal Molin,ok,4,"arquitet, urban, urbanis, urbano"
+234,José Marcelo Martins Medeiros,0000-0002-2554-8289,Jose Marcelo Martins Medeiros,ok,10,"arquitet, cidade, city, fau, paisagis, projeto de arquitetura"
+235,Lucimara Albieri,0000-0002-8890-8237,Lucimara Albieri de Oliveira,ok,3,"urban, urbana, urbano"
+236,Dienifer Gomes Vieira,0000-0003-1365-3206,Dienifer Feijó Vieira,ok,1,cidade
+237,Marcieli Coradin,0000-0001-6100-2016,DIENIFER GOMES VIEIRA,sem_dados_nome_divergente,0,
+238,Aline Kedma Araújo Alves,0000-0002-6012-3825,Aline Kedma Araujo Alves,area_suspeita,0,
+242,Tamires Aleixo Cassella,0000-0003-3218-3422,Tamires Cassella,area_suspeita,0,
+244,Zibia de Sousa Pereira de Araujo,0000-0002-3607-9748,ZIBIA ARAUJO,sem_dados,0,
+248,Liliana de Souza Adrião,0000-0002-7002-8207,Liliana Adrião,ok,7,"arquitet, mdu, paisagis, restauro, urban, urbanis"
+249,Fernanda Lúcia Herbster Pinto,0000-0001-5637-3920,Fernanda Pinto,sem_dados,0,
+250,Eudes de Arimatéa Rocha,0000-0001-7668-7484,Eudes de Arimatéa,sem_dados,0,
+251,Ana Cristina Menezes Palhas,0000-0002-0767-3801,Ana Cristina Palhas,sem_dados,0,
+252,Ana Elisabete de Almeida Medeiros,0000-0003-3248-4399,Ana Elisabete de Almeida Medeiros,sem_dados,0,
+253,Oscar Luís Ferreira,0000-0003-1628-3466,Oscar Luís Ferreira,ok,6,"arquitet, cidade, fau, patrimonio, urban, urbanis"
+254,Thaís Silveira Soares,0009-0004-4770-3296,Thais Soares Bezerra,area_suspeita,0,
+256,Roberto Alves de Lima Montenegro Filho,0000-0001-5311-2880,Roberto Alves de Lima Montenegro Filho,ok,9,"architect, arquitet, cidade, design, edificio, fau"
+257,Roseline Vanessa Santos Oliveira,0000-0002-3875-2262,Roseline Oliveira,ok,2,"urban, urbana"
+258,Tuanne Monteiro de Carvalho,0000-0001-5226-5412,Tuanne Monteiro de Carvalho,sem_dados,0,
+262,Diego Beja Inglez de Souza,0000-0001-5128-788X,Diego Inglez de Souza,ok,8,"architect, arquitet, construcao, fau, landscape, urban"
+265,Karine Maria Gonçalves Cortez,0009-0001-3850-9406,Karine Maria Gonçalves Cortez,ok,1,cidade
+271,Carolina Vivas da Costa Milagre,0000-0002-9635-9426,Carolina Vivas da Costa Milagre,ok,6,"arquitet, habitacao, urban, urbana, urbanis, urbano"
+272,Márcia Gadelha Cavalcante,0000-0001-9851-3151,Márcia Cavalcante,sem_dados,0,
+273,Tania de Freitas Vasconcelos,0000-0002-3182-3558,Tania Vasconcelos,sem_dados,0,
+274,Letícia Campos Dias,0000-0001-6774-1821,Letícia Campos Dias,sem_dados,0,
+275,Luísa Amanda de M. Lima,0000-0002-8273-5646,LUÍSA AMANDA DE MACÊDO LIMA,ok,4,"arquitet, ppgau, urban, urbanis"
+276,Rubenilson Brazão Teixeira,0000-0001-8472-9197,Rubenilson Brazão Teixeira,ok,9,"architect, arquitet, cidade, construcao, habitacao, urban"
+277,Marlyene Ferreira Batista,0000-0003-0684-408X,MARLYENE,sem_dados,0,
+278,Pedro Henrique Gomes Cardoso D’ávila,0000-0002-0728-8540,Pedro Henrique Cardso d'Ávila,sem_dados,0,
+279,Christine Ramos Mahler,0000-0003-4565-5556,Christine Mahler,sem_dados,0,
+282,Tiago Farias Lopes,0000-0002-9810-9957,Tiago Farias Lopes,sem_dados,0,
+283,Clóvis Ramiro Jucá Neto,0000-0002-8424-1527,,SUSPEITO,0,
+284,Danilo Augusto Oliveira de Barros,0000-0001-7570-6831,Danilo Augusto Oliveira de Barros,ok,3,"arquitet, urban, urbanis"
+285,Flávio Carvalho Vieira,0000-0003-1226-6423,Flávio Carvalho Vieira,ok,6,"arquitet, construcao, design, docomomo, urban, urbanis"
+286,Lourhan Severino de Araújo,0000-0003-0328-3416,Lourhan Araujo,sem_dados,0,
+287,Emanuella da Silva Piani Godinho,0000-0001-9349-5855,Emanuella Da Silva Piani Godinho,ok,10,"arquitet, cidade, construcao, fau, modernismo, patrimonio"
+288,Jacy Soares Correa Neto,0000-0002-8467-9561,Jacy Soares Corrêa Neto,ok,5,"arquitet, cidade, urban, urbana, urbano"
+289,Ítalo Rogério Pachêco Prestes,0000-0002-1376-6529,Ítalo  Prestes,sem_dados,0,
+290,Raíssa Pereira Cintra de Oliveira,0009-0001-2682-3545,Raíssa Pereira Cintra de Oliveira,ok,11,"architect, arquitet, cidade, edificio, habitacao, iau"
+293,Calena Trindade,0009-0004-5952-5132,Calena Trindade,sem_dados,0,
+295,João Gabriel Silva Araújo,0000-0002-5991-0426,João  Araújo,sem_dados,0,
+296,Alexandre Martins de Lima,0000-0002-6598-5934,Alexandre Lima,area_suspeita,0,
+297,Dayse Guedes dos Santos,0000-0003-0795-0239,Dayse Rodrigues dos Santos,area_suspeita,0,
+298,Eurípedes Afonso da Silva Neto,0000-0001-7232-8556,Eurípedes Afonso da Silva Neto,ok,7,"architect, arquitet, built environment, design, projeto de arquitetura, urban"
+300,José Antonio Viana Lopes,0000-0003-4758-6339,José Antonio Viana Lopes,ok,4,"arquitet, cidade, construcao, docomomo"
+303,Anneli Maricielo Cárdenas Celis,0000-0001-7778-8746,Anneli Maricielo Cárdenas Celis,ok,2,"architect, design"
+305,Vanessa Milani,0000-0002-4147-7476,Vanessa Pironato Milani,area_suspeita,0,
+309,Cassandra Salton Coradin,0009-0002-6366-2696,Cassandra  Salton Coradin,sem_dados,0,
+313,Leonardo Oliveira,0000-0003-3202-9281,Leonardo Desiderio Carneiro,nome_divergente,10,"architect, arquitet, cidade, construcao, design, fau"
+315,Filipe Santos Rocha,0000-0003-2167-1973,Filipe Rocha,sem_dados,0,
+320,Oton Sá,0000-0001-7810-4334,Oton Sá Neto,sem_dados,0,
+321,Leda Maria Lamanna Ferraz Rosa Van Bodegraven,0000-0002-5124-7009,Leda Maria Lamanna Ferraz Rosa van Bodegraven,ok,5,"arquitet, design, fau, urban, urbanis"
+322,Paulo Julio Valentino Bruna,0009-0008-3279-0568,Paulo Júlio Valentino Bruna Bruna,area_suspeita,0,
+325,Ingrid Teixeira Peixoto,0009-0000-9074-7578,INGRID PEIXOTO,sem_dados,0,
+329,Francisco Monteiro,0000-0001-9029-8151,Francisco Monteiro,ok,1,city
+330,Maria Fernanda Derntl,0000-0001-8083-1274,Maria Fernanda Derntl,ok,2,"cidade, patrimonio"
+338,Mirella Fernandes,0009-0009-8664-4416,Mirella Darlana de Paula Fernandes,area_suspeita,0,
+339,Wallyson Costa,0000-0002-7340-2153,Wallyson  de Jesus da Costa,area_suspeita,0,
+343,Marina Goldfarb de Oliveira,0000-0001-6133-2197,Marina de Oliveira,area_suspeita,0,
+344,Hilquias de Castro Feitosa da Silva,0009-0004-4924-1427,Hilquias dos Santos Silva,area_suspeita,0,
+346,Ana Flávia da Silveira Macau,0009-0008-6641-7382,Ana Maria Marreiros Macau,area_suspeita,0,
+349,Cristiane de Araújo Alves Siqueira,0000-0003-0668-9980,Cristiane de Araújo Alves Siqueira,sem_dados,0,
+350,Lúcia Moreira do Nascimento,0000-0001-8250-0719,Lúcia Moreira do Nascimento,ok,2,"arquitet, cidade"
+352,Giovanna Garcêz Freire,0000-0001-6389-4521,Giovanna Garcêz Freire,sem_dados,0,
+355,Levi Medeiros Araujo Pires Leal,0009-0008-0297-4577,Levi Leal,area_suspeita,0,
+356,Luis Eduardo Paim Longhi,0009-0003-4671-7883,Luis Eduardo Longhi,sem_dados,0,
+357,Elaine Ferreira Chagas,0000-0002-4969-2197,Elaine Regina Chagas Santos,area_suspeita,0,
+362,Marina Zimmermann,0000-0002-2666-5997,Marina Zimmermann,area_suspeita,0,
+367,Bianca Pereira Saraiva,0000-0003-3827-0076,bianca saraiva,sem_dados,0,
+370,Ana Clara Reis,0000-0002-2141-8997,ANA CARLA BITTENCOURT REIS,area_suspeita,0,
+371,Daniela Ribeiro,0000-0002-3886-5304,Douglas Ribeiro,SUSPEITO,0,
+376,Mariana Moretzsohn,0000-0002-0731-7014,MARIANA MORETZSOHN,sem_dados,0,
+377,Evelyn Maísa Hettwer,0000-0002-3503-4900,Evelyn Maísa,ok,1,cidade
+380,Mateus Paulo Beck,0009-0007-0891-1019,Mateus Thaler Beck,area_suspeita,0,
+381,Marcos José Carrilho,0000-0001-8601-366X,Marcos Carrilho,sem_dados,0,
+383,Renato Luiz Sobral Anelli,0000-0002-2036-5897,RENATO ANELLI,ok,6,"arquitet, cidade, urban, urbana, urbanis, urbano"
+384,Luís Henrique Haas Luccas,0000-0002-9860-3509,Luís Henrique Haas Luccas,ok,2,"arquitet, propar"
+386,Fábio Bortoli,0000-0001-5358-479X,Fábio Bortoli,ok,2,"cidade, edificio"
+387,Cláudia Piantá Costa Cabral,0000-0003-0079-1861,Claudia Costa Cabral,ok,2,"architect, arquitet"
+392,Naylor Vilas Boas,0000-0001-8099-7952,Naylor Barbosa Vilas Boas,ok,3,"architect, heritage, urban"
+393,Cláudio Calovi Pereira,0000-0002-9488-0859,Claudio Calovi Pereira,ok,1,architect
+394,Juliano Caldas de Vasconcellos,0000-0002-4281-8199,Juliano Vasconcellos,area_suspeita,0,
+395,Marcos Miethicki da Silva,0000-0003-1708-7782,Marcos Silva,area_suspeita,0,
+400,Julio Gaeta,0000-0002-7567-9156,Julio César López Gaeta,area_suspeita,0,
+401,Alex Carvalho Brino,0009-0004-9497-2691,Alex Brino,area_suspeita,0,
+406,Adriana Irigoyen,0009-0007-0002-0625,Adriana Irigoyen,area_suspeita,0,
+407,Paula Merlino Machado,0009-0002-1083-5303,Paula Merlino Machado,ok,1,cidade
+408,Carla Brandão Zollinger,0000-0001-5945-5390,Carla Zollinger,ok,2,"architect, design"
+409,Lêda Brandão de Oliveira,0000-0002-3349-5148,Lêda Oliveira,sem_dados,0,
+410,Maria Luiza Adams Sanvitto,0000-0001-6106-5949,MARIA LUIZA ADAMS SANVITTO,sem_dados,0,
+413,Claudio Vásquez Zaldívar,0000-0001-5962-2291,Claudio Marcelo Vásquez Zaldívar,ok,5,"design, edificio, urban, urbana, urbanis"
+415,Benamy Turkienicz,0000-0003-3675-5408,Benamy Turkienicz,area_suspeita,0,
+416,Luciana Saboia,0000-0002-6394-9024,Luciana Meirelles Saboia,area_suspeita,0,
+419,Airton Cattani,0000-0001-8081-7704,Airton Cattani,ok,3,"architect, cidade, design"
+420,Ana Elísia da Costa,0000-0003-4829-5699,Ana Elísia da Costa,ok,8,"architect, arquitet, cidade, design, housing, projeto de arquitetura"
+421,Giane Grigoletti,0000-0002-0696-2062,Giane Grigoletti,ok,6,"cidade, city, habitacao, urban, urbana, urbano"
+422,Isis Portolan,0000-0003-4388-3512,Isis Portolan,area_suspeita,0,
+423,Diana Fagundes,0009-0000-9028-2299,Diana Magalhães Machado Fagundes,sem_dados,0,
+426,Ana Carolina Santos Pellegrini,0000-0001-7389-8577,Ana Carolina Pellegrini,sem_dados,0,
+427,Renato Holmer Fiore,0000-0001-9222-2695,Renato Holmer Fiore,ok,3,"arquitet, urban, urbanis"
+428,Lucia Mascaró,0000-0001-6908-1097,Lucia Mascaro,area_suspeita,0,
+430,Márcio Correia Campos,0000-0003-1038-5023,Márcio Correia Campos,ok,3,"arquitet, urban, urbanis"
+431,Fernando Diez,0000-0002-7522-5189,Fernando Díez,ok,2,"urban, urbano"
+435,Ana Elisa Moraes Souto,0000-0002-4486-4324,ANA SOUTO,ok,9,"arquitet, construcao, paisagis, patrimonio, ppgau, projeto de arquitetura"
+437,Gilberto Flores Cabral,0009-0007-8650-593X,Gilberto Abel Cabral Schulz,sem_dados,0,
+440,Maribel Aliaga Fuentes,0000-0001-8244-8412,Maribel Aliaga,ok,8,"arquitet, cidade, fau, propar, urban, urbana"
+442,Ana Cristina Fernandes Vaz Milheiro,0000-0001-7213-0478,Ana Vaz Milheiro,ok,7,"architect, arquitet, cidade, fau, housing, landscape"
+443,Josicler Orbem Alberton,0000-0001-8645-2013,Josicler  Orbem Alberton,ok,2,"arquitet, cidade"
+445,Klaus Chaves Alberto,0000-0003-2845-8307,Klaus Chaves Alberto,ok,7,"architect, arquitet, design, edificio, urban, urbanis"
+448,Eline Maria Moura Pereira Caixeta,0000-0001-9147-3927,Eline Maria Caixeta,ok,12,"architect, arquitet, city, construcao, design, habitacao"
+449,Carlos Fernando Silva Bahima,0000-0001-9782-2585,Carlos Fernando Silva Bahima,sem_dados,0,
+450,Célia Regina Moretti Meirelles,0000-0002-4477-3895,Célia Meirelles,ok,11,"architect, arquitet, construcao, design, edificio, fau"
+451,Ricardo Hernán Medrano,0000-0003-4524-6090,Ricardo Hernan Medrano,sem_dados,0,
+452,Henrique Dinis,0000-0003-3683-5707,Henrique Dinis,sem_dados,0,
+453,Ana Paula Koury,0000-0001-9511-5561,Ana Rachel Koury Marinho,area_suspeita,0,
+458,Marta Silveira Peixoto,0000-0002-2213-7740,Marta Peixoto,ok,9,"architect, arquitet, cidade, edificio, patrimonio, propar"
+459,Margareth Campos da Silva Pereira,0000-0002-9840-1333,Margareth da Silva-Pereira,ok,3,"architect, urban, urbanis"
+461,Mariana Falcão Bormio,0000-0003-2710-6449,Mariana Falcão Bormio,ok,2,"architect, urban"
+463,Clécio Magalhães do Vale,0000-0002-2599-9602,Clécio Vale,area_suspeita,0,
+464,Sulamita Fonseca Lino,0000-0001-6618-9131,Sulamita Fonseca Lino,ok,1,arquitet
+468,Danilo Matoso Macedo,0009-0008-4670-9812,Danilo Matoso Macedo,ok,3,"architect, arquitet, heritage"
+469,Elcio Gomes da Silva,0000-0003-2684-9945,Elcio Gomes da Silva,sem_dados,0,
+470,Federico Deambrosis,0000-0003-1085-2621,FEDERICO DEAMBROSIS,sem_dados,0,
+471,Fernanda Fernandes,0000-0001-5416-5765,Fernanda Fernandes da Silva,area_suspeita,0,
+474,Guilherme Rene Maia,0000-0002-4666-0552,Guilherme Rene Maia,sem_dados,0,
+475,Hugo Mondragón,0000-0002-3958-3261,Hugo Necoechea-Mondragon,SUSPEITO,0,
+477,Humberto Mezzadri,0000-0003-0690-1240,Humberto Mezzadri,sem_dados,0,
+478,Juliana Silva de Mattos,0000-0001-9162-0798,Juliana Gonçalves Silva de Mattos,area_suspeita,0,
+480,Márcia Heck,0009-0005-7355-4674,Márcia Fernanda  Heck,area_suspeita,0,
+487,Roberto Burdiles Allende,0000-0002-2508-2474,Roberto Burdiles,ok,1,design
+488,Gonzalo Cerda Brintrup,0000-0002-4174-7421,Gonzalo Andrés Cerda Brintrup,ok,3,"patrimonio, urban, urbana"
+494,Alfredo Peláez Iglesias,0009-0006-5115-890X,Alfredo Delgado Peláez,sem_dados,0,
+499,Carla Caires,0000-0002-5365-2227,Carla Caires Abdalla,area_suspeita,0,
+500,Carlos Henrique Magalhães de Lima,0000-0003-3004-404X,Carlos Henrique de Lima,ok,7,"cidade, city, housing, patrimonio, urban, urbanis"
+502,Helena Bender,0000-0003-0825-9714,Helena Bender,ok,4,"arquitet, cidade, city, urban"
+504,Elane Ribeiro Peixoto,0000-0001-9998-3438,Elane Peixoto,area_suspeita,0,
+505,Gonzalo Abarca,0000-0002-0941-5611,Gonzalo Cortés Abarca,area_suspeita,0,
+506,Igor Fracalossi,0000-0002-5630-6215,Igor Fracalossi,ok,4,"architect, design, edificio, urban"
+512,Macarena Cortés,0000-0002-5074-2198,Macarena Cortés-Vázquez,SUSPEITO,0,
+515,Marcelo Della Giustina,0000-0001-9264-8637,Marcelo Della Giustina,sem_dados,0,
+516,Maria Ana Ferré,0000-0002-1489-9438,Maria Ferré Vallverdu,area_suspeita,0,
+517,Martin Gonzalez Luz,0009-0006-1789-5009,Martin Diego Gonzalez Luz,area_suspeita,0,
+518,Monika Maria Stumpp,0000-0001-5017-770X,monika stumpp,sem_dados,0,
+520,Pamela Dominguez,0009-0007-7797-5737,Pamela De Los Santos Dominguez,area_suspeita,0,
+522,Silvia Raquel Chiarelli,0000-0001-8648-2378,Silvia Raquel Chiarelli,sem_dados,0,
+525,Verónica Esparza Saavedra,0000-0003-4265-2771,Verónica Esparza Saavedra,ok,2,"docomomo, patrimonio"
+526,Camila Schmidt,0000-0003-3261-2311,Camila Pruana Schmidt,area_suspeita,0,
+528,Ana Cristina Castagna,0000-0003-0973-9744,Ana Carina Castagna,area_suspeita,0,
+531,Adriana Sabadi,0000-0003-1595-343X,Adriana Sabadi,ok,6,"architect, design, fau, housing, urban, urbanis"
+532,Camila Thiemi Nakamura Gonino,0000-0002-2559-9879,Camila Nakamura-Gonino,SUSPEITO,0,
+533,Ricardo Dias Silva,0000-0002-5856-9318,Ricardo Dias da Silva,area_suspeita,0,
+535,Claudia Virginia Stinco,0000-0001-6380-299X,CLAUDIA VIRGINIA STINCO,sem_dados,0,
+536,Daniel Pitta Fischmann,0009-0002-8082-4853,DANIEL FISCHMANN,ok,1,arquitet
+538,Evelyn Furquim Werneck Lima,0000-0002-2578-6180,Evelyn Furquim Werneck Lima,ok,11,"architect, arquitet, cidade, city, design, edificio"
+539,Fernanda Royer Voigt,0009-0003-7733-5976,Fernanda Hergert Voigt,area_suspeita,0,
+540,Gabriel Kogan,0000-0002-0409-3924,Gabriel Kogan,sem_dados,0,
+545,Manuela Catafesta,0000-0003-3285-7941,Manuela Catafesta,ok,3,"arquitet, urban, urbanis"
+547,Marcelo Puppi,0000-0001-5834-4293,Marcelo Puppi,sem_dados,0,
+548,Marcos Amado Petroli,0000-0002-5891-5911,Marcos Amado Petroli,ok,2,"architect, design"
+551,Mariana Comerlato Jardim,0000-0002-2542-1659,Mariana Jardim,area_suspeita,0,
+554,Paula Bem Olivo,0000-0003-2147-9332,Paula Martins Olivo,area_suspeita,0,
+556,Rafael Antonio Cunha Perrone,0000-0001-8087-9948,Rafael Perrone,sem_dados,0,
+557,Simone Neiva,0000-0003-3791-4888,simone neiva,ok,6,"architect, arquitet, modernismo, patrimonio, urban, urbana"
+559,Luís Salvador Gnoato,0000-0002-1223-4328,Luis Salvador Gnoato,area_suspeita,0,
+560,Suelen Camerin,0000-0002-4598-1354,Suelen Camerin,ok,2,"arquitet, projeto de arquitetura"
+561,Suely de Oliveira Figueirêdo Puppi,0009-0001-7224-670X,Suely Puppi,sem_dados,0,
+563,Thaís Luft da Silva,0000-0002-7539-4433,Thaís Cristina da Silva,area_suspeita,0,
+564,Vanessa Calazans da Rosa,0000-0001-8027-309X,Vanessa Calazans da Rosa,ok,4,"architect, arquitet, urban, urbanis"
+565,Renato Leão Rego,0000-0003-1822-2907,Renato Leão Rego,ok,9,"architect, arquitet, cidade, construcao, design, urban"
+566,Alexandre Bataioli da Silva,0000-0002-5714-8992,,SUSPEITO,0,
+568,Amanda Evellyn Zys,0009-0004-8733-056X,Amanda Evellyn Zys,ok,3,"architect, design, heritage"
+569,Anelis Rolão Flôres,0000-0003-1918-4084,Anelis Rolão Flôres,ok,4,"arquitet, cidade, urban, urbanis"
+570,Francisco Queruz,0009-0004-3978-6888,Francisco Queruz,ok,3,"arquitet, urban, urbanis"
+572,Gabriela Martins Flores,0000-0003-1515-8567,Gabriela Martins Flores,ok,8,"arquitet, paisagis, patrimonio, ppgau, urban, urbana"
+576,João Ricardo Masuero,0000-0001-9733-8881,João Masuero,ok,1,cidade
+578,Cristiane Leticia Oppermann Thies,0000-0002-3181-3499,CRISTIANE LETICIA OPPERMANN THIES,sem_dados,0,
+579,Fernanda Peron Gaspary,0000-0003-0433-9354,Fernanda Peron Gaspary,area_suspeita,0,
+580,Cristina Gondim,0000-0003-3525-2542,Cristina Gondim,ok,6,"architect, arquitet, design, propar, urban, urbanis"
+581,Diego Fonseca Brasil Vianna,0009-0004-6665-8777,Diego Fonseca Brasil Vianna,area_suspeita,0,
+583,Leonora Romano,0000-0002-2612-4488,leonora romano,ok,1,patrimonio
+585,Mônica Luce Bohrer,0000-0002-0885-804X,Mônica Luce Bohrer,ok,1,landscape
+586,Ricardo José Rossin de Oliveira,0009-0007-5815-866X,Ricardo José Rossin de Oliveira,area_suspeita,0,
+587,Fernando Guillermo Vázquez Ramos,0000-0003-3472-5598,Fernando G. Vázquez Ramos,ok,4,"arquitet, cidade, construcao, modernismo"
+588,Carlos Eduardo Dias Comas,0000-0002-7368-7603,Carlos Eduardo Comas,ok,1,architect
+591,Giovani Barcelos,0000-0002-5542-7437,Giovani Barcelos,sem_dados,0,
+592,Karina Mendes,0000-0002-5965-2770,Karina Mendes,area_suspeita,0,
+595,Priscila Fonseca da Silva,0000-0002-0794-777X,Priscila Fonseca da Silva,ok,3,"arquitet, urban, urbanis"
+596,Larissa Nogueira Agnelo,0009-0001-1105-5950,Larissa Nogueira Agnelo,sem_dados,0,
+597,Sidnei Junior Guadanhim,0000-0002-0007-7767,Sidnei Guadanhim,ok,5,"arquitet, edificio, urban, urbana, urbanis"
+603,Juliana Lopes de Souza,0000-0002-7514-0361,Juliana Souza,area_suspeita,0,
+605,Rodrigo Allgayer,0009-0007-2847-5859,Rodrigo Allgayer,area_suspeita,0,
+606,Andrey de Aspiazu Schlee,0000-0002-3365-6300,Andrey de Aspiazu Schlee,sem_dados,0,
+607,Guilherme Osterkamp,0000-0001-8669-5082,Guilherme Osterkamp,sem_dados,0,
+613,Eduardo Hahn,0000-0003-4699-5376,Eduardo Hahn de Castro,sem_dados,0,
+616,Camila de Oliveira Porto,0000-0002-2144-2807,Camila Souza Porto,ok,2,"city, design"
+617,Ana Paula Nogueira,0000-0001-6241-1671,Ana Paula Oliveira Nogueira,ok,1,city
+623,Rodrigo Troyano,0009-0009-8321-8796,Rodrigo Troyano,ok,1,arquitet
+627,Dely Bentes,0000-0001-5016-8125,Dely Bentes,ok,1,arquitet
+628,Carolina Ritter,0000-0002-0175-1792,Carolina Ritter,ok,7,"arquitet, cidade, construcao, edificio, patrimonio, urban"
+629,Patricia Hecktheuer,0000-0002-5643-7450,Patricia Hecktheuer,ok,1,arquitet
+632,Mariana de Aguiar,0000-0002-8876-3226,Mariana Freitas de Aguiar,ok,1,city
+635,Carlos Eduardo Binatto de Castro,0000-0002-3944-1642,Carlos Eduardo DE CASTRO,area_suspeita,0,
+640,Mario Guidoux Gonzaga,0000-0003-1176-1502,Mario Guidoux Gonzaga,sem_dados,0,
+643,Bruno Cesar Euphrasio de Mello,0000-0003-1694-157X,Bruno Cesar Euphrasio de Mello,ok,12,"architect, arquitet, cidade, city, design, habitacao"
+644,Eugenia Aumond Kuhn,0009-0004-5461-614X,Eugenia Kuhn,sem_dados,0,
+645,Geisa Zanini Rorato,0000-0001-5010-3591,GEISA RORATO,ok,2,"urban, urbana"
+646,Anye Theisen,0009-0002-6724-4619,Anye Pedroso Theisen,ok,5,"architect, heritage, propar, urban, urbanis"
+649,Tiago de Oliveira Andrade,0000-0002-2516-789X,Tiago de Oliveira Andrade,ok,3,"arquitet, urban, urbanis"
+650,Francisco Spadoni,0000-0002-3907-626X,Francisco Spadoni,ok,15,"architect, arquitet, cidade, city, construcao, design"
+652,Fabiana Bernardy,0009-0008-9972-8136,Fabiana Cremonese Bernardy,area_suspeita,0,
+653,Priscila Vargas,0009-0004-1912-7770,Priscila Moreira Vargas,area_suspeita,0,
+654,Juliana Giazzon Cavalli,0009-0008-1979-8266,Juliana Giazzon Cavalli,area_suspeita,0,
+655,Gustavo de Pires Castro,0000-0002-9781-5825,Gustavo Pires de Castro,area_suspeita,0,
+656,Humberto Teixeira Damilano,0009-0000-9031-8327,Humberto Teixeira Damilano,area_suspeita,0,
+657,Fernanda Saretta,0009-0001-1245-1947,Fernanda Saretta,sem_dados,0,
+660,Hiba Ahmad,0000-0001-9376-5093,Hiba Ahmad,sem_dados,0,
+661,Ruan Carlos Marques dos Santos,0009-0003-0745-6553,Ruan Santos,sem_dados,0,
+663,Fabiano Borba Vianna,0000-0003-1586-3418,Fabiano Borba Vianna,ok,5,"arquitet, cidade, urban, urbanis, urbano"
+665,André Biselli Sauaia,0009-0006-0062-0914,André Biselli Sauaia,ok,10,"architect, arquitet, cidade, design, fau, projeto de arquitetura"
+667,William Gallina Marconi,0009-0007-6403-2414,William Marconi,sem_dados,0,
+668,Eduardo Westphal,0000-0001-7499-1407,Eduardo Westphal,ok,5,"arquitet, design, edificio, urban, urbanis"
+669,Kátia Fernanda Marchetto,0000-0001-5119-5977,Kátia Fernanda Marchetto,ok,8,"architect, design, heritage, housing, patrimonio, propar"
+671,Guilherme Biondo Milani,0000-0003-3039-1383,Guilherme Biondo Milani,ok,5,"arquitet, paisagis, propar, urban, urbanis"
+675,Marina Schuler Bonzanini da Luz,0009-0009-6220-052X,Marina Schuler Bonzanini da Luz,sem_dados,0,
+682,Tatiana Sakurai,0000-0001-5769-7492,Tatiana Sakurai,ok,1,design
+684,Cássio Orlandi Sauer,0009-0000-0441-3644,cássio sauer,sem_dados,0,
+685,Patrícia de Freitas Nerbas,0000-0001-5882-2857,Patrícia de Freitas Nerbas,ok,1,arquitet
+686,Sílvia Sávio Chataignier,0000-0001-9128-0455,SILVIA SAVIO,ok,5,"architect, arquitet, design, urban, urbanis"
+687,Javiera Susana Azocar Weisser,0000-0001-7849-4942,Javiera Azócar Weisser,ok,4,"design, urban, urbana, urbano"
+688,Celma Paese,0000-0002-3160-0610,Celma Paese,ok,2,"architect, urban"
+689,Gianluca Perseu,0000-0002-0427-8611,Gianluca Perseu,ok,2,"architect, urban"
+690,Rodrigo Cristiano Queiroz,0000-0002-7088-6885,Rodrigo Queiroz,area_suspeita,0,
+691,Nícolas Rezende Teixeira,0000-0002-4892-8196,Nícolas  Teixeira,ok,4,"cidade, habitacao, urban, urbano"
+692,Themis da Silva,0000-0002-2296-9387,Themis Rondão Barbosa da Costa Silva,ok,1,construcao
+693,Luisa Gertrudis Durán Rocca,0000-0002-5115-8532,LUISA MARIA DEL PILAR ROCCA-VITE,sem_dados_nome_divergente,0,
+694,Isabella Caroline Januário,0000-0002-1650-8293,Isabella Caroline Januário,ok,4,"arquitet, design, urban, urbanis"
+695,Felipe Taroh Inoue Sanquetta,0000-0003-4771-3588,Felipe Sanquetta,sem_dados,0,
+697,Roberto Righi,0000-0001-8810-1348,Roberto RIGHI,sem_dados,0,
+700,Aline Montagna da Silveira,0000-0002-9723-7746,Aline Montagna da Silveira,ok,5,"arquitet, cidade, patrimonio, urban, urbano"
+702,Mauro Ferreira,0000-0002-0843-4829,Mauro Ferreira,area_suspeita,0,
+704,Denise Antonucci,0000-0002-6693-3001,Denise Antonucci,ok,2,"urban, urbana"
+706,Rafael Manzo,0000-0001-8866-7157,Rafael Manzo,sem_dados,0,
+708,Ana Rosa de Oliveira,0000-0003-4156-7372,Ana Rosa Garcia de Oliveira,area_suspeita,0,
+709,Fábio Fernandes Villela,0000-0003-2855-1018,Fábio Fernandes Villela,ok,3,"arquitet, urban, urbanis"
+710,Carolina Sumaquero Gutmann,0000-0003-1751-6700,Carolina Sumaquero Gutmann,ok,7,"arquitet, cidade, habitacao, urban, urbana, urbanis"
+711,Maria Cristina da Silva Schicchi,0000-0002-4267-2601,Maria Cristina da Silva Schicchi,ok,10,"arquitet, cidade, design, heritage, iau, patrimonio"
+713,Alessandro José Castroviejo Ribeiro,0000-0002-9552-766X,Alessandro José Castroviejo Ribeiro,area_suspeita,0,
+714,Paulo Sergio Barbaro del Negro,0009-0004-1190-5072,Paulo Miguel del-Negro Pamplona Côrte-Real,nome_divergente,1,design
+715,Lizete Maria Rubano,0000-0001-9653-1786,lizete rubano,ok,6,"arquitet, cidade, fau, habitacao, urban, urbanis"
+716,Aline Fidalgo Yamamoto,0009-0005-0220-0422,Aline  Yamamoto,area_suspeita,0,
+717,André Mazzer Constantino,0000-0002-5617-6879,André Constantino,sem_dados,0,
+724,Marcos de Oliveira Costa,0000-0001-9836-9444,MARCOS AURÉLIO SANTOS COSTA,area_suspeita,0,
+725,Christian de Mello Sznick,0009-0007-0897-1046,Christian Sznick,sem_dados,0,
+726,Luciana Tombi Brasil,0000-0001-9166-1514,Luciana Brasil,sem_dados,0,
+728,Vera Regina Barbuy Wilhelm,0000-0003-4201-6740,VERA WILHELM,sem_dados,0,
+732,Gilda Collet Bruna,0000-0001-5242-6714,Gilda Collet Bruna,sem_dados,0,
+733,Isis de Castro,0000-0003-3708-8096,Isis Prado Meirelles De Castro,sem_dados,0,
+735,Igor Guatelli,0000-0002-3937-8073,Igor Guatelli,ok,5,"architect, arquitet, urban, urbana, urbanis"
+736,Ana Paula Nascimento,0000-0001-5342-8359,Ana Paula Branco do Nascimento,ok,2,"urban, urbana"
+738,Maria Isabel Imbronito,0000-0001-7394-3809,Maria Isabel Imbrunito,ok,11,"arquitet, cidade, construcao, design, edificio, housing"
+739,Pérola Felipette Brocaneli,0000-0002-8986-7908,Pérola Felipette Brocaneli,ok,2,"urban, urbano"
+741,Eduardo Sampaio Nardelli,0000-0002-8519-3213,Eduardo Sampaio Nardelli,sem_dados,0,
+742,Maria Isabel Villac,0009-0005-9645-6954,Maria Celia Villac,sem_dados,0,
+748,Lucas Fehr,0000-0002-6326-4033,Lucas Fehr,ok,5,"architect, arquitet, housing, urban, urbanis"
+749,Helena Aparecida Ayoub Silva,0000-0001-5145-5900,Helena Aparecida Ayoub Silva,ok,9,"architect, arquitet, cidade, fau, habitacao, urban"
+750,Luciana Alem Gennari,0000-0002-1544-0768,Luciana Gennari,sem_dados,0,
+754,Karine Daufenbach,0000-0002-2292-8219,Karine Daufenbach,ok,3,"arquitet, urban, urbanis"
+755,Maria Tereza Regina Leme de Barros Cordido,0000-0003-1728-5148,Maria Tereza Regina Leme de Barros Cordido,ok,4,"architect, arquitet, urban, urbanis"
+757,Marcio Cotrim Cunha,0000-0003-2008-8946,Marcio Cotrim Cunha,ok,10,"architect, arquitet, cidade, docomomo, edificio, fau"
+758,Daniela Viana Leal,0000-0001-6293-3779,Daniela Leal,ok,1,construcao
+759,Manoela Rossinetti Rufinoni,0000-0003-4146-666X,Manoela Rossinetti Rufinoni,area_suspeita,0,
+767,Luiz Guilherme Martinelli,0000-0002-3198-7114,Luiz Mário Baptista Martinelli,area_suspeita,0,
+770,Ana Laura Godinho Lima,0000-0003-4154-0858,Ana Laura Lima,area_suspeita,0,
+776,Fernando Atique,0000-0002-7681-1227,Fernando Atique,ok,10,"architect, arquitet, cidade, construcao, docomomo, patrimonio"
+777,Edite Galote Rodrigues Carranza,0000-0002-7807-8647,Edite Galote Carranza,ok,4,"architect, arquitet, edificio, urban"
+782,Candido Malta Campos Neto,0009-0007-2304-438X,Candido Zeni Neto,sem_dados,0,
+783,Celso Lomonte Minozzi,0000-0003-4288-8266,Celso Lomonte Minozzi,ok,3,"arquitet, urban, urbanis"
+786,Luiz Benedito Castro Telles,0009-0003-0648-2952,LUIZ ANDRÉ DIAS TELLES,area_suspeita,0,
+787,Marília Aldegheri do Val,0000-0002-8967-1999,Marília Aldegheri do Val,sem_dados,0,
+795,Angélica Tanus Benatti Alvim,0009-0006-0911-5690,Angélica Rogaciana de Souza Alvim,sem_dados,0,
+796,Volia Regina Costa Kato,0000-0001-6637-3385,Volia Kato,sem_dados,0,
+798,Candido Malta Campos,0000-0003-2933-8032,Candido Malta Campos Neto,ok,6,"arquitet, cidade, patrimonio, urban, urbanis, urbano"
+799,Rosío Fernández Baca Salcedo,0000-0002-5438-0120,Rosio Fernandez Baca Salcedo,ok,11,"arquitet, cidade, habitacao, heritage, housing, landscape"
+800,Pedro Cardoso Smith,0000-0002-9667-6851,Pedro Menandro,nome_divergente,1,design
+801,Maria Cristina Wolff de Carvalho,0000-0002-2267-0676,Matheus dos Santos Carvalho,SUSPEITO,0,
+804,Wesley Macedo,0000-0001-7716-5346,Wesley Macedo,ok,10,"arquitet, cidade, construcao, edificio, fau, patrimonio"
+806,Ademir Pereira dos Santos,0000-0003-4863-9375,Ademir Pereira dos Santos,area_suspeita,0,
+808,Alexandre Penedo,0000-0003-1708-7475,Alexandre Penedo Barbosa de Melo,sem_dados,0,
+811,Ricardo da Costa Lima,0009-0006-2234-0040,,sem_dados_nome_divergente,0,
+814,Camilla Pilosio Botelho,0000-0002-0850-2481,Camilla Botelho,area_suspeita,0,
+818,Denivaldo Pereira Leite,0000-0003-1585-9769,denivaldo pereira leite,sem_dados,0,
+822,Paula Freire Santoro,0000-0002-3168-0868,Paula Freire Santoro,ok,10,"architect, arquitet, cidade, fau, habitacao, housing"
+824,Aline Nassaralla Regino,0000-0003-1242-8832,Aline Nassaralla Regino,ok,8,"arquitet, habitacao, housing, paisagis, patrimonio, restauro"
+825,Rodrigo Mindlin Loeb,0000-0001-9201-0844,Rodrigo Mindlin Loeb,ok,5,"architect, arquitet, city, urban, urbanis"
+827,Paulo Yassuhide Fujioka,0000-0003-2113-6778,Paulo Yassuhide Fujioka,ok,7,"arquitet, cidade, edificio, fau, patrimonio, urban"
+828,Ana Ozaki,0000-0002-3889-6207,Ana Ozaki,area_suspeita,0,
+829,Ana Paula Arato Gonçalves,0000-0002-9411-3465,Ana Gonçalves,area_suspeita,0,
+830,Carmen Silvia Saraiva,0000-0001-7529-9148,Carmen Ferreira Saraiva,area_suspeita,0,
+831,Ana Paula Campos Gurgel,0000-0002-0189-2958,ANA PAULA GURGEL,ok,10,"architect, arquitet, cidade, fau, habitacao, patrimonio"
+833,Anat Falbel,0009-0009-3934-9537,Anat Falbel,ok,1,arquitet
+835,Andrés Téllez,0000-0003-3721-5630,Calvillo-Téllez Andrés,nome_divergente,1,design
+836,Débora Saldanha de Avila,0000-0003-2616-7506,DEBORA AVILA CANTOS,sem_dados,0,
+838,Camila Dias dos Santos Forcellini,0000-0002-9078-4501,Camila Forcellini,ok,3,"arquitet, urban, urbanis"
+839,Catherine Otondo,0000-0003-3227-7998,Catherine Otondo,sem_dados,0,
+840,Eduardo Castedo Abrunhosa,0000-0003-0526-8957,Eduardo Castedo Abrunhosa,sem_dados,0,
+842,Eneida de Almeida,0000-0001-9773-5289,Eneida Lima de Almeida,area_suspeita,0,
+845,Fanny Schroeder de Freitas Araujo,0000-0002-8873-7319,Fanny Araujo,sem_dados,0,
+849,Francesco Perrotta-Bosch,0000-0001-6329-9773,Francesco Perrotta,SUSPEITO,0,
+852,Geovana Gea Nogueira,0000-0003-1336-1035,Geovana Gea Nogueira,ok,4,"arquitet, urban, urbana, urbanis"
+853,Heliana Angotti-Salgueiro,0000-0002-6720-3481,HELIANA  ANGOTTI-SALGUEIRO,area_suspeita,0,
+854,Hugo Segawa,0000-0002-2532-4664,Hugo Segawa,ok,6,"architect, arquitet, design, landscape, urban, urbanis"
+856,João Masao Kamita,0000-0002-9518-5575,João Masao Kamita,ok,3,"arquitet, urban, urbanis"
+857,Juliane Bellot Rolemberg Lessa,0009-0006-8676-3659,Juliane  Bellot Rolemberg Lessa,area_suspeita,0,
+858,Lídia Quièto Viana,0000-0002-4456-7709,Lídia Quièto Viana,ok,7,"arquitet, cidade, construcao, projeto de arquitetura, urban, urbanis"
+860,Marcelo Consiglio Barbosa,0000-0003-3993-5375,Marcelo Werneck Barbosa,ok,2,"city, design"
+862,Maria Augusta Justi Pisani,0000-0002-0467-2854,Maria Augusta Justi Pisani,ok,10,"architect, arquitet, edificio, habitacao, housing, paisagis"
+863,Patrícia Pereira Martins,0000-0002-9954-2242,Patrícia Pereira Martins,ok,7,"architect, arquitet, cidade, design, fau, urban"
+865,Stephen Parnell,0000-0002-1367-3859,Stephen Parnell,ok,4,"architect, design, urban, urbano"
+866,Regina Helena Vieira Santos,0000-0002-7052-7604,Regina Helena Vieira Santos,ok,6,"arquitet, cidade, patrimonio, restauro, urban, urbanis"
+867,Silvia Ferreira Santos Wolff,0000-0001-7538-2750,Silvia Ferreira Santos  Wolff,ok,3,"architect, heritage, urban"
+868,Raquel Rodrigues Lima,0000-0003-4200-1805,Raquel Rodrigues Lima,ok,4,"arquitet, habitacao, urban, urbana"
+869,Taísa Festugato,0000-0002-6486-0371,TAISA FESTUGATO,ok,5,"arquitet, construcao, patrimonio, urban, urbanis"
+873,Luciano Abbamonte da Silva,0000-0002-5389-1842,Luciano Silva,ok,5,"arquitet, urban, urbana, urbanis, urbano"
+874,Amon Christian Lasmar,0000-0003-4674-1093,Amon Christian Lasmar,sem_dados,0,
+875,Mariana Chaves Monti Souza,0000-0002-6808-8745,Mariana Rezende Souza,area_suspeita,0,
+876,Claudia Nucci Barone,0000-0003-4584-7232,Claudia Mirretta Barone (formerly Frick),area_suspeita,0,
+877,Valério Marcos Nogueira Pietraroia,0000-0001-8941-4506,Valério Pietraroia,sem_dados,0,
+879,Helena Rong,0000-0003-1626-7968,Helena Rong,ok,4,"architect, built environment, city, design"
+880,Juliana Harumi Suzuki,0000-0002-6148-5238,Juliana Harumi  Suzuki,ok,6,"architect, arquitet, edificio, fau, urban, urbanis"
+881,Marcio Novaes Coelho Jr,0000-0003-0357-4950,Marcio Coelho Jr,sem_dados,0,
+882,Silvio Sguizzardi,0000-0002-3963-6255,silvio sguizzardi,area_suspeita,0,
+884,Silvio Oksman,0009-0001-3558-5593,SILVIO oksman,area_suspeita,0,
+886,Steffen Lehmann,0000-0003-2453-662X,Steffen Lehmann,ok,10,"architect, built environment, city, design, housing, landscape"
+887,Taís de Carvalho Ossani,0000-0002-7904-6436,Tais Ossani,ok,7,"architect, arquitet, city, design, heritage, urban"
+888,Ana Lúcia Cerávolo,0000-0001-5409-7045,Ana Lúcia Cerávolo,ok,5,"architect, arquitet, heritage, urban, urbanis"
+894,Miranda Zamberlan Nedel,0000-0001-8132-3634,Miranda Zamberlan Nedel,ok,8,"architect, arquitet, cidade, docomomo, habitacao, iau"
+895,Rachel Bergantin,0000-0003-3109-652X,Rachel Bergantin,ok,9,"architect, arquitet, cidade, docomomo, heritage, iau"
+896,Arthur Simon Zanella,0000-0001-7072-8193,Arthur Simon Zanella,ok,2,"architect, arquitet"
+901,Catharina Christina Teixeira,0000-0002-2928-2414,Catharina Christina Teixeira,ok,11,"arquitet, cidade, edificio, fau, habitacao, iau"
+902,Rogério Penna Quintanilha,0000-0002-5730-1301,Rogério Quintanilha,ok,4,"arquitet, cidade, urban, urbanis"
+905,Andréa de Oliveira Tourinho,0000-0002-8672-9366,Andréa  Tourinho,sem_dados,0,
+906,Francesca Sarno,0000-0003-0100-8568,Francesca Sarno,sem_dados,0,
+907,Luciana Monzillo de Oliveira,0000-0002-5299-1120,Luciana Monzillo de Oliveira,sem_dados,0,
+910,Brunna Heine,0000-0002-1013-9634,Brunna Heine,ok,4,"arquitet, patrimonio, urban, urbanis"
+911,Cristiane Lavall,0000-0001-7650-828X,Cristiane Lavall,ok,5,"arquitet, cidade, projeto de arquitetura, urban, urbanis"
+913,Matheus Gomes Chemello,0000-0002-4177-0402,Matheus  Chemello,area_suspeita,0,
+914,Amanda Saba Ruggiero,0000-0001-8483-0359,Amanda Saba Ruggiero,ok,8,"architect, arquitet, cidade, design, patrimonio, urban"
+922,Isadora Finoketti Malicheski,0000-0001-7881-0626,Isadora Finoketti Malicheski,ok,2,"arquitet, edificio"
+923,Ivan Souza Vieira,0000-0003-4719-0668,Ivan Souza Vieira,ok,5,"cidade, modernismo, urban, urbana, urbano"
+924,Victor Próspero,0000-0002-7558-2610,Victor Próspero,ok,5,"architect, arquitet, landscape, urban, urbanis"
+926,Ivo Renato Giroto,0000-0002-5062-0107,Ivo Giroto,ok,2,"arquitet, projeto de arquitetura"
+927,Thais da Silva Santos,0000-0001-5803-528X,Thais Rodrigues dos Santos,ok,1,construcao
+928,Vinicius Galbieri Severino,0009-0008-4992-805X,VINICIUS SEVERINO,area_suspeita,0,
+929,Ana Maria Reis de Góes Monteiro,0000-0001-7345-9558,ANA MARIA REIS DE GOES MONTEIRO,ok,7,"architect, arquitet, city, design, landscape, urban"
+930,Lisiê Kremer Cabral,0000-0001-8139-6147,Lisiê Cabral,sem_dados,0,
+931,José Henrique Carlucio Cordeiro,0000-0001-6146-9898,José Henrique Carlúcio Cordeiro,sem_dados,0,
+932,Ana Lúcia Costa de Oliveira,0000-0002-4608-2764,Ana Lúcia Costa de Oliveira,ok,5,"arquitet, cidade, patrimonio, urban, urbana"
+936,Hélio Hirao,0000-0002-0052-6788,Helio Hirao,ok,9,"arquitet, cidade, fau, habitacao, patrimonio, urban"
+938,Jaime Augusto Guerra Galán,0000-0001-9035-8249,JAIME GUERRA-GALAN,nome_divergente,6,"city, heritage, patrimonio, urban, urbana, urbanis"
+940,Ana Tagliari,0000-0002-4488-9898,Ana Tagliari,ok,6,"architect, arquitet, city, design, edificio, urban"
+943,Heloisa Lança Guilherme,0009-0003-6477-9164,Heloisa Lança Guilherme,area_suspeita,0,
+945,Paula Mendes Thomaz Rimi,0000-0002-5889-1809,Paula Mendes Thomaz Rimi,ok,5,"architect, arquitet, housing, urban, urbanis"
+947,Nilson Ghirardello,0000-0003-3166-2026,Nilson Ghirardello,sem_dados,0,
+948,Renata Zampieri,0000-0001-6980-3037,Renata Venturini Zampieri,area_suspeita,0,
+949,Laline Cenci,0000-0002-9157-8611,Laline Cenci,ok,1,construcao
+951,Flávia Cavicchioli Monteiro,0000-0002-7024-660X,Flávia Rodrigues Monteiro,area_suspeita,0,
+956,Julia Simabukuro,0000-0003-0540-8366,Julia Simabukuro,ok,1,architect
+957,Eduardo Galbes Breda de Lima,0000-0003-1902-7863,Eduardo Galbes Breda de Lima,ok,3,"arquitet, urban, urbanis"
+958,Gabriel de Andrade Fernandes,0000-0003-2000-0633,Gabriel de Andrade Fernandes,ok,6,"arquitet, edificio, patrimonio, urban, urbanis, urbano"
+959,João Pedro Barbosa,0009-0007-6033-7157,João Pedro Maya Fialho Ferraz,area_suspeita,0,
+960,Beatriz Barsoumian Carvalho,0000-0002-4438-4275,Beatriz Barsoumian de Carvalho,ok,7,"arquitet, cidade, fau, habitacao, urban, urbanis"
+961,Gabriel Deller de Aguiar,0000-0002-9146-2694,Gabriel Deller de Aguiar,ok,3,"arquitet, urban, urbanis"
+964,Ana Lídia Galhiardi Marvulle,0000-0003-2194-9189,Ana Lídia Galhardi Marvulle,ok,4,"arquitet, urban, urbana, urbanis"
+965,Evilane Renise Almeida de Queiroz,0000-0002-0443-1591,Evilane Renise Almeida de Queiroz,ok,3,"arquitet, urban, urbanis"
+966,Marcelo Suzuki,0000-0003-4226-6280,Marcelo Suzuki,area_suspeita,0,
+967,Taciana Souza Bezerra,0000-0001-6553-460X,Taciana Souza Bezerra,ok,3,"arquitet, urban, urbanis"
+971,Diego Petrini Pinheiro,0000-0001-7626-6321,Diego Pinheiro Fernandes,area_suspeita,0,
+973,Ronaldo Amaro de Oliveira,0000-0002-3792-5475,Ronaldo de Oliveira,ok,2,"cidade, construcao"
+974,Estela Maris de Souza,0000-0002-0261-4060,Estela Maris de Souza,ok,5,"arquitet, cidade, construcao, urban, urbanis"
+975,Caroline Niitsu de Lima,0000-0002-7056-0826,Caroline Niitsu de Lima,sem_dados,0,
+978,Aline Coelho Sanches,0000-0001-6458-0938,Aline Coelho Sanches,ok,8,"architect, arquitet, cidade, edificio, fau, habitacao"
+980,Aline Nami dos Santos,0000-0003-3730-5388,Aline dos Santos Paixão,area_suspeita,0,
+981,María de la Paz Faúndez,0000-0001-8798-2630,María de la Paz Faúndez,ok,4,"architect, design, urban, urbanis"
+984,Sara Goldchmit,0000-0001-9515-5029,Sara Goldchmit,ok,6,"architect, arquitet, design, fau, urban, urbanis"
+985,Vitor Lima,0000-0001-6750-1641,Vitor Moura Lima,area_suspeita,0,
+988,Allan Pedro dos Santos Silva,0000-0001-9463-2305,Allan  Pedro dos Santos Silva,ok,1,arquitet
+990,Ana Carolina Gleria Lima,0000-0002-5280-038X,Ana Carolina Gleria Lima,sem_dados,0,
+992,André Góes Monteiro Antonio,0000-0002-8940-4305,André Góes Monteiro Antonio,sem_dados,0,
+993,Gisele Ferreira de Brito,0000-0002-3721-8068,Gisele Brito,ok,3,"architect, design, fau"
+994,Eduardo Augusto Costa,0000-0002-7909-0496,Eduardo Augusto Costa,ok,6,"architect, arquitet, cidade, design, fau, patrimonio"
+995,Leandro Manuel Reis Velloso,0000-0003-4883-7208,Leandro Manuel Velloso,ok,3,"arquitet, city, design"
+996,Yasmin Natália Migliati,0000-0003-1846-7832,Yasmin Natália  Migliati,area_suspeita,0,
+998,Fernando Prudente Comparini,0000-0002-6276-1046,Fernando Prudente Comparini,sem_dados,0,
+1000,Rodrigo Henrique Geraldo,0000-0003-0536-7621,Rodrigo Geraldo,area_suspeita,0,
+1003,Ana Carolina Buim Azevedo Marques,0000-0003-1568-7231,Ana Emilia Formiga Marques,ok,1,cidade
+1008,Lívia Morais Nóbrega,0000-0001-9950-1523,Lívia Nóbrega,ok,2,"design, urban"
+1011,Roseli Maria Martin D'Elboux,0000-0001-5217-2806,Roseli Maria Martins D'Elboux,ok,6,"architect, city, landscape, urban, urbana, urbanis"
+1020,Evelyn Caroline da Silva Camara,0009-0005-2217-5500,Evelyn Caroline da Silva Camara,ok,5,"arquitet, design, patrimonio, urban, urbanis"
+1025,Raíssa Armelin Lopes,0000-0002-5351-1408,Raíssa Armelin Lopes,ok,3,"arquitet, urban, urbanis"
+1026,Julia Andrade,0009-0000-5286-8387,Júlia Moura,SUSPEITO,0,
+1028,Marina Oba,0000-0001-5310-6106,Marina Oba,sem_dados,0,
+1029,Daniela Moro,0000-0002-3845-3406,Daniela MORO,area_suspeita,0,
+1030,Luiz de Lucca Neto,0000-0003-0097-1037,Luiz de Lucca Neto,ok,1,arquitet
+1032,Adriana Lamoglia Alcântara,0000-0002-4590-7509,Adriana Alcântara,ok,1,iau
+1034,Emanuel Gonçalves Aquino,0009-0001-0604-9927,Emanuel Harim Aquino Yeren,sem_dados,0,
+1037,João Paulo Lobo Coppio,0009-0007-1096-3547,João Paulo Coppio,area_suspeita,0,
+1038,Miguel Antônio Buzzar,0000-0001-6251-0338,Miguel Antonio Buzzar,ok,9,"architect, arquitet, cidade, fau, habitacao, iau"
+1039,Maria Giulia Lourenço Francischinelli,0009-0000-7904-4142,Maria Fernanda  Francischinelli Fuchs,area_suspeita,0,
+1040,Maria Alice de Carvalho,0000-0003-1502-7962,Maria Alice Rezende de Carvalho,ok,5,"cidade, city, urban, urbana, urbano"
+1041,João Luís Bengla Mestre,0009-0009-1859-8497,JOÃO MESTRE,sem_dados,0,
+1042,Jaqueline Fernández Alves,0009-0001-4939-0324,Jaqueline  Fernández Alves,sem_dados,0,
+1043,Cristina de Campos,0000-0001-9379-5057,Cristina de Campos,ok,7,"arquitet, cidade, habitacao, patrimonio, urban, urbanis"
+1047,José Geraldo Simões Junior,0000-0002-2130-2134,José Geraldo Simões Junior,ok,7,"architect, cidade, city, heritage, urban, urbanis"
+1048,Fábio Azevedo Vasconcellos,0000-0003-1823-7789,Fábio Vasconcellos,area_suspeita,0,
+1049,Maria Júlia Cotta,0009-0004-8873-1752,Maria Julia Santos Cotta,area_suspeita,0,
+1050,Felipe Moraes,0000-0002-2740-8263,Felipe Tavares de Moraes,area_suspeita,0,
+1051,Larissa Sírio Coelho Penna,0009-0009-1261-154X,Larissa Sírio Coelho Penna,sem_dados,0,
+1053,Karine Arimateia,0000-0002-1145-8258,karine de Arimateia,ok,1,arquitet
+1055,Ricardson Ferreira Ricardo,0009-0005-5548-2048,Ricardson Ferreira Ricardo,ok,7,"arquitet, cidade, fau, habitacao, projeto de arquitetura, urban"
+1056,Denis Ferri,0009-0006-4280-7648,Denis Ferri,sem_dados,0,
+1057,Daniela Colin Lima,0000-0001-5368-8847,DANIELA COLIN LIMA,sem_dados,0,
+1058,Amanda Guerra,0000-0003-2320-8771,Amanda Guerra,sem_dados,0,
+1059,André Jost Mafra,0000-0002-8115-0902,André Mafra,ok,1,design
+1060,Jean Pierre de Moraes Crété,0000-0002-4378-2087,Jean-Philippe Crété,nome_divergente,2,"city, iau"
+1062,Katiuscia Lopes de Faria,0009-0004-3746-0112,Katiuscia Lopes de Faria,sem_dados,0,
+1063,Carla Conceição Barreto,0000-0002-4223-4898,Carla Conceição Barreto,ok,7,"arquitet, design, housing, projeto de arquitetura, urban, urbana"
+1065,Fabrício Ribeiro dos Santos Godoi,0000-0003-2196-8339,Fabrício Negrisolo de Godoi,area_suspeita,0,
+1067,Luis Gustavo Lucatelli,0000-0002-4827-3097,Luis Gustavo Lucatelli,ok,8,"architect, cidade, city, docomomo, heritage, urban"
+1070,Giulia Gobbi Fernandes Schiavini,0009-0002-1537-5406,Giulia Schiavini,area_suspeita,0,
+1071,Helio Herbst,0000-0003-2274-840X,Helio Herbst,ok,5,"arquitet, fau, restauro, urban, urbanis"
+1073,Cristiane Lopes Canuto,0000-0002-7341-1623,Cristiane Lopes Canuto,ok,8,"architect, arquitet, built environment, construcao, design, heritage"
+1074,Noemia Lucia Barradas Fernandes,0000-0002-4088-1805,Noemia Lucia  Barradas Fernandes,ok,4,"arquitet, restauro, urban, urbanis"
+1075,Carla Maria Teixeira Coelho,0000-0002-2293-8054,Carla Maria Teixeira Coelho,ok,6,"architect, arquitet, heritage, patrimonio, urban, urbanis"
+1076,Barbara Cortizo de Aguiar,0000-0003-0286-0250,Barbara Cortizo de Aguiar,ok,12,"architect, arquitet, construcao, docomomo, edificio, heritage"
+1077,Rosana Soares Zouain,0000-0002-1227-2228,Rosana  Zouain,ok,2,"architect, heritage"
+1078,Elisabete Edelvita Chaves da Silva,0000-0003-0648-3827,Elisabete Edelvita Chaves da Silva,area_suspeita,0,
+1079,Inês El-Jaick Andrade,0000-0001-9012-6421,Inês El-Jaick Andrade,ok,3,"arquitet, construcao, patrimonio"
+1080,Patricia Cavalcante Cordeiro,0000-0002-6149-7837,Patricia cavalcante Cordeiro,ok,8,"arquitet, construcao, edificio, fau, heritage, patrimonio"
+1081,Julio Cesar Ribeiro Sampaio,0000-0001-8923-2606,Julio Cesar Ribeiro SAMPAIO,ok,1,cidade
+1082,Claudio Antonio Santos Lima Carlos,0000-0001-7868-5132,Claudio Antônio S. Lima Carlos,ok,8,"arquitet, cidade, construcao, heritage, paisagis, urban"
+1083,Cristiane Souza Gonçalves,0000-0001-8392-5938,Cristiane de Souza Gonçalves,sem_dados,0,
+1085,Vinicius Ferreira Mattos,0000-0001-6050-4487,Vinicius Mattos,ok,2,"urban, urbano"
+1087,Andréa de Lacerda Pessôa Borde,0000-0002-4169-9722,Andréa Beraldo Borde,sem_dados,0,
+1093,Ana Paula de Oliveira Bringuente,0000-0003-0102-5296,Ana Carla Bringuente,area_suspeita,0,
+1096,Rômulo Marques,0000-0003-1712-3579,Rômulo Alberto Silva Marques,area_suspeita,0,
+1101,Maria de Fátima Campello,0000-0001-6979-1478,Maria de Fátima de Mello Barreto Campello,area_suspeita,0,
+1103,Nabil Bonduki,0000-0002-1553-3147,Nabil Bonduki,ok,3,"housing, urban, urbano"
+1104,Telma de Barros Correia,0000-0001-8002-8748,Telma de Barros Correia,area_suspeita,0,
+1105,Alberto Xavier,0000-0003-4562-8478,Alberto Xavier,sem_dados,0,
+1106,Ana Claudia Castilho Barone,0000-0001-6395-7668,Ana Barone,ok,2,"urban, urbana"
+1107,Ana Lúcia Duarte Lanna,0000-0002-7868-5711,ana lanna,ok,4,"cidade, construcao, fau, patrimonio"
+1108,José Oswaldo Soares de Oliveira,0009-0001-9782-0915,José Lucas Ferreira de Oliveira,area_suspeita,0,
+1114,Juan Antonio Zapatel,0000-0002-6784-8415,Juan Antonio Zapatel Pereira de Araujo,ok,1,arquitet
+1121,Francisco José Santoro,0000-0002-9964-461X,Francisco Santoro,area_suspeita,0,
+1123,Maísa Veloso,0000-0002-3224-2245,Maisa Veloso,ok,4,"architect, arquitet, edificio, mdu"
+1129,Melissa Ramos da Silva Oliveira,0000-0002-8529-5180,Melissa Ramos da Silva Oliveira,ok,6,"architect, design, patrimonio, urban, urbana, urbanis"
+1131,Ricardo Peron Leite Ferraz,0000-0001-9885-8811,Ricardo Ferraz,ok,1,urban
+1135,Mirthes Baffi,0000-0001-8987-0333,MIRTHES IVANY SOARES BAFFI,sem_dados,0,
+1136,Ana Lucia Vieira dos Santos,0000-0002-1546-011X,ANA LUCIA GOMES DOS SANTOS SANTOS,area_suspeita,0,
+1140,Flávia Brito do Nascimento,0000-0002-6889-7614,Flávia Brito do Nascimento,ok,10,"architect, arquitet, cidade, city, habitacao, heritage"
+1141,Liane Flemming,0000-0002-9037-3227,Liane Flemming,area_suspeita,0,
+1144,Cêça Guimaraens,0000-0003-1889-7883,Cêça Guimaraens,sem_dados,0,
+1147,Marcia David,0000-0003-0325-6418,Marcia David,sem_dados,0,
+1153,Roberto Bianchi Jr.,0000-0002-7822-9628,Roberto Bianchi,area_suspeita,0,
+1156,Alejandra Hernández Muñoz,0000-0002-0381-5198,Alejandra Hernández Muñoz,ok,4,"architect, design, fau, urban"
+1158,Fernando Freitas Fuão,0000-0002-4247-7160,fernando freitas  fuão,ok,7,"arquitet, cidade, construcao, design, propar, urban"
+1164,Jurema Marteleto Rugani,0000-0001-9183-7428,Jurema Rugani,sem_dados,0,
+1166,Patrícia Pimenta Azevedo Ribeiro,0000-0001-9211-1637,Patricia Pimenta Azevedo Ribeiro,ok,4,"arquitet, projeto de arquitetura, urban, urbanis"
+1168,Naia Alban Suarez,0000-0003-0488-6155,Naia Alban Suarez,sem_dados,0,
+1170,Walter Arruda de Menezes,0000-0003-2306-0666,Walter Menezes,ok,1,city
+1171,Carlos Antônio Leite Brandão,0000-0002-9014-6681,Carlos Antonio Brandão,ok,4,"construcao, urban, urbana, urbano"
+1175,Luciana Massami Inoue,0000-0002-6683-1443,Luciana Inoue,ok,7,"architect, heritage, patrimonio, urban, urbana, urbanis"
+1179,Elisabete Rodrigues dos Reis,0000-0002-8838-1076,Elisabete Reis,sem_dados,0,
+1180,José Tavares Correia de Lira,0000-0003-2770-9186,José Lira,ok,11,"architect, arquitet, cidade, construcao, fau, habitacao"
+1181,Lucia Noemia Simoni,0000-0001-9206-6012,Lucia Simoni,area_suspeita,0,
+1182,Luiz Recamán,0000-0001-9960-9411,Luiz Recaman,ok,9,"architect, arquitet, cidade, city, design, habitacao"
+1187,Raquel Dias Vieira Braga,0000-0001-7864-0540,RAQUEL XAVIER VIEIRA BRAGA,area_suspeita,0,
+1190,Maria Martina Acosta,0000-0002-4673-2130,María Martina Acosta,sem_dados,0,
+1192,Mauro Claro,0000-0002-0918-1835,Mauro Roberto Claro de Souza,sem_dados,0,
+1193,Oigres Leici Cordeiro de Macedo,0000-0002-9257-9069,Oigres Macedo,ok,2,"urban, urbana"
+1196,Fábio Lopes de Souza Santos,0000-0002-2189-4619,Fábio Lopes de Souza Santos,area_suspeita,0,
+1198,Helena Cunha de Uzeda,0000-0002-6847-1533,HELENA CUNHA DE UZEDA,ok,3,"arquitet, design, patrimonio"
+1199,José Gustavo Francis Abdalla,0000-0002-1555-5004,José Gustavo Francis Abdalla,ok,4,"arquitet, design, urban, urbanis"
+1200,Cláudia Gomes de Araújo,0000-0002-0712-9101,CLAUDIA ARAUJO DE LIMA,area_suspeita,0,
+1208,Karla Sanches,0000-0002-2434-9675,Karla Fernanda Sanches Rodrigues,ok,1,landscape
+1209,Ana Caroline Dantas,0000-0002-9781-7038,Ana Dantas,sem_dados,0,
+1211,Anna Rachel Baracho Eduardo,0000-0003-2861-4402,Anna Maly Eduardo,area_suspeita,0,
+1217,Vera Lucia Ferreira Motta Rezende,0000-0002-3686-3954,vera lucia  rezende,sem_dados,0,
+1220,André Augusto de Almeida Alves,0000-0001-7953-9372,André Augusto de Almeida Alves,ok,5,"architect, arquitet, edificio, urban, urbanis"
+1221,Izabel Fraga do Amaral,0000-0002-9106-6341,Izabel Maria de Melo Amaral,area_suspeita,0,
+1223,Mônica Junqueira de Camargo,0000-0002-2625-5074,Mônica Sartori de Camargo,area_suspeita,0,
+1224,Maria Marta dos Santos Camisassa,0000-0002-3524-190X,Maria Camisassa,ok,1,city
+1228,Gogliardo Vieira Maragno,0000-0002-1009-1108,Gogliardo Vieira Maragno,area_suspeita,0,
+1230,Maria Lúcia Bressan Pinheiro,0000-0001-6269-8756,Maria Lucia Bressan Pinheiro,ok,9,"architect, arquitet, cidade, fau, modernismo, patrimonio"
+1231,Alexandre Rodrigues Seixas,0009-0008-5257-482X,ALEXANDRE Rodrigues Seixas,area_suspeita,0,
+1232,Geraldo Gomes da Silva,0000-0002-4182-4511,Geraldo da Silva Gomes,area_suspeita,0,
+1233,Francisco Sales Trajano Filho,0000-0003-3594-6878,Francisco Sales Trajano Filho,ok,6,"architect, arquitet, cidade, urban, urbana, urbanis"
+1234,Paulo César Castral,0000-0002-6329-7847,Paulo Cesar Castral,ok,7,"arquitet, cidade, city, heritage, urban, urbanis"
+1237,Cristovão Fernandes Duarte,0000-0002-2042-6709,Cristovão Duarte,ok,8,"arquitet, cidade, city, patrimonio, urban, urbana"
+1240,Franciney Carreiro de França,0009-0004-6190-2988,Franciney Carreiro de França,ok,7,"architect, arquitet, fau, habitacao, housing, urban"
+1241,Arlete Maria Francisco,0000-0002-7769-4309,Arlete Maria Francisco,ok,2,"urban, urbana"
+1244,Luiz Carlos de Laurentiz,0000-0003-0699-1055,Luiz Carlos de Laurentiz,sem_dados,0,
+1248,Claudia Loureiro,0000-0002-0471-5711,Claudia Loureiro,area_suspeita,0,
+1249,Paulo Roberto Masseran,0000-0001-7947-7925,Paulo Roberto Masseran,sem_dados,0,
+1250,Valério Augusto Soares de Medeiros,0000-0003-2040-8241,Valerio Medeiros,ok,3,"cidade, urban, urbana"
+1253,Helga Santos da Silva,0000-0003-3191-6292,Helga Bezerra Gomes da Silva,area_suspeita,0,
+1255,Nelci Tinem,0000-0003-3202-0906,Nelci Tinem,sem_dados,0,
+1256,Adalberto da Silva Retto Júnior,0000-0003-3473-7097,Adalberto da Silva Retto Júnior,ok,3,"arquitet, cidade, paisagis"
+1257,Adalberto José Vilela Júnior,0000-0002-8132-7982,Adalberto Vilela,ok,9,"architect, arquitet, built environment, city, design, heritage"
+1259,Ana Carolina de Souza Bierrenbach,0000-0002-0441-7036,Ana Carolina Bierrenbach,area_suspeita,0,
+1261,Aline de Figueirôa Silva,0000-0003-2445-9169,Aline de Figueirôa Silva,ok,6,"architect, heritage, landscape, paisagis, urban, urbanis"
+1265,Anna Paula Moura Canez,0000-0003-3225-1704,Anna Paula Moura Canez,area_suspeita,0,
+1267,Glenio Vianna Bohrer,0009-0005-1056-2853,GLENIO VIANNA BOHRER,sem_dados,0,
+1272,Fabiano Lemes de Oliveira,0000-0001-5785-1920,Fabiano Lemes de Oliveira,ok,6,"architect, city, design, landscape, urban, urbanis"
+1273,Frederico Rosa Borges de Holanda,0000-0002-3592-2246,Frederico de Holanda,ok,8,"architect, arquitet, cidade, city, fau, urban"
+1277,João Clark de Abreu Sodré,0000-0002-4755-0275,João Sodré,ok,1,edificio
+1278,José Simões de Belmont Pessôa,0000-0001-7956-7840,JOSÉ SIMÕES DE BELMONT PESSÔA,area_suspeita,0,
+1282,Leonardo Tossiaki Oba,0000-0003-1749-1515,Leonardo Oba,ok,1,architect
+1284,Maria Amélia de Mello Galvão,0000-0003-3971-5743,MARIA GALVAO,area_suspeita,0,
+1285,Marcos Paulo Cereto,0000-0002-2320-5741,Marcos Paulo Cereto,ok,7,"architect, arquitet, design, docomomo, patrimonio, urban"
+1291,Silvio Leal Júnior,0009-0006-4517-1980,Silvio Júnior,area_suspeita,0,
+1295,Pasqualino Romano Magnavita,0000-0002-9571-5775,Pasqualino Romano Magnavita,sem_dados,0,
+1298,Luciano Lacerda Medina,0000-0002-5507-8134,Luciano Medina,area_suspeita,0,
+1301,Cristina Ribeiro,0000-0003-1082-9835,Cristina Ribeiro,area_suspeita,0,
+1303,Beatriz Naomi Onishi,0009-0001-9033-0411,Beatriz Onishi,area_suspeita,0,
+1304,Leonardo de Almeida,0000-0002-0958-4888,Leonardo Oliveira de almeida,area_suspeita,0,
+1306,Rodrigo Santos de Faria,0000-0001-5355-8532,Rodrigo S. de Faria,ok,9,"arquitet, cidade, city, fau, habitacao, urban"
+1308,Silvana Barbosa Rubino,0000-0001-6728-7825,Silvana Rubino,area_suspeita,0,
+1309,Gerônimo Leitão,0000-0001-7100-8411,Gerônimo Leitão,area_suspeita,0,
+1311,Ana Luisa Rolim,0000-0001-7290-5827,Ana Rolim,ok,9,"architect, arquitet, built environment, city, design, housing"
+1315,Daniela Mendes Cidade,0000-0003-3749-5812,Daniela Cidade,ok,2,"urban, urbano"
+1316,Erinton Aver Moraes,0000-0002-4067-681X,Erinton Aver Moraes,sem_dados,0,
+1318,Angélica Irene da Costa,0009-0004-2350-9624,Angélica  da Costa,area_suspeita,0,
+1320,Carolina Costa,0000-0001-7571-9341,Carolina  Veloso,SUSPEITO,0,
+1321,Raoni Lima,0000-0003-2527-1758,Raoni Alves de Lima,area_suspeita,0,
+1323,Maini de Oliveira Perpétuo,0000-0002-5496-9074,Maini de Oliveira Perpétuo,ok,6,"arquitet, paisagis, urban, urbana, urbanis, urbano"
+1324,Clevio Dheivas Nobre Rabelo,0000-0002-3423-314X,Clevio Dheivas Nobre Rabelo,ok,7,"arquitet, design, fau, modernismo, projeto de arquitetura, urban"
+1326,Tereza Bruzzi de Carvalho,0000-0002-1685-900X,Tereza Bruzzi de Carvalho,ok,2,"arquitet, cidade"
+1331,Felipe de Souza Noto,0000-0001-9927-9037,FELIPE DE SOUZA NOTO,ok,9,"arquitet, cidade, city, edificio, projeto de arquitetura, urban"
+1333,Mauro Cesar de Oliveira Santos,0000-0002-4093-0830,Mauro Santos,area_suspeita,0,
+1336,Fabiana Geneoso De Izaga,0000-0001-5375-4859,Fabiana Izaga,ok,7,"architect, cidade, city, urban, urbana, urbanis"
+1337,Jeferson Cristiano Tavares,0000-0003-2285-0367,JEFERSON CARLOS ARAUJO TAVARES,sem_dados,0,
+1338,Joene Saibrosa da Silva,0000-0002-2944-2211,Joene Da silva,sem_dados,0,
+1339,Leonardo Barci Castriota,0000-0002-9159-1787,Leonardo Castriota,ok,2,"architect, urban"
+1340,Leticia de Oliveira Neves,0000-0002-5935-911X,Leticia de Oliveira Neves,ok,6,"architect, city, design, edificio, urban, urbanis"
+1344,Ana Paula Wickert,0009-0000-5282-0607,Ana Júlia Bisato Wickert,sem_dados,0,
+1346,Lúcio Gomes Machado,0000-0003-4434-2830,Lúcio de Souza Machado,area_suspeita,0,
+1349,Lia Tavares,0009-0002-4058-7873,Lia Tavares,area_suspeita,0,
+1351,Nivaldo Vieira de Andrade Junior,0000-0001-9543-8432,Nivaldo Andrade Junior,area_suspeita,0,
+1352,Rosina Trevisan Martins Ribeiro,0000-0001-5578-7419,Rosina Trevisan Martins Ribeiro,ok,4,"arquitet, patrimonio, urban, urbana"
+1356,Silvia Arango,0009-0001-7314-4043,Silvia Arango,sem_dados,0,
+1360,Marcelle da Silva Araújo,0000-0001-5968-8135,Marcelle Calheiros Barros de Araújo,area_suspeita,0,
+1363,Mara Oliveira Eskinazi,0000-0003-3083-6426,Mara Eskinazi,area_suspeita,0,
+1364,Marco Antonio Coutinho,0009-0004-6245-497X,Marco Antonio Coutinho,sem_dados,0,
+1367,Roberto Souza Guedes,0000-0002-6464-1566,Roberto Guedes,area_suspeita,0,
+1373,Ana Paula Garcia Spolon,0000-0001-7125-5877,Ana Paula Garcia Spolon,ok,7,"architect, arquitet, cidade, city, urban, urbanis"
+1376,Gleice Elali,0000-0001-5270-4868,Gleice Elali,ok,9,"architect, arquitet, built environment, design, housing, projeto de arquitetura"
+1377,José Rosas Vera,0000-0001-9775-1051,José Rosas Vera,ok,5,"city, edificio, urban, urbana, urbano"
+1378,Magdalena Vicuña,0000-0002-9476-396X,Magdalena Vicuña,ok,7,"architect, city, design, urban, urbana, urbanis"
+1381,Paulo Roberto Corrêa,0000-0002-2302-2179,Paulo Roberto Lopes Correa,ok,2,"city, urban"
+1387,Valéria de Souza Ferraz,0009-0005-4027-473X,Valéria Cristina Trindade Ferraz,area_suspeita,0,
+1388,Edja Bezerra Faria Trigueiro,0000-0003-2847-5326,Edja Trigueiro,ok,2,"arquitet, housing"
+1395,João Legal Leal,0000-0002-0513-103X,Leal João,ok,2,"arquitet, city"
+1397,Thiago Leitão de Souza,0009-0009-1950-1386,Thiago Leitão de Souza,ok,6,"arquitet, city, heritage, landscape, urban, urbanis"
+1402,Antônio Tarcísio Reis,0000-0002-2010-0688,ANTÔNIO TARCÍSIO REIS,ok,6,"arquitet, cidade, edificio, urban, urbana, urbanis"
+1403,Bárbara Mello,0000-0002-1713-2064,Bárbara Birk de Mello,ok,2,"cidade, patrimonio"
+1408,Mauricio Lima Conde,0000-0001-5958-4563,Mauricio  Conde,area_suspeita,0,
+1410,Lilian Freitas Vieira,0009-0002-6031-9358,Lilian Vieira,area_suspeita,0,
+1412,Dinah Reiko Tutyia,0000-0001-8766-1757,Dinah Reiko  Tutyia,area_suspeita,0,
+1418,Artur Mendes de Oliveira,0000-0001-7772-9375,Artur Mendes,sem_dados,0,
+1419,Guilherme Pereira da Silva,0000-0001-6198-1568,Guilherme Pereira,area_suspeita,0,
+1425,Gisela Barcellos de Souza,0000-0001-8069-7570,Gisela Barcellos de Souza,ok,10,"architect, arquitet, cidade, city, construcao, design"
+1426,Patrícia Viceconti Nahas,0000-0002-3879-1608,Patricia  Viceconti Nahas,ok,5,"arquitet, cidade, edificio, patrimonio, restauro"
+1428,Carmen Alvarez,0000-0002-8160-2286,Carmen Álvarez-Álvarez,nome_divergente,2,"urban, urbano"
+1431,Gustavo Rocha-Peixoto,0009-0004-0554-3052,Gustavo  Rocha Peixoto,sem_dados_nome_divergente,0,
+1435,Cláudia da Conceição Garcia,0000-0001-7585-3516,CLÁUDIA GARCIA,area_suspeita,0,
+1439,Daniela Ortiz dos Santos,0000-0003-4865-0486,Daniela Ortiz dos Santos,ok,3,"architect, urban, urbanis"
+1440,Mário Luis Carneiro Pinto de Magalhães,0000-0003-1202-5769,Mário Luis Carneiro Pinto de Magalhães,ok,1,cidade
+1441,Priscilla Alves Peixoto,0000-0002-7809-2633,Priscilla Alves Peixoto,ok,3,"arquitet, urban, urbanis"
+1447,Maria Carolina Maziviero,0000-0002-0972-0472,Maria Carolina Maziviero,ok,11,"arquitet, cidade, city, fau, housing, patrimonio"
+1449,Raquel Neimann da Cunha Freire,0000-0002-5485-4568,Raquel Veloso da Cunha,ok,1,design
+1453,Adriana Alvarez,0000-0001-6761-9025,Adriana Bispo Alvarez,area_suspeita,0,
+1455,Paula Gorenstein Dedecca,0000-0003-0931-5837,Paula Dedecca,ok,3,"architect, arquitet, cidade"
+1457,Agnaldo Farias,0000-0003-1611-1824,Agnaldo Farias,area_suspeita,0,
+1460,Fabrícia Cabral de Lira Jordão,0000-0001-9177-2572,Fabricia  Cabral de Lira Jordão,area_suspeita,0,
+1463,Carolina Brasileiro,0000-0001-7807-1675,Carolina Brasileiro,ok,11,"arquitet, cidade, construcao, edificio, habitacao, paisagis"
+1464,Raquel Ludermir,0000-0001-6457-8088,Raquel Ludermir Bernardino,ok,5,"arquitet, housing, patrimonio, urban, urbanis"
+1465,Marluce Wall de Carvalho Venancio,0000-0002-3778-4465,Marluce Wall de Carvalho Venancio,area_suspeita,0,
+1466,Paulo Henrique Alonso,0009-0000-3179-1333,Paulo Henrique Alonso,ok,1,patrimonio
+1467,Esther Mariano Arruda,0000-0002-8674-315X,Esther Cristina  Arruda Oliveira Diógenes,area_suspeita,0,
+1468,Maíra Teixeira Pereira,0009-0009-0861-1758,Maíra Teixeira Pereira,ok,1,arquitet
+1476,Maria da Silveira Lobo,0000-0001-9924-5718,Maria da Silveira Lobo,area_suspeita,0,
+1477,Ana Lucia Ribeiro Camillo da Silveira,0000-0003-2324-3964,Ana Lucia R. C.  Silveira,ok,1,iau
+1484,Georgia Carolina Capistrano da Costa,0000-0001-9383-9734,Georgia Costa,sem_dados,0,
+1488,Ivone Salgado,0000-0001-6042-3863,Ivone Salgado,ok,7,"arquitet, cidade, construcao, urban, urbana, urbanis"
+1494,José Clewton do Nascimento,0000-0002-9723-9207,José Clewton do Nascimento,ok,6,"arquitet, heritage, patrimonio, urban, urbana, urbanis"
+1497,Ana Teresa Cirigliano Villela,0000-0001-6720-935X,Ana Teresa Cirigliano Villela,ok,7,"arquitet, cidade, patrimonio, urban, urbana, urbanis"
+1499,Joubert José Lancha,0000-0002-1690-6857,Joubert José Lancha,ok,9,"arquitet, cidade, construcao, design, docomomo, modernismo"
+1502,Raquel E. de Oliveira Ferreira,0000-0003-4733-6647,Raquel Ferreira de Almeida,area_suspeita,0,
+1504,Maria Beatriz Camargo Cappello,0000-0002-0930-5826,Maria Beatriz Cappello,ok,3,"arquitet, urban, urbanis"
+1505,Jorge Bassani,0000-0001-8968-3255,Jorge Bassani,ok,9,"arquitet, cidade, construcao, design, fau, urban"
+1508,Cíntia Bartz Machado,0000-0002-3871-934X,Cíntia Yuri Soga Bomfim Machado,area_suspeita,0,
+1510,Caliane Christie Oliveira de Almeida,0000-0002-8477-389X,Caliane Christie Oliveira de Almeida Silva,ok,13,"architect, arquitet, cidade, construcao, design, habitacao"
+1512,Oreste Bortolli Junior,0000-0002-4430-4124,Oreste Bortolli Jr,ok,5,"arquitet, fau, urban, urbana, urbanis"
+1513,Ricardo de Lorenzi Kambara,0000-0002-7534-054X,RICARDO LORENZI,ok,2,"city, modernismo"
+1516,Melissa Laus Mattos,0000-0002-4099-8026,Melissa Mattos,area_suspeita,0,
+1517,Maria Inês Sugai,0000-0003-0720-9539,MARIA INÊS SUGAI,ok,6,"arquitet, habitacao, urban, urbana, urbanis, urbano"
+1521,Sonia Maria Milani Gouveia,0000-0001-8475-9580,Sonia Silva Gouveia,area_suspeita,0,
+1526,Jéssica Pinto de Souza,0000-0002-0559-8705,Jéssica Lins de Souza Fernandes,area_suspeita,0,
+1529,Ana Paula da Conceição Esteves,0000-0002-2862-3440,Ana Paula da Silva Esteves,area_suspeita,0,
+1530,Louise Land Bittencourt Lomardo,0009-0001-9515-7734,LOUISE L B LOMARDO,sem_dados,0,
+1531,Gilfranco Medeiros Alves,0000-0002-7288-5173,gilfranco alves,ok,8,"architect, arquitet, design, housing, iau, projeto de arquitetura"
+1532,Juliana Couto Trujillo,0000-0002-7070-0227,Juliana Couto Trujillo,ok,5,"arquitet, patrimonio, urban, urbana, urbanis"
+1533,Ana Paula Polizzo,0000-0003-1559-2128,Ana Paula  Polizzo,ok,9,"architect, arquitet, construcao, design, edificio, fau"
+1535,Paula Silveira de Paoli,0000-0001-8369-2337,Paula Silveira De Paoli,area_suspeita,0,
+1539,Raquel Quinet Pifano,0000-0002-3163-3842,Raquel Pifano,area_suspeita,0,
+1540,Ana Cláudia Böer Breier,0000-0003-0637-0689,Ana Breier,area_suspeita,0,
+1544,Lívia Ribeiro Abreu Muchinelli,0009-0004-5568-2579,Lívia R A Muchinelli,area_suspeita,0,
+1545,Terena Brito dos Santos,0000-0003-0964-7305,terena brito dos santos,sem_dados,0,
+1549,Cristina Lino Gouvêa,0009-0003-3374-1315,Cristina  Lino Gouvêa,ok,3,"arquitet, urban, urbanis"
+1551,Murad Jorge Mussi Vaz,0009-0007-2714-5401,Murad Joge Mussi Vaz,ok,4,"arquitet, cidade, urban, urbanis"
+1554,Michelle Piovezan Gonçalves de França Carneiro,0000-0003-4274-1571,michelle carneiro,ok,1,construcao
+1557,Claudia dos Reis e Cunha,0000-0003-2819-2852,Claudia dos Reis e Cunha,area_suspeita,0,
+1559,Sergio Moraes Rego Fagerlande,0000-0001-9269-0448,Sergio Moraes Rego Fagerlande,ok,5,"arquitet, cidade, landscape, urban, urbanis"
+1562,Raquel von Randow Portes,0009-0007-6200-8285,Raquel von Randow Portes,ok,1,cidade
+1563,Sylvia Couto,0000-0001-7353-7026,Sylvia Couto Nunes,sem_dados,0,
+1564,Leila Maria da Silva Barboza,0000-0001-6568-7243,Leila Maria da Barboza,ok,2,"design, urban"
+1565,Cinthia Lobato Serrano,0009-0008-2639-5246,Cinthia Serrano Virlán,area_suspeita,0,
+1566,Luísa Augusta Gabriela Teixeira Gonçalves,0000-0001-8579-9226,Luísa Gonçalves,ok,10,"architect, arquitet, city, design, fau, projeto de arquitetura"
+1567,Claudia Rueda Velázquez,0000-0002-3914-0196,Claudia Rueda,ok,3,"architect, urban, urbanis"
+1568,Maísa Fonseca de Almeida,0000-0001-8824-1738,Maisa Fonseca de Almeida,ok,12,"architect, arquitet, city, construcao, design, docomomo"
+1569,Paula André,0000-0002-9322-5510,Paula André,ok,6,"arquitet, cidade, patrimonio, urban, urbana, urbano"
+1571,Lívia Maria Macêdo Santos,0000-0003-3696-762X,Livia Reis Santos,area_suspeita,0,
+1573,Camila Furukava,0009-0008-1317-8840,Camila  Furukava,ok,3,"arquitet, urban, urbanis"
+1575,Mirandulina Maria Moreira Azevedo,0000-0001-7917-2128,Mirandulina Azevedo,ok,9,"architect, arquitet, cidade, city, habitacao, patrimonio"
+1578,Maria Paula Piazza Recena,0000-0002-1256-4554,Maria Paula Piazza Recena,ok,6,"architect, arquitet, cidade, propar, urban, urbanis"
+1581,Cesar Floriano,0009-0007-2602-5168,Julio Cesar Floriano Dos Santos,sem_dados,0,
+1586,Nilce Cristina Aravecchia Botas,0000-0002-1296-6107,Nilce Aravecchia-Botas,nome_divergente,7,"arquitet, cidade, habitacao, housing, urban, urbanis"
+1588,Rosa Maria Garcia Rolim de Moura,0000-0002-5512-7100,Rosa Maria  Braga Lopes de Moura,sem_dados,0,
+1589,Givaldo Luiz Medeiros,0000-0003-2299-0095,Givaldo Medeiros,sem_dados,0,
+1591,Eunice del Carmen García García,0000-0003-0787-044X,Eunice Dalet Farfán García,ok,2,"city, urban"
+1594,Jamile Maria da Silva Weizenmann,0000-0001-7077-6371,Jamile Maria da Silva Weizenmann,ok,10,"arquitet, cidade, construcao, habitacao, patrimonio, projeto de arquitetura"
+1596,Ramón Mª Puig,0000-0002-8018-2232,Ramón Camaño-Puig,SUSPEITO,0,
+1598,Robert Terradas,0000-0002-3901-4827,ROBERT TERRADAS,ok,1,architect
+1600,Maria Teresa Prado Maia de Mendonça,0000-0002-1956-9251,MARIA TERESA CASADEI,sem_dados,0,
+1604,Ana Clara Giannecchini,0000-0001-6938-6798,Ana Giannecchini,ok,5,"arquitet, heritage, patrimonio, urban, urbanis"
+1605,Edson da Cunha Mahfuz,0000-0002-2225-1172,Edson DA CUNHA MAHFUZ,ok,9,"architect, arquitet, cidade, construcao, edificio, habitacao"
+1606,Luciane Scottá,0000-0003-2837-6707,Luciane Scottá,sem_dados,0,
+1608,Daniel Fernandes de Macedo,0000-0001-6668-4175,Daniel Macedo,ok,1,architect
+1610,Denise Maria Monteiro,0000-0003-4679-1859,DENISE MONTEIRO,ok,1,city
+1611,Liliana Patricia Vega,0009-0001-8945-3203,LILIANA PATRICIA VEGA LOMBEIDA,sem_dados,0,
+1613,João Pedro Fonseca,0000-0002-5663-2758,Joao Pedro Ferro,area_suspeita,0,
+1614,Ana Tostões,0000-0001-9751-9017,Ana Tostoes,ok,11,"architect, arquitet, city, design, docomomo, fau"
+1615,Ricardo Ferreira Lopes,0000-0003-3169-7851,Ricardo Ferreira Lopes,ok,6,"architect, construcao, design, edificio, urban, urbanis"
+1617,Rosa Karina Carvalho Cavalcante,0000-0002-5345-4597,Rosa Karina  Carvalho Cavalcante,sem_dados,0,
+1624,Eliana L. T. D. Ferreira,0000-0001-7978-8731,ELIANA LÚCIA FERREIRA,area_suspeita,0,
+1626,Romeu Duarte Junior,0000-0001-5697-1752,Romeu Duarte Junior,ok,3,"arquitet, urban, urbanis"
+1629,Rosane Costa Badan,0000-0002-1528-8946,Rosane Badan,sem_dados,0,
+1630,Camilo Vladimir de Lima Amaral,0000-0003-1760-839X,Camilo Vladimir de Lima Amaral,ok,6,"architect, cidade, city, design, urban, urbanis"
+1631,Anicoli Romanini,0000-0003-0036-3680,Anicoli Romanini,ok,4,"arquitet, urban, urbanis, urbano"
+1632,Evanisa Fatima Reginato Quevedo Melo,0000-0001-8144-0937,Evanisa Fátima Reginato Quevedo Melo,area_suspeita,0,
+1634,Roberto Radünz,0000-0003-2569-3168,Roberto Radünz,area_suspeita,0,
+1639,Jonas Delecave,0000-0002-5341-6363,Jonas Delecave,ok,8,"architect, arquitet, design, fau, heritage, urban"
+1641,Felipe Anitelli,0000-0001-9821-5912,felipe anitelli,area_suspeita,0,
+1642,Marcelo Tramontano,0000-0002-0044-4432,Marcelo Tramontano,ok,10,"architect, arquitet, city, construcao, design, iau"
+1646,Roberta Sartori,0000-0002-7847-7269,Roberta Sartori,area_suspeita,0,
+1650,Rodrigo Fabrício Kerber,0000-0002-2918-7847,Rodrigo Menezes Kerber,area_suspeita,0,
+1651,Rudivan Luiz Cattani,0009-0007-9984-1289,Rudivan Luiz Cattani,area_suspeita,0,
+1652,Cecilia Raffa,0000-0001-5109-2679,Cecilia Raffa,ok,3,"patrimonio, urban, urbano"
+1653,Silvia Cirvini,0000-0001-7231-9350,Silvia Augusta Cirvini,ok,3,"patrimonio, urban, urbano"
+1657,Laurinda Rosa Maciel,0000-0002-7463-0502,Laurinda Maciel,area_suspeita,0,
+1659,Susana Villavicencio,0000-0003-3664-7941,susana villavicencio,ok,3,"fau, urban, urbanis"
+1660,Virginia Rush,0000-0001-8176-0471,Virginia Rush,ok,4,"architect, heritage, urban, urbanis"
+1662,Luis Bruna,0000-0002-9137-7844,Luis Alberto Bruna,ok,6,"edificio, fau, patrimonio, urban, urbanis, urbano"
+1664,Guadalupe Salazar González,0000-0003-3285-4978,Guadalupe Salazar González,sem_dados,0,
+1665,Angelica Paiva Ponzio,0000-0001-6239-3346,Angelica Paiva Ponzio,ok,6,"architect, arquitet, design, propar, urban, urbanis"
+1667,Clara Luiza Miranda,0000-0001-9636-2572,Clara Luiza Miranda,ok,6,"arquitet, cidade, city, construcao, urban, urbana"
+1668,Marina Mange Grinover,0000-0002-2171-1464,Marina Mange Grinover,ok,10,"arquitet, cidade, construcao, fau, modernismo, projeto de arquitetura"
+1671,Maria do Carmo de Lima Bezerra,0000-0002-7736-5265,Maria do Carmo de Lima bezerra,ok,13,"arquitet, cidade, city, construcao, design, fau"
+1674,Luiz Eduardo Fontoura Teixeira,0000-0002-2433-3657,Luiz Eduardo Fontoura Teixeira,area_suspeita,0,
+1675,Guilherme Freitas Grad,0000-0002-6430-1609,Guilherme Grad,sem_dados,0,
+1678,Adilson Luiz Gonçalves,0009-0007-8578-6311,Adilson Luiz Gonçalves,area_suspeita,0,
+1683,Roberta Krahe Edelweiss,0000-0003-0187-0086,Roberta Krahe Edelweiss,sem_dados,0,
+1685,Roberta Taborda Santa Catharina,0009-0006-1361-4441,Roberta  Florian Santa Catharina,area_suspeita,0,
+1686,Paula Mello Oliveira Alquati,0000-0001-5757-656X,Paula Mello Oliveira Alquati,ok,1,cidade
+1688,Aldo Paviani,0000-0003-3332-758X,Aldo  Paviani,sem_dados,0,
+1691,Franco Marchionni,0000-0001-5253-8038,FRANCO MARCHIONNI,area_suspeita,0,
+1692,Jorge Guilherme Francisconi,0000-0001-6970-1209,Jorge Guilherme  Francisconi,sem_dados,0,
+1695,Marta Adriana Bustos Romero,0000-0002-4222-8463,Marta Adriana Bustos Romero,ok,7,"arquitet, cidade, edificio, habitacao, urban, urbana"
+1696,Rômulo José da Costa Ribeiro,0000-0002-2679-5812,Rômulo José da Costa Ribeiro,ok,6,"arquitet, housing, urban, urbana, urbanis, urbano"
+1697,Inês Lima Rodrigues,0000-0002-0859-9367,ines lima rodrigues,ok,12,"architect, arquitet, city, design, habitacao, heritage"
+1698,Renata de Souza Nogueira,0000-0001-9539-6762,Renata de Souza Nogueira,area_suspeita,0,
+1701,Lucas Queiroz da Silva,0000-0003-1024-0713,Lucas  Espindola da Silva,area_suspeita,0,
+1702,Taiane Gonçalves de Lima,0000-0002-9022-3974,Taiane  Lima,sem_dados,0,
+1704,Paula Uglione,0000-0002-0568-5892,Paula Uglione,ok,7,"architect, arquitet, cidade, city, urban, urbana"
+1705,Cristiane Rose Duarte,0000-0001-7006-8279,Cristiane Rose Duarte,ok,5,"architect, arquitet, urban, urbana, urbanis"
+1709,Caroline Bauer,0000-0001-9753-2078,Caroline Silveira Bauer,area_suspeita,0,
+1711,Ana Maria Gadelha Albano Amora,0009-0007-1064-364X,Ana Karolyne de Sousa Amora,area_suspeita,0,
+1713,Camilla Leandra da Costa Araújo,0000-0002-2671-2677,Camilla Araújo,ok,1,design
+1715,Samia Salim Hohlenwerger,0009-0000-6544-5172,Samia Hohlenwerger,area_suspeita,0,
+1716,Luciana da Silva Florenzano,0000-0002-8235-7104,Luciana Florenzano,ok,4,"arquitet, patrimonio, urban, urbana"
+1717,Flávio de Lemos Carsalade,0000-0002-0729-4270,Flavio de Lemos Carsalade,ok,7,"architect, arquitet, heritage, patrimonio, urban, urbana"
+1720,Carlos Alberto Batista Maciel,0000-0002-5128-5961,Carlos Alberto Maciel,ok,7,"architect, arquitet, city, design, edificio, urban"
+1721,Julia Rey Pérez,0000-0002-5703-7205,JULIA REY-PÉREZ,nome_divergente,7,"architect, city, heritage, landscape, patrimonio, urban"
+1725,Priscila Chagas Oliveira,0000-0002-2203-6026,Priscila Chagas Oliveira,ok,1,heritage
+1731,Sônia Maria de Barros Marques,0000-0003-0481-0118,sonia MARQUES,ok,4,"architect, modernismo, urban, urbanis"
+1733,João Marcos de Almeida Lopes,0000-0001-9999-2473,João Marcos de Almeida Lopes,ok,6,"architect, arquitet, cidade, habitacao, urban, urbanis"
+1735,Guilherme Silva Graciano,0000-0002-8547-2888,Guilherme  Graciano,ok,2,"city, urban"
+1749,Pedro Paulo Palazzo,0000-0002-0187-774X,Pedro Paulo Palazzo,ok,9,"architect, arquitet, cidade, construcao, design, patrimonio"
+1750,Adriana Mara Vaz de Oliveira,0000-0002-4014-0003,Adriana Mara Vaz de Oliveira,ok,4,"cidade, patrimonio, urban, urbano"
+1753,Dafne Marques de Mendonça,0000-0001-8546-5947,Dafne Marques de Mendonça,ok,3,"arquitet, cidade, patrimonio"
+1754,Pablo Meninato,0009-0005-2176-9913,Pablo Meninato,ok,6,"architect, arquitet, city, design, urban, urbano"
+1756,Laura Nobre Alecrim,0000-0003-1204-5954,Laura Alecrim,ok,1,architect
+1758,Raphaela Banks de Siqueira,0000-0002-4231-3174,Raphaela Banks,ok,1,architect
+1760,Wylnna Carlos Lima Vidal,0000-0001-5014-1301,Wylnna Vidal,ok,6,"arquitet, ppgau, projeto de arquitetura, urban, urbana, urbanis"
+1766,María Laura Tarchini,0009-0007-7455-8700,María Laura Tarchini,area_suspeita,0,
+1768,Humberto Yamaki,0000-0002-5776-0866,Humberto Yamaki Yamaki,ok,2,"landscape, urban"
+1769,Alex Lamounier,0000-0002-6037-9441,Alex Assunção Lamounier,ok,7,"architect, fau, heritage, landscape, ppgau, urban"
+1770,Evandro Fiorin,0000-0002-6556-1461,Evandro Fiorin,ok,7,"architect, arquitet, cidade, urban, urbana, urbanis"
+1772,Beatriz Piccolotto Siqueira Bueno,0000-0003-4920-8905,Beatriz Piccolotto Siqueira Bueno,ok,9,"arquitet, cidade, construcao, design, fau, urban"
+1773,Juscelino Humberto Cunha Machado Junior,0009-0005-7099-1502,Juscelino Humberto  Cunha Machado Junior,ok,5,"arquitet, design, fau, urban, urbanis"
+1774,Daniela Perpétuo Morandi,0000-0001-6551-8167,Daniela Morandi,sem_dados,0,
+1780,Tatiana Paiva Xavier,0000-0002-5325-1036,Tatiana Camello Xavier,ok,1,cidade
+1783,Lucía Espinoza,0000-0003-4870-9871,Lucía Espinoza,ok,2,"urban, urbanis"
+1784,Leonardo Izoton Braga,0000-0001-6332-5345,Leonardo Viana Braga,area_suspeita,0,
+1785,Adriano Tomitão Canas,0000-0002-4567-3204,Adriano Tomitão Canas,ok,8,"arquitet, cidade, design, ppgau, projeto de arquitetura, urban"
+1790,Eugenia María Azevedo Salomao,0000-0001-9236-0481,Eugenia María Azevedo Salomao,ok,1,arquitet
+1791,Luis Alberto Torres Garibay,0000-0002-3685-9023,Luis Alberto Torres Garibay,ok,1,patrimonio
+1792,Carlos Alberto Hiriart Pardo,0000-0001-7190-3942,Carlos Alberto Hiriart Pardo,ok,5,"heritage, patrimonio, urban, urbana, urbano"
+1795,Ana Fernandes,0000-0001-9249-1828,Ana Fernandes,ok,5,"architect, arquitet, cidade, urban, urbanis"
+1796,Gabriela Tenorio,0000-0002-7501-4971,Gabriela  de Souza Tenorio,ok,8,"architect, arquitet, design, fau, urban, urbana"
+1797,José Galbinski,0000-0002-2638-7384,josé galbinski,sem_dados,0,
+1799,Renata Fragoso Coradin,0009-0004-6363-6978,Renata Fragoso Coradin,ok,8,"architect, arquitet, cidade, habitacao, projeto de arquitetura, urban"
+1803,Jorge Schneider,0000-0002-9926-4297,JORGE SCHNEIDER,area_suspeita,0,
+1812,Rodrigo Kamimura,0000-0002-5717-0356,Rodrigo Kamimura,ok,4,"fau, patrimonio, urban, urbano"
+1813,José Ramón Alonso Pereira,0000-0001-7711-4055,JOSE RAMON ALONSO PEREIRA,ok,1,architect
+1814,Antonio Santiago Río Vázquez,0000-0003-2340-1758,Antonio S. Río Vázquez,ok,7,"architect, design, heritage, landscape, patrimonio, urban"
+1821,Tiago Luis de Noronha Lopes Dias,0000-0003-2255-8155,Tiago Lopes Dias,ok,5,"architect, arquitet, design, habitacao, housing"
+1824,Ingrid Quintana Guerrero,0000-0001-9026-9457,Ingrid Quintana Guerrero,ok,7,"architect, arquitet, city, housing, urban, urbanis"
+1826,Fabiola do Valle Zonno,0000-0002-7237-4015,Fabiola do Valle Zonno,ok,8,"architect, arquitet, cidade, landscape, patrimonio, urban"
+1827,David Vélez Santamaría,0000-0002-3136-7273,David Velez,ok,1,architect
+1830,Roger Pamponet da Fonseca,0000-0003-1427-0119,Roger Pamponet da Fonseca,area_suspeita,0,
+1839,Cleusa de Castro,0000-0002-9859-7882,Cleusa de Castro,ok,8,"arquitet, docomomo, edificio, fau, patrimonio, projeto de arquitetura"
+1841,Jorge Nudelman,0000-0001-5734-8348,Jorge Nudelman Blejwas,area_suspeita,0,
+1843,Eva Maria Alvarez Isidro,0000-0002-5473-1269,Eva M. Alvarez Isidro,ok,8,"architect, design, housing, landscape, urban, urbana"
+1847,Mary Méndez,0009-0004-7085-7840,Mary Luz Méndez Delgado,area_suspeita,0,
+1849,Ricardo Luis Silva,0000-0002-6191-8662,Ricardo Luis Silva,ok,5,"arquitet, cidade, urban, urbana, urbano"
+1850,Jean-François Lejeune,0000-0002-2375-074X,Jean-François Lejeune,ok,8,"architect, built environment, city, design, docomomo, landscape"
+1851,Giovanna Ghirardello,0009-0004-6941-9376,Giovanna Ghirardello,area_suspeita,0,
+1852,Márcia Maria Lopes de Mello,0000-0002-2299-3117,Márcia Maria Couto Mello,ok,3,"arquitet, urban, urbanis"
+1856,Ana Carolina Macedo Moreth,0009-0007-7803-0911,Ana Carolina Macedo Moreth,area_suspeita,0,
+1863,Raquel Machado Marques Gabriel,0000-0002-4200-2333,Raquel Gabriel,area_suspeita,0,
+1865,Filipa Raquel Alves Fiúza,0000-0002-3456-2234,Filipa Fiúza,ok,8,"architect, city, edificio, habitacao, heritage, housing"
+1867,Felipe de Araujo Contier,0000-0001-5403-6867,Felipe Contier,ok,9,"architect, arquitet, cidade, design, edificio, fau"
+1868,Ursula Exss Cid,0000-0003-2195-2564,Ursula  Exss Cid,ok,7,"architect, edificio, patrimonio, urban, urbana, urbanis"
+1869,Fernando Agrasar Quiroga,0000-0001-5733-283X,Fernando Agrasar-Quiroga,SUSPEITO,0,
+1870,Angela West Pedrão,0000-0002-5283-6278,Angela West Pedrão,ok,6,"architect, arquitet, cidade, city, urban, urbanis"
+1873,Germana Costa Rocha,0000-0001-6794-8953,Graça Costa Silva Bemposta Moraes Rocha,area_suspeita,0,
+1874,Marise Ferreira Machado,0009-0001-1930-5993,Marise Machado,sem_dados,0,
+1875,Soraya Nór,0000-0003-4031-3733,Soraya Nor,ok,1,arquitet
+1882,Carolina Gottert Knies,0000-0003-3503-6145,Carolina Knies,ok,3,"arquitet, urban, urbanis"
+1883,Alvaro Augusto de Carvalho Costa,0009-0006-9998-3167,Alvaro Cota Carvalho,area_suspeita,0,
+1885,Kauê Felipe Paiva,0009-0001-0743-2792,Kauê Felipe Paiva  Paiva,area_suspeita,0,
+1887,Igor Lacroix,0000-0002-2526-3136,Igor Lacroix,ok,9,"architect, arquitet, cidade, design, fau, housing"
+1892,Fernando de Oliveira Morais,0000-0001-5692-3101,Fernando Morais,ok,9,"arquitet, cidade, habitacao, paisagis, patrimonio, urban"
+1893,Elis Dantas Medeiros,0000-0003-2328-6497,Elis Medeiros,ok,10,"arquitet, cidade, edificio, fau, habitacao, patrimonio"
+1894,Rodrigo Morganti Neres,0000-0002-8043-0515,Rodrigo Morganti Neres,ok,3,"arquitet, urban, urbanis"
+1895,Fabrizio Rosati,0000-0002-1475-3156,Fabrizio Rosati,area_suspeita,0,
+1898,Alexandra Maria Barros Alves Chaves Silva Vidal Saraiva,0000-0003-3820-903X,Alexandra Saraiva,ok,5,"architect, city, design, housing, patrimonio"
+1899,Geovanny Paula Aguayo,0000-0001-5168-8333,Geovanny Marcelo Paula Aguayo,ok,1,patrimonio
+1900,Jaime José Ferrer Forés,0000-0002-3760-2326,Jaime J. Ferrer Forés,ok,2,"architect, landscape"
+1902,Silvia Karla de Oliveira Saraiva,0009-0005-4115-4959,Silvia Saraiva,area_suspeita,0,
+1903,Marisa Cobbe Maass,0000-0001-7640-9927,Marisa Cobbe Maass,ok,4,"cidade, design, urban, urbana"
+1905,Larissa Ribeiro Cunha,0009-0007-5113-3873,Larissa Cristina Cunha,area_suspeita,0,
+1907,Valentina Martins Marques,0000-0003-1204-6842,Valentina Martins Marques,ok,6,"architect, arquitet, design, propar, urban, urbanis"
+1908,Fabiano José Arcadio Sobreira,0000-0001-5422-581X,Fabiano Sobreira,area_suspeita,0,
+1911,Eliara Beck Souza,0000-0003-1121-8067,Eliara Beck Souza,ok,7,"arquitet, cidade, fau, heritage, patrimonio, urban"
+1913,Luca Bullaro,0000-0003-1584-7063,Luca Bullaro,sem_dados,0,
+1915,Mary da Silva Rached,0000-0003-4704-4740,Mary Rached,ok,4,"arquitet, urban, urbanis, urbano"
+1920,Cecilia Ribeiro,0000-0001-8355-2860,CECILIA RIBEIRO PEREIRA,area_suspeita,0,
+1923,Natália Miranda Vieira-de-Araújo,0000-0002-4756-9822,Natalia Miranda Vieira-de-Araújo,ok,12,"arquitet, construcao, docomomo, mdu, modernismo, patrimonio"
+1926,Andréa Virgínia Freire Costa,0009-0003-6390-5261,ANDRÉA VIRGÍNIA FREIRE COSTA,ok,6,"arquitet, cidade, patrimonio, urban, urbanis, urbano"
+1927,Luana Honório Cruz,0000-0003-1206-3722,Luana Talita Da Cruz,ok,1,cidade
+1929,Flávia Laranjeira Costa de Assis,0000-0001-5930-9692,Flávia  de Carvalho Eugenio Assis,ok,1,cidade
+1931,Ana Lara Barbosa Lessa,0000-0001-6548-7671,Ana Cristina Silva  Barbosa,sem_dados,0,
+1936,Mariana Oliveira Braga de Morais,0000-0003-2254-9419,Mariana Peres de Morais,area_suspeita,0,
+1938,Dina Elisabete Uliana,0000-0001-8827-7263,Dina Elisabete Uliana,ok,3,"arquitet, urban, urbanis"
+1939,Eliana de Azevedo Marques,0009-0002-6024-9986,Eliana  Marques,area_suspeita,0,
+1946,Barbara Irene Wasinski Prado,0000-0002-5449-5024,Barbara Irene Wasinski Prado,ok,5,"architect, design, landscape, urban, urbanis"
+1949,Nathália Bichinho C. Corrêa Oliveira,0000-0002-7420-4634,Nathalia Oliveira,area_suspeita,0,
+1952,José Ripper Kós,0000-0002-4760-0017,Jose Kos,ok,6,"architect, cidade, city, design, urban, urbana"
+1954,Paula Vale de Paula,0000-0002-3327-1451,Paula Vale de Paula,ok,7,"architect, arquitet, cidade, city, urban, urbana"
+1955,Vitor Lessa Maciel,0000-0002-3288-9604,Vitor Rodrigues,nome_divergente,1,city
+1963,Rafael Farina Casarin,0009-0002-7564-4356,Rafael Lagunde Casarin,sem_dados,0,
+1964,Anderson Dall'Alba,0000-0001-6857-0884,Anderson Dall'Alba,area_suspeita,0,
+1965,Sergio Kopinski Ekerman,0000-0003-4742-3660,Sergio Kopinski Ekerman,ok,9,"architect, arquitet, city, construcao, fau, heritage"
+1967,Marcos Faccioli Gabriel,0000-0002-0802-0896,MARCOS FACCIOLI GABRIEL,ok,5,"arquitet, habitacao, urban, urbanis, urbano"
+1972,Karine de Vargas Soares,0000-0002-4182-7528,Karine De Assis Oliveira Soares,area_suspeita,0,
+1973,Julian Grub,0000-0001-6139-4371,Julian Grub,ok,6,"arquitet, construcao, projeto de arquitetura, propar, urban, urbanis"
+1974,Víctor Veríssimo Guimarães,0000-0003-0371-5792,VÍCTOR  GUIMARÃES,sem_dados,0,
+1976,Elaine de Albuquerque Medeiros,0000-0002-4287-3067,Elaine Medeiros,sem_dados,0,
+1977,Francisco Bernardo Sales de Aguiar,0000-0002-0320-8769,Francisco ALexandre de Lima Sales,ok,3,"cidade, construcao, iau"
+1979,Isis Meireles Rodrigues,0000-0001-6757-6790,Isis Meireles Rodrigues Sampaio,ok,4,"arquitet, patrimonio, urban, urbana"
+1980,Leandro Manenti,0000-0002-8604-8499,Leandro Manenti,ok,5,"architect, arquitet, cidade, design, modernismo"
+1991,Stephanie Caroline Machado Gonzaga,0000-0002-5978-7106,Stephanie Gonzaga,ok,4,"arquitet, paisagis, urban, urbanis"
+1993,Dilton Lopes de Almeida Júnior,0000-0002-2665-8324,Dilton Lopes de Almeida Junior,ok,10,"architect, arquitet, cidade, city, construcao, design"
+1994,Susanne Bauer,0000-0002-0827-6242,Susanne Bauer,ok,6,"architect, arquitet, city, construcao, design, fau"
+1995,Vitor Gigliotti Tavares Alcântara,0000-0001-5854-1932,Vitor Alcântara,ok,1,cidade
+1997,Neila Dourado Gonçalves Maciel,0009-0003-3718-1001,Neila  Maciel,area_suspeita,0,
+1998,Pedro Augusto Vieira Santos,0000-0001-8516-5135,Pedro Augusto Vieira Santos,ok,9,"arquitet, cidade, construcao, design, fau, patrimonio"
+1999,Alba Nélida de Mendonça Bispo,0000-0002-7356-4304,Alba Bispo,ok,6,"arquitet, cidade, paisagis, patrimonio, urban, urbanis"
+2000,Candice Didonet,0000-0001-5955-919X,Candice Didonet,area_suspeita,0,
+2002,Fernando Antonio Oliveira Mello,0000-0002-3923-1469,Fernando Antonio Oliveira Mello,ok,4,"arquitet, urban, urbana, urbanis"
+2008,Tatiana Caniçali Casado,0000-0003-2414-3877,Tatiana Casado de Staritzky,area_suspeita,0,
+2009,Genildo Coelho Hautequestt Filho,0000-0001-8869-6118,Genildo Coelho Hautequestt Filho,sem_dados,0,
+2015,Daniela Pereira Barbosa,0000-0002-9685-7417,Daniela Barbosa,ok,2,"design, patrimonio"
+2017,Maristela da Silva Janjulio,0000-0001-5723-173X,Maristela Janjulio,ok,4,"architect, arquitet, urban, urbanis"
+2019,Catiele Gonçalves Lima,0000-0001-6650-8833,Catiele Gonçalves Lima,ok,7,"architect, arquitet, built environment, cidade, city, urban"
+2024,Maísa Neves Pimenta,0009-0000-1493-3360,Maísa Fontes Pimenta,sem_dados,0,
+2026,Luiz Gustavo Sobral Fernandes,0000-0001-7893-0791,Luiz Gustavo Sobral Fernandes,ok,3,"arquitet, urban, urbanis"
+2028,Luis Eduardo dos Santos Borda,0000-0001-7831-8164,Luis Eduardo dos Santos Borda,sem_dados,0,
+2030,Aníbal Verri Junior,0000-0003-1855-2324,Aníbal Saltório de Almeida Júnior,area_suspeita,0,
+2033,Gustavo de Almeida Sampaio,0000-0003-2154-5416,Gustavo Sampaio,ok,2,"architect, arquitet"
+2034,Maria Eliza Alves Guerra,0000-0001-8573-1918,Maria Eliza Alves Guerra,ok,6,"arquitet, cidade, urban, urbana, urbanis, urbano"
+2039,Ricardo de Souza Rocha,0000-0002-7291-2557,ricardo de souza rocha,ok,9,"architect, arquitet, city, construcao, design, heritage"
+2040,Pedro Sunyé Barbosa da Silva,0000-0001-8772-245X,Pedro José Barbosa Silva,area_suspeita,0,
+2041,Samira Bueno Chahin,0000-0001-6935-7559,Samira Bueno Chahin,ok,9,"arquitet, cidade, design, fau, patrimonio, ppgau"
+2042,Marianna Gomes Pimentel Cardoso,0000-0002-7225-4793,Marianna Merlo,sem_dados_nome_divergente,0,
+2044,Rafaela Borsato Belo,0009-0000-3740-3506,Rafaela  Borsato Belo,ok,8,"architect, arquitet, cidade, city, design, heritage"
+2047,Jéssica Gomes Silva,0000-0001-7897-8365,Jéssica Gomes da Silva,ok,7,"arquitet, cidade, heritage, patrimonio, urban, urbanis"
+2048,Luca Otero D'Almeida Fuser,0000-0002-2630-784X,Luca Fuser,ok,6,"architect, arquitet, heritage, restauro, urban, urbanis"
+2052,Karolyna de Paula Koppke,0000-0002-8875-2658,Karolyna  Koppke,ok,8,"architect, built environment, city, design, fau, heritage"
+2055,Silvino Marinho,0000-0002-9478-8358,Silvino Marinho,area_suspeita,0,
+2059,Julia da Rocha Pereira,0000-0002-1656-0577,Julia da Rocha Pereira,ok,9,"arquitet, cidade, heritage, mdu, patrimonio, restauro"
+2063,Bráulio Vinícius Ferreira,0000-0001-8148-9474,Bráulio Vinícius Ferreira,ok,4,"arquitet, cidade, urban, urbanis"
+2065,Sérgio Moacir Marques,0000-0003-0355-7923,Sergio Moacir Marques,ok,2,"arquitet, modernismo"
+2069,Giulie Anna Baldissera Leitte-Teixeira,0000-0002-2094-7731,Giulie Anna Baldissera Leitte-Teixeira,ok,5,"architect, built environment, design, urban, urbanis"
+2070,Josiane Patrícia Talamini,0000-0003-4160-011X,Josiane Patrícia Talamini,ok,5,"design, edificio, habitacao, heritage, patrimonio"
+2071,Rafaela Simonato Citron,0000-0001-9424-2243,Rafaela Citron,ok,3,"architect, urban, urbanis"
+2073,Adriano Braz Contardi,0000-0002-7793-5811,ADRIANO BRAZ CONTARDI,ok,3,"arquitet, urban, urbanis"
+2074,Claudio Roberto Comas Brandão,0000-0001-8306-0057,Claudio Roberto Comas Brandão,ok,2,"arquitet, design"
+2076,Raissa de Albuquerque Gameleira,0000-0001-6095-252X,Raissa de Albuquerque Gameleira,ok,6,"architect, arquitet, cidade, construcao, urban, urbanis"
+2078,Leopoldo Eurico Gonçalves Bastos,0000-0003-3217-7129,LEOPOLDO BASTOS,ok,10,"architect, arquitet, cidade, city, design, fau"
+2079,Ana Carolina Canuto Streletcki,0000-0001-9457-9962,ana streletcki,ok,5,"arquitet, habitacao, urban, urbanis, urbano"
+2081,Fernanda Araujo Curi,0000-0001-5375-359X,Fernanda Ramia Curi,area_suspeita,0,
+2085,Fabio Di Mauro,0000-0002-4159-3637,Fabio Mauro,sem_dados,0,
+2086,Mirza Maria Baffi Pellicciotta,0000-0002-5177-5979,Mirza Maria Baffi Pellicciotta,area_suspeita,0,
+2087,Walter Pires,0000-0003-3522-5675,Walter Pires,ok,3,"construcao, urban, urbana"
+2089,Monica Aguiar,0000-0003-1205-2740,Monica Aguiar,area_suspeita,0,
+2090,Marcos Favero,0000-0001-8556-4603,Marcos Favero,sem_dados,0,
+2092,Thaysa Malaquias de Mello,0009-0006-7520-9070,Thaysa Malaquias,ok,1,arquitet
+2099,Hévila Rayara Cruz Ribeiro,0009-0006-1297-4648,Hévila Rayara Cruz Ribeiro,ok,7,"arquitet, cidade, edificio, patrimonio, ppgau, urban"
+2100,Alex de Carvalho Matos,0000-0002-2498-6981,Alex de Carvalho Matos,ok,4,"arquitet, cidade, urban, urbanis"
+2101,Bruna Barbosa de Lima,0000-0002-8022-4383,Bruna Lima,ok,1,arquitet
+2102,Vanda Alice Garcia Zanoni,0000-0003-2629-4214,Vanda Zanoni,ok,4,"architect, construcao, edificio, heritage"
+2105,Julia Resende Kanno,0000-0002-7266-6579,Julia Resende Kanno,area_suspeita,0,
+2106,Thais Ferreira Magalhães,0009-0002-4306-3952,Thais Miranda Oliveira Magalhães,sem_dados,0,
+2107,Cláudia Naves David Amorim,0000-0001-6769-1983,Claudia Naves David Amorim,ok,9,"architect, arquitet, cidade, city, design, edificio"
+2111,Rui Campos Matos,0000-0001-5050-1792,Rui Matos,ok,10,"architect, arquitet, cidade, design, heritage, iau"
+2112,Jorge Eduardo Lucena Tinoco,0000-0001-6591-4194,Jorge Eduardo Lucena Tinoco,ok,9,"arquitet, cidade, construcao, heritage, patrimonio, restauro"
+2116,Patrícia Marins Farias,0000-0001-7264-4014,PATRICIA FARIAS,ok,3,"arquitet, urban, urbanis"
+2120,Maritza Dantas,0000-0002-8567-0390,Maritza Dantas,ok,2,"architect, urban"
+2121,Bernardo Brasil Bielschowsky,0009-0002-2385-487X,Bernardo Brasil Bielschowsky,sem_dados,0,
+2123,Letícia Regina Lorenzi,0000-0003-4041-4980,Letícia Regina Lorenzi,ok,1,design
+2124,Pedro Henrique Carretta Diniz,0000-0001-6726-3380,Pedro Henrique Carretta Diniz,ok,3,"arquitet, cidade, patrimonio"
+2125,Dirceu Piccinato Junior,0000-0001-5153-0931,Dirceu Piccinato Junior,ok,9,"arquitet, cidade, city, patrimonio, restauro, urban"
+2126,Julia Pela Meneghel,0009-0003-3103-4043,Julia Pela Meneghel,sem_dados,0,
+2127,Renata Hermanny de Almeida,0000-0002-8046-6665,Renata Almeida,ok,6,"arquitet, design, patrimonio, urban, urbana, urbanis"
+2130,Rafaela Paes de Andrade Arcoverde,0009-0001-1844-6823,Rafaela Paes de Andrade Arcoverde,ok,3,"arquitet, urban, urbanis"
+2133,João Bittar Fiammenghi,0000-0001-8810-0855,João Bittar Fiammenghi,ok,5,"architect, arquitet, design, fau, landscape"
+2136,Bárbara Cardozo Gomes,0000-0002-2339-3121,Bárbara  Gomes,area_suspeita,0,
+2138,Pier Paolo Bertuzzi Pizzolato,0000-0001-7698-2088,Pier Paolo Pizzolato,area_suspeita,0,
+2142,Ramon Martins da Silva,0000-0002-1958-5614,Ramon Sousa da Silva,ok,1,design
+2143,Julia Santos Miyasaki,0000-0003-3498-7176,Julia Miyasaki,ok,10,"architect, arquitet, cidade, design, landscape, modernismo"
+2146,Filipe Valentim Afonso,0000-0002-1889-049X,Filipe Valentim Afonso,sem_dados,0,
+2148,Lilian Vidal Freitas,0000-0002-8446-7788,Lilian Freitas Vilela,sem_dados,0,
+2150,Cristina Leal,0000-0003-4025-3320,Cristina Gutiérrez Leal,area_suspeita,0,
+2151,Alexandre Pajeú Moura,0000-0001-6297-3623,Alexandre  Pajeú Moura,ok,1,cidade
+2152,Emiliana Rodrigues Costa,0000-0002-1200-1719,EMILIANA RODRIGUES COSTA,ok,4,"architect, iau, urban, urbanis"
+2153,Renata Lais Bogo,0009-0008-5637-5852,Renata Lais Bogo,sem_dados,0,
+2155,Magali Nocchi Collares Gonçalves,0000-0003-1227-671X,Magali Helena Buralde Argenton Gonçalves,area_suspeita,0,
+2159,Bianca Ardanuy Abdala,0000-0003-1441-6771,Bianca Barbosa Abdala,area_suspeita,0,
+2160,Fabiane Biedrzycka da Silva Galarz,0009-0001-6047-2224,FABIANE ANDRADE DA SILVA,area_suspeita,0,
+2162,Giceli Portela Cunico de Oliveira,0000-0002-3292-203X,Giceli Oliveira,ok,1,restauro
+2163,Thalita Cristina Di Masironi Andrade,0000-0002-0493-2257,Thalita Cristina Di Masironi Andrade,area_suspeita,0,
+2164,Adele Sá Martins Belitardo,0000-0003-4682-7276,Adele Belitardo,ok,3,"arquitet, urban, urbanis"
+2165,Kaline Abrantes Guedes,0009-0009-0496-4660,Kaline Guedes Alves,sem_dados,0,
+2167,Thiago Pacheco Turchi,0000-0002-6712-3318,THIAGO TURCHI,sem_dados,0,
+2168,Giselle Marie Cormier Chaim,0000-0002-5133-6968,GISELLE CHAIM,ok,7,"arquitet, design, fau, patrimonio, urban, urbanis"
+2171,Lizandra Machado Moreira,0000-0002-5418-7443,Lizandra Meire Moreira Santos,area_suspeita,0,
+2172,Tayná Marques Cunha,0000-0002-2367-3203,Tayná Cunha Souza,ok,1,cidade
+2174,Manuela Ilha Silva,0000-0002-0810-8265,Manuela Ilha Silva,ok,6,"architect, heritage, patrimonio, urban, urbana, urbanis"
+2175,Maria Cristina Nascentes Cabral,0000-0002-6997-2284,Maria Cristina Nascentes Cabral,ok,3,"architect, urban, urbanis"
+2178,Yrvin Gomes Duarte,0000-0002-0137-6208,Yrvin Duarte,ok,2,"urban, urbana"
+2179,Liziane Peres Mangili,0000-0002-7604-9228,Liziane Mangili,ok,8,"architect, city, heritage, landscape, patrimonio, restauro"
+2180,Matheus Nascimento Nogueira,0009-0003-3886-8999,Matheus Nascimento Nogueira,ok,5,"arquitet, cidade, urban, urbanis, urbano"
+2181,Dalila Varela Singulane,0000-0002-4126-0509,Dalila Varela Singulane,ok,7,"arquitet, construcao, heritage, modernismo, patrimonio, urban"
+2183,Nádia Mendes de Moura,0000-0002-3326-370X,Nádia Mendes de Moura,sem_dados,0,
+2184,Maurício Guimarães Goulart,0000-0003-0640-8800,Maurício Goulart da Silva,area_suspeita,0,
+2187,Nina Vieira Campos,0000-0003-3846-0590,NINA TOMAPASCA CAMPOS,sem_dados,0,
+2188,Carolina Pescatori,0000-0002-4361-2598,carolina pescatori,ok,10,"architect, arquitet, cidade, city, construcao, design"
+2190,Eliana Ursine da Cunha Mello,0000-0001-6060-6619,Eliana Mello,ok,1,patrimonio
+2193,Vinícius Alves de Araujo,0000-0001-7924-3504,Vinícius Alves de Araujo,sem_dados,0,
+2194,Rodrigo Espinha Baeta,0000-0002-8530-6150,Rodrigo Baeta,area_suspeita,0,
+2195,Juliane Guimarães Baldow,0000-0002-2326-3685,Juliane Guimarães Baldow,area_suspeita,0,
+2196,Tatiana Sampaio Ferraz,0000-0002-4444-2121,Tatiana Sampaio Ferraz,ok,8,"arquitet, cidade, city, design, fau, urban"
+2197,Junia Cambraia Mortimer,0000-0001-7939-5110,Junia Mortimer,ok,2,"urban, urbana"
+2201,Gabriel Barros Bordignon,0000-0002-8051-3126,Gabriel Bordignon,ok,9,"architect, arquitet, cidade, design, fau, ppgau"
+2202,Luiza Maia Fagundes,0009-0009-6380-2602,Luiza Maia Fagundes,sem_dados,0,
+2203,Paola Maia Fagundes,0009-0009-1190-9424,Paola Fagundes Moreira Santos,area_suspeita,0,
+2207,Glauce Lilian Alves de Albuquerque,0009-0007-4658-0660,Glauce Alencar Albuquerque,sem_dados,0,
+2208,Eunádia Silva Cavalcante,0000-0002-9245-4995,EUNÁDIA SILVA CAVALCANTE,ok,8,"arquitet, cidade, habitacao, patrimonio, projeto de arquitetura, urban"
+2212,Ricardo Silveira Castor,0000-0002-9338-5426,Ricardo Castor,ok,2,"arquitet, patrimonio"
+2215,Érica Andrade Modesto,0000-0002-4075-2763,Erica Modesto,ok,7,"arquitet, cidade, habitacao, patrimonio, urban, urbanis"
+2216,Anna Beatriz da Silva Fontes,0009-0002-8816-1273,Anna Carolina Fontes,sem_dados,0,
+2219,Fernanda de Castro Farias,0000-0002-4168-6905,FERANNDA GRAZIELLE APARECIDA SOARES DE CASTRO,sem_dados,0,
+2222,Fellipe Decrescenzo Andrade Amaral,0000-0002-6827-3502,Fellipe Decrescenzo A. Amaral,sem_dados,0,
+2225,Heliana Faria Mettig Rocha,0000-0001-9954-9076,Heliana Faria Mettig Rocha,ok,5,"architect, arquitet, urban, urbana, urbanis"
+2226,Nayara Cristina Rosa Amorim,0000-0002-6653-457X,Nayara Cristina  Rosa Amorim,ok,5,"arquitet, cidade, urban, urbanis, urbano"
+2229,Rodrigo Gertosio Swanston,0000-0001-7493-3215,Rodrigo Gertosio Swanston,ok,7,"docomomo, heritage, housing, landscape, patrimonio, urban"
+2232,Maarten Goossens,0000-0002-3744-0283,Maarten Goossens,ok,4,"architect, housing, urban, urbanis"
+2233,Clara Demettino Castro Vasconcelos,0000-0001-7282-7814,Clara Mayara de Almeida Vasconcelos,area_suspeita,0,
+2236,Abilio Guerra,0000-0002-2207-572X,Abilio Guerra,area_suspeita,0,
+2239,Reginaldo Passos Pina Neto,0000-0001-6480-8357,Reginaldo Nascimento Neto,area_suspeita,0,
+2241,Danielle Stephanny Pereira de Alcantara,0000-0001-9174-0618,Danielle Alcantara,sem_dados,0,
+2243,Maria Luiza Macedo Xavier de Freitas,0000-0002-1504-0756,Maria Luiza Macedo Xavier de Freitas,ok,16,"architect, arquitet, cidade, city, construcao, design"
+2245,Marianna de Assis Palmeira Baptista,0009-0007-6686-3721,Marianna de Assis  Palmeira Baptista,area_suspeita,0,
+2247,Vitor Berge Sato,0000-0002-8939-096X,Vitor Sato,area_suspeita,0,
+2251,João Magnus Pires,0000-0002-8374-558X,João Pires,ok,1,city
+2253,Felipe Oliveira Lopes,0000-0002-3970-190X,Felipe Lopes,area_suspeita,0,
+2257,Diego Claudino de Sousa Diniz,0000-0003-1275-809X,Diego Diniz,area_suspeita,0,
+2258,Julia Ribeiro Maranhão Leite,0000-0002-7644-8181,Julia Leite,area_suspeita,0,
+2261,Bruna Ferretti Levi,0009-0000-4149-9758,Bruna  Levi,area_suspeita,0,
+2267,Isabella da S. Bernardes,0000-0003-4699-4699,Isabella Bernardes,area_suspeita,0,
+2269,Carolina de S. L. M. Gester,0000-0001-6348-8224,Carolina GESTER,area_suspeita,0,
+2270,Alexandre Benoit,0000-0003-1428-8407,Alexandre Benoit,ok,2,"urban, urbanis"
+2275,João Carlos de Oliveira Cesar,0000-0002-7090-8749,João Carlos  de Oliveira Cesar,ok,7,"architect, arquitet, design, edificio, projeto de arquitetura, urban"
+2276,Fernanda Bertoli Stival,0000-0001-8435-7725,Fernanda Bertoli Stival,area_suspeita,0,
+2277,Andre Felipe Batistella Souza,0000-0003-3886-7614,Andre Felipe Batistella Souza,ok,5,"arquitet, design, edificio, urban, urbanis"
+2278,Aline Passos Scatalon,0000-0001-6752-2792,Aline Passos Scatalon,ok,8,"architect, arquitet, cidade, edificio, habitacao, iau"
+2279,Ananda Brito Bastos,0000-0002-3749-3975,Ananda Brito Bastos,ok,3,"iau, urban, urbana"
+2283,Carolina Carvalho,0000-0003-0059-3611,Carolina F. Carvalho,ok,6,"architect, arquitet, cidade, city, urban, urbana"
+2284,Rafaela Silva Lins,0000-0003-0490-1239,Rafaela Silva Lins,ok,4,"architect, arquitet, urban, urbanis"
+2285,Letícia T. B. Feitosa,0009-0000-2723-6388,Letícia Toscano de Brito Feitosa,ok,3,"architect, urban, urbanis"
+2288,Teba Silva Yllana,0000-0001-5633-4147,Teba Yllana,ok,3,"urban, urbana, urbanis"
+2295,Cátia dos Santos Conserva,0000-0003-3955-4775,Catia Conserva,ok,5,"arquitet, cidade, urban, urbana, urbanis"
+2296,Liza Maria Souza de Andrade,0000-0002-6624-4628,Liza Maria Souza de  Andrade,ok,10,"architect, arquitet, cidade, construcao, fau, habitacao"
+2297,Jenifer Godoy Daltrozo,0000-0003-3360-9771,Jenifer Godoy Daltrozo,ok,6,"architect, arquitet, city, patrimonio, urban, urbanis"
+2299,Vanessa Silva,0000-0003-0811-9842,Vanessa Oliveira da Silva,area_suspeita,0,
+2300,Luiz Eduardo Sarmento,0000-0002-9077-5007,LUIZ EDUARDO PINHEIRO SARMENTO,ok,3,"patrimonio, urban, urbana"
+2301,Izabelle Machado,0000-0003-2875-881X,Izabelle  Machado,ok,3,"arquitet, urban, urbanis"
+2303,Amanda Rosa de Carvalho,0000-0003-0701-8863,Amanda Bezerra de Carvalho,area_suspeita,0,
+2304,Wesley Schwerz,0000-0003-2206-5983,Wesley Schwerz,sem_dados,0,
+2305,Mayra Simone dos Santos,0000-0001-7274-3645,Mayra Silva dos Santos,sem_dados,0,
+2306,Lídia P. Silva,0000-0002-1722-1753,Lídia da Silva,area_suspeita,0,
+2307,Hugo José Abranches Teixeira Lopes Farias,0000-0001-9346-4039,Hugo Farias,ok,15,"architect, arquitet, cidade, city, design, edificio"
+2310,Alda de Azevedo Ferreira,0000-0002-3649-3930,Alda Ferreira,sem_dados,0,
+2312,Thiago C. Torres,0009-0004-0858-5119,Thiago Coutinho Torres,sem_dados,0,
+2315,Natália Correia Brandão,0000-0002-4382-9252,Natália Correia Brandão,ok,9,"architect, city, design, heritage, landscape, patrimonio"
+2317,Laura Costa,0009-0008-6642-0450,Laura Muriel Costa,area_suspeita,0,
+2319,Luís Henrique Bueno Villanova,0009-0005-9847-6326,Luís Henrique  Bueno Villanova,sem_dados,0,
+2320,Juliano Loureiro Celino Morais de Carvalho,0000-0001-9210-5771,Juliano Loureiro de Carvalho,ok,1,edificio
+2325,Bernadeth Beltrão,0000-0003-0180-242X,Bernadeth Beltrão Rosas Bentes,area_suspeita,0,
+2326,Izabella Melo,0000-0001-5172-1148,Izabella Melo,sem_dados,0,
+2330,Tainara L. Melo,0000-0002-4284-6683,Tainara Melo Lira,ok,1,iau
+2331,Beatriz Alcantara Gomes,0000-0003-0121-9496,Beatriz de Oliveira Alcantara Gomes,ok,2,"architect, patrimonio"
+2333,Ugo Andreata Galimbertti,0000-0003-1889-5941,Ugo Andreata Galimbertti,ok,4,"architect, arquitet, edificio, urban"
+2337,Raul da Silva Ventura Neto,0000-0001-7124-1002,Raul da Silva Ventura Neto,ok,6,"arquitet, cidade, construcao, urban, urbana, urbano"
+2338,Aldeci Ferreira Costa,0000-0002-7554-1771,ALDECI COSTA,ok,4,"arquitet, design, urban, urbanis"
+2340,Jônatas Sousa da Costa,0000-0002-1550-2009,Jonatas Sousa Costa,area_suspeita,0,
+2345,Júnio Carvalho Santos,0000-0002-0794-267X,Júnio Carvalho dos Santos,sem_dados,0,
+2347,Gabriel Alvariz Lopes,0000-0001-6726-050X,Gabriel Alvariz Lopes,area_suspeita,0,
+2349,Maria Inés Travieso Rios,0000-0003-0514-2334,María Ríos,area_suspeita,0,
+2354,Ronaldo Nonato Ferreira Marques de Carvalho,0000-0002-0076-9966,Ronaldo Nonato Ferreira  Marques de Carvalho,area_suspeita,0,
+2355,Vithoria Carvalho da Silva,0000-0003-4316-7794,Vithoria  Silva,area_suspeita,0,
+2356,Thiago Augusto Tavares,0000-0001-5997-5089,Thiago Passos Tavares,area_suspeita,0,
+2358,Sidney Pery da Silva Costa Filho,0000-0002-7191-2248,Sidney Costa Filho,sem_dados,0,
+2359,Thayse Layane Oliveira de Queiroz,0000-0002-2650-371X,THAYSE QUEIROZ,sem_dados,0,
+2361,Eloise Mendes Rabelo,0009-0002-0421-1924,Eloise Mendes Rabelo Rabelo,ok,4,"arquitet, ppgau, urban, urbanis"
+2363,Ana Klaudia de Almeida Viana Perdigão,0009-0006-6656-7706,Ana victoria costa perdigão  perdigão,area_suspeita,0,
+2365,Beatriz da Silva Takahashi,0000-0002-4423-2423,Beatriz da Silva Takahashi,ok,8,"architect, arquitet, design, heritage, landscape, patrimonio"
+2369,Jéssica Tavares,0000-0002-3197-9720,Jessica Tavares,area_suspeita,0,
+2371,Fernanda Freitas Costa de Torres,0000-0001-6982-855X,FERNANDA  SULINO RIBEIRO TORRES,area_suspeita,0,
+2372,Eduardo Garcia Arantes,0000-0003-2578-5513,Eduardo Garcia Arantes,ok,1,design
+2375,Lucas N. Guimarães,0000-0003-1469-5395,Lucas  Nunes Guimarães,area_suspeita,0,
+2378,Letícia Naka Cartaxo Mishina,0000-0002-9951-1884,Letícia Naka Cartaxo Mishina,ok,6,"architect, heritage, urban, urbana, urbanis, urbano"
+2384,Alice B. Lemme,0000-0002-1713-8239,Alice Ballesté Lemme,sem_dados,0,
+2387,Mara Luisa Barros de Sousa Brito Pereira,0000-0002-5943-540X,Mara Dantas Pereira,ok,1,arquitet
+2390,Verônica Freitas,0000-0002-1560-614X,Veronica Freitas de Paula,area_suspeita,0,
+2392,Haniel Israel,0000-0002-4295-7105,Haniel Israel,ok,4,"arquitet, cidade, urban, urbanis"
+2393,Guilherme Michelin,0000-0003-3236-0150,Guilherme Michelin Marmentini,sem_dados,0,
+2394,Valter Caldana,0000-0002-5351-4537,VALTER CALDANA,ok,12,"arquitet, cidade, construcao, design, fau, habitacao"
+2398,Wanderson Leão Afonso Ogawa,0000-0002-5425-9566,Wanderson Ogawa,area_suspeita,0,
+2401,Ana Gabriela Wanderley Soriano,0000-0001-9655-9922,ana soriano,area_suspeita,0,
+2402,Fernanda Vieira de Mello Oliveira,0000-0001-8021-7020,Fernanda Paula Oliveira,ok,6,"edificio, habitacao, urban, urbana, urbanis, urbano"
+2403,Taiana Car Vidotto,0000-0002-7498-3789,Taiana Car Vidotto,sem_dados,0,
+2404,Giovani Leonardo Gomes,0000-0001-5326-9917,Giovani Virgilio Gomes,sem_dados,0,
+2408,Lisiane Zwirtes,0000-0002-7464-5835,Lisiane Zwirtes,sem_dados,0,
+2412,Bruno Pedro Alves de Campos,0009-0009-5940-170X,Bruno Campos,area_suspeita,0,
+2414,Pedro Paulo Drumond Almeida,0000-0003-0979-0865,Pedro de Almeida,ok,1,design
+2415,Claudia Helena Campos Nascimento,0000-0002-1447-4915,Claudia Nascimento,ok,5,"arquitet, patrimonio, restauro, urban, urbanis"
+2422,Ronaldo Nunes de Moraes,0000-0003-2871-4446,Ronaldo Nunes de Moraes,ok,2,"urban, urbana"
+2424,Paulo Neves Siqueira,0000-0002-7498-0721,Paulo Henrique Siqueira,area_suspeita,0,
+2425,Karen Alessandra Solek,0000-0002-9374-2219,KAREN ALESSANDRA SOLEK,ok,7,"arquitet, cidade, habitacao, urban, urbana, urbanis"
+2426,Fabíola Castelo de Souza Cordovil,0000-0002-1065-3908,Fabíola Cordovil,ok,7,"arquitet, cidade, habitacao, urban, urbana, urbanis"
+2427,Lyvia Caroline Pires,0009-0000-6919-8498,Lyvia Caroline Pires,area_suspeita,0,
+2430,Mércia Parente Rocha,0000-0001-9507-7032,Mércia Parente Rocha,sem_dados,0,
+2432,Luiza de Oliveira Sant'Ana,0000-0002-6402-5691,Luiza Sant'Ana,sem_dados,0,
+2433,Leonardo Nóbrega,0000-0001-6866-6763,Leonardo Nóbrega,ok,3,"cidade, urban, urbano"
+2436,Gabriela Fernandes do Nascimento,0000-0002-4274-9533,Gabriela Nascimento,sem_dados,0,
+2437,Bruna Lopes,0000-0002-5892-5503,Bruna Alves Lopes,area_suspeita,0,
+2440,Kellen Emanuele Alves Miranda,0000-0003-2314-6072,Kellen Miranda,area_suspeita,0,
+2443,Benjamim Saviane,0000-0002-5560-9791,Benjamim Saviane,ok,6,"architect, arquitet, fau, heritage, urban, urbanis"
+2444,Luiza Loivos de Azevedo Ceruti,0009-0003-8161-0264,Luiza Loivos de Azevedo Ceruti,ok,7,"architect, arquitet, cidade, heritage, patrimonio, urban"
+2447,Myllena Bezerra Alves,0000-0002-4707-9532,Myllena Alves,area_suspeita,0,
+2452,Pedro Guimarães Teixeira,0000-0001-9075-8998,Pedro Teixeira,ok,1,restauro
+2454,Eloah Maria Coelho Rosa,0009-0006-1382-6356,Eloah Rosa,area_suspeita,0,
+2459,Igor Miranda Pinto,0000-0003-1160-8807,Igor Miranda,sem_dados,0,
+2461,Mariana Fialho Bonates,0000-0001-9693-4614,mariana bonates,ok,4,"arquitet, urban, urbana, urbanis"
+2463,Aretuza Karla Araújo da Rocha,0000-0002-3775-6624,Aretuza Karla  Rocha,area_suspeita,0,
+2470,Daniel Igor Leite Figueredo,0009-0004-8841-2954,Daniel Figueredo,sem_dados,0,
+2471,Monick Pessoa de Farias Rodrigues,0009-0003-8377-9266,Monick Rodrigues Lima,area_suspeita,0,
+2473,Constance Pinheiro Cardoso de Brito Gonçalves,0009-0007-9707-7352,Constance Gonçalves,sem_dados,0,
+2474,Fábio Domingos Batista,0000-0002-4357-3162,Fábio Batista,ok,4,"arquitet, design, urban, urbanis"
+2475,Natália Sagaz,0000-0002-4492-8834,Natália Sagaz,ok,7,"arquitet, cidade, construcao, habitacao, urban, urbanis"
+2477,Manoel Hermes Pupim Neto,0000-0002-4416-3130,Manoel Neto,area_suspeita,0,
+2478,João Vicente Machado Schmitz,0000-0003-4446-0466,João Vicente Machado Schmitz,ok,4,"arquitet, patrimonio, urban, urbanis"
+2482,Fernando dos Santos Calvetti,0000-0002-1063-4491,Fernando dos Santos Calvetti,ok,1,arquitet
+2484,João Vitor Bittencourt Pilati,0009-0008-4772-8986,João Vitor Bittencourt Pilati,area_suspeita,0,
+2485,Natália Toralles dos Santos Braga,0000-0002-8389-1982,Natália  Toralles dos Santos Braga,ok,8,"arquitet, cidade, design, heritage, patrimonio, urban"
+2487,Vinícius Okada,0000-0003-1185-0142,Vinícius Okada Micheletto de Moraes D'Amico,ok,5,"arquitet, fau, iau, urban, urbanis"
+2489,Denise Fernandes Geribello,0000-0003-4588-4543,Denise Geribello,ok,1,patrimonio
+2491,Ariane Cavalcante Nogueira Lima,0000-0002-5920-1419,Ariane Martins Nogueira,ok,1,cidade
+2494,James Shoiti Miyamoto,0000-0002-4710-4339,James Miyamoto,ok,7,"architect, arquitet, design, fau, urban, urbanis"
+2495,Lucas da Rocha Silva,0000-0003-4867-2546,LUCAS ROCHA,sem_dados,0,
+2498,Lucas Silva Pamio,0000-0003-1067-1556,Lucas Silva Pamio,ok,11,"architect, arquitet, cidade, habitacao, landscape, paisagis"
+2502,Giovanna Polonio Renzetti,0000-0001-7353-4132,Giovanna Renzetti,ok,8,"architect, built environment, design, fau, heritage, ppgau"
+2503,Natália Barbosa Hetem,0000-0001-8636-1103,natalia hetem,ok,5,"architect, cidade, design, heritage, urban"
+2504,Nadia Somekh,0000-0003-2906-8271,Nadia Somekh,ok,7,"arquitet, cidade, patrimonio, restauro, urban, urbana"
+2505,Bruna Fregonezi,0000-0002-3260-2415,Bruna Fregonezi,ok,9,"arquitet, cidade, city, patrimonio, restauro, urban"
+2506,Brenda Lais de Castro,0000-0001-8081-0406,Brenda Thainá Cardoso de Castro,area_suspeita,0,
+2511,Hermógenes Moussallem Vasconcelos,0009-0006-4206-0046,Hermógenes Moussallem Vasconcelos,ok,7,"arquitet, cidade, design, edificio, fau, urban"
+2512,Inayara Santos Sampaio,0000-0002-0334-9596,Inayara Santos Sampaio,ok,8,"arquitet, cidade, habitacao, iau, paisagis, urban"
+2514,Arthur Monte,0009-0006-9033-3731,Arthur Guilherme Ramos do Monte,area_suspeita,0,
+2516,Bruna Valença Mallorga,0000-0001-7138-9429,Bruna Valença Mallorga,ok,4,"arquitet, patrimonio, urban, urbanis"
+2517,Horacio Enrique Torrent,0000-0003-3637-586X,Horacio Torrent,ok,10,"architect, cidade, city, design, heritage, housing"
+2518,Vicente Ignacio Osorio,0000-0001-5022-1889,Vicente Valenzuela Osorio,ok,2,"city, design"
+2519,Javiera Garrido,0000-0002-0667-7958,Javiera Garrido,area_suspeita,0,
+2520,Leopoldo Schettino,0000-0002-0976-6120,Leopoldo Schettino,ok,9,"architect, arquitet, cidade, city, design, fau"
+2522,Elizabeth Amorim de Castro,0000-0002-0410-8305,Elizabeth Amorim de Castro,ok,6,"arquitet, edificio, modernismo, patrimonio, urban, urbanis"
+2523,Maria da Graça Rodrigues dos Santos,0000-0001-5917-1195,Maria da Graça Rodrigues dos Santos,ok,5,"architect, heritage, urban, urbana, urbanis"
+2524,João Victor Navarrete,0009-0008-2079-8888,João Victor Navarrete de Almeida,ok,8,"architect, arquitet, cidade, design, docomomo, heritage"
+2525,Maria Julia de Castro Herklotz,0009-0008-1246-5813,MARIA JULIA DE CASTRO HERKLOTZ DE CASTRO HERKLOTZ,sem_dados,0,
+2533,Mariana Barbosa Sodré,0009-0001-2083-5326,Mariana Sodré,sem_dados,0,
+2534,Antônio Pedro Carvalho,0000-0003-0723-6940,Antonio Pedro Carvalho,ok,6,"architect, arquitet, edificio, fau, urban, urbanis"
+2538,Surama Batista Vieira da Costa,0009-0004-7528-5589,Surama Costa,area_suspeita,0,
+2540,Ivone da Silva Gutierre,0009-0008-8357-9834,Ivone da Silva Gutierre,ok,3,"arquitet, urban, urbanis"
+2542,Adan Henrique Quaresma Neves,0009-0009-9753-1943,Adan Neves,area_suspeita,0,
+2544,Murielly Jenniffer Dantas Oliveira,0000-0002-9286-6893,murielly marques de oliveira,area_suspeita,0,
+2545,Ana Caroline Antonino Alves,0000-0001-5310-5138,Ana Caroline Alves Costa,area_suspeita,0,
+2546,Ayana Dantas de Medeiros,0000-0002-8050-7009,Ayana Kissi Meira de Medeiros,area_suspeita,0,
+2550,Juliana Leite Evangelista Pimentel,0000-0003-2245-4153,Juliana Leite Evangelista Pimentel,sem_dados,0,
+2554,Lucas de Souza Jales,0000-0002-4184-1071,Lucas Jales,ok,2,"arquitet, patrimonio"
+2556,Marcia Cristina Ribeiro Gonçalves Nunes,0000-0002-5506-8155,Márcia Maria Urbanin Castanhole-Nunes,SUSPEITO,0,
+2558,Franciane de Nazaré Sousa Oliveira,0009-0001-3332-7937,Franciane de Nazaré Sousa Oliveira,sem_dados,0,
+2559,Andrei de Ferrer e Arruda Cavalcanti,0009-0006-1318-8569,Andrei de Ferrer e Arruda Cavalcanti,ok,2,"arquitet, projeto de arquitetura"
+2560,Marcela Dimenstein,0000-0003-0226-8206,MARCELA DIMENSTEIN,ok,5,"arquitet, projeto de arquitetura, urban, urbana, urbano"
+2562,Nadime Alvarenga Fróes,0000-0003-4490-6982,Nadime Fróes,ok,7,"arquitet, construcao, fau, patrimonio, ppgau, urban"
+2565,Hermes da Fonseca Neto,0000-0002-5140-2232,Hermes Neto,sem_dados,0,
+2566,Paulo Henrique Correia Silva Sá Vale,0000-0001-5039-5520,Paulo Henrique Correia Silva Sá Vale,ok,5,"arquitet, cidade, construcao, urban, urbanis"
+2569,Cintia Guedes da Silva,0000-0001-7999-1748,Cintia Coelho da Silva,ok,1,cidade
+2570,Claudia Terezinha de Andrade Oliveira,0000-0002-8628-3130,Claudia de Andrade Oliveira,ok,11,"architect, arquitet, construcao, design, edificio, fau"
+2571,Caue Moreira de Sousa,0000-0001-5380-8327,Caue Evangelista de Sousa,ok,1,construcao
+2572,Aline Figueiredo Nobrega e Azeredo,0009-0008-8197-3459,Aline  Azeredo,sem_dados,0,
+2574,Henio Henrique Brandão da Silva,0009-0009-1176-7032,Henio Carlos Coelho Silva,area_suspeita,0,
+2578,Lauanny Isabel Medeiros Lopes,0009-0005-8919-9996,Lauanny Lopes,area_suspeita,0,
+2580,Luiz Augusto Dutra Souza do Monte,0000-0002-8149-1758,Luiz Monte,ok,1,arquitet
+2581,Alana Souza Santos,0000-0002-6503-8742,Alana Libania de Souza Santos,sem_dados,0,
+2583,Ingrid Mikaella de Oliveira Lima,0000-0003-3717-8737,INGRID OLIVEIRA,ok,3,"arquitet, urban, urbanis"
+2584,Ítalo Monteiro de Oliveira Mariano Gomes,0000-0002-7527-7640,Ítalo Monteiro de Oliveira Mariano Gomes,ok,6,"arquitet, cidade, patrimonio, urban, urbanis, urbano"
+2587,Airton Fonseca Barreira,0009-0003-1878-910X,Airton Barreira,area_suspeita,0,
+2592,Geicy Palmeira Gomes Ferreira,0009-0006-5496-1191,Geicy Palmeira Gomes Ferreira,ok,9,"arquitet, cidade, design, mdu, patrimonio, ppgau"
+2594,Yara Mabell Gomes Patriota,0009-0008-1342-0975,Yara Mabell  Gomes Patriota,ok,1,patrimonio
+2595,Francielle Ferreira Santos,0000-0001-7108-3606,FRANCIELLE COELHO DOS  SANTOS,ok,2,"construcao, edificio"
+2596,Cynara Fiedler Bremer,0000-0001-9510-2859,Cynara Fiedler Bremer,area_suspeita,0,
+2597,Gláucia Nolasco de Almeida Mello,0000-0002-2865-8782,Glaucia Nolasco de Almeida Mello,ok,1,design
+2606,Guilherme Amorim Cavalcanti,0009-0000-1600-109X,Guilherme Cavalcanti,ok,2,"architect, arquitet"
+2608,Maria Cristina Villefort Teixeira,0000-0002-8839-4192,Maria Cristina Villefort Teixeira,area_suspeita,0,
+2609,Frederico de Paula Tofani,0000-0001-9633-3237,Frederico de Paula Tofani,ok,4,"arquitet, urban, urbana, urbanis"
+2610,Bethania Ramos Ribeiro,0000-0001-5864-611X,Bethania de Freitas Rodrigues Ribeiro,area_suspeita,0,
+2614,Thaís Trovão dos Santos Zenkner,0009-0005-7375-5601,Thaís Freitas Zenkner,sem_dados,0,
+2615,Carina Regina Quintela Quaresma,0009-0004-9544-169X,Carina Regina  Quintela Quaresma,ok,3,"arquitet, urban, urbanis"
+2617,Mateus da Silva Costa,0000-0002-0088-4008,Mateus Paranhos da Costa,area_suspeita,0,
+2619,Andrea Queiroz Rego,0000-0002-3801-8017,Andrea Queiroz Rego,ok,5,"cidade, landscape, urban, urbana, urbano"
+2620,Claudia Carvalho Leme Nóbrega,0000-0001-7955-3967,Claudia Nóbrega,sem_dados,0,
+2622,Victória Fernandes Vicente,0000-0001-8804-5614,Victória Fernandes Vicente,sem_dados,0,
+2624,Rubens Oliveira,0000-0003-2557-592X,Rubens Alves de Oliveira,area_suspeita,0,
+2625,Lúcio Tiago Maurilo Torres,0009-0004-5025-5623,Lúcio Tiago Maurilo Torres,ok,2,"arquitet, patrimonio"
+2626,Claudete Barbosa Ruschival,0000-0001-5686-3209,Claudete Barbosa Ruschival,ok,4,"arquitet, construcao, design, patrimonio"
+2627,Rudan Quindere Cavalcanti,0009-0000-5683-7289,Rudan Quinderé Cavalcanti,area_suspeita,0,
+2630,Barbara Lumy Noda Nogueira,0000-0002-0395-6206,Barbara Lumy Noda Nogueira,ok,6,"arquitet, city, edificio, ppgau, urban, urbanis"
+2631,Amanda Vieira Pessoa Lima,0000-0001-8406-210X,Amanda V. P. Lima,ok,5,"arquitet, urban, urbana, urbanis, urbano"
+2636,Amíria Bezerra Brasil,0000-0001-6877-4916,Amiria Bezerra Brasil,ok,3,"cidade, urban, urbano"
+2637,Emanuel Ramos Cavalcanti,0000-0002-3131-7786,Emanuel Cavalcanti,sem_dados,0,
+2638,Vitoria Alves dos Santos,0000-0003-1992-3780,Vitória Maytana,sem_dados_nome_divergente,0,
+2639,Rebeca Barbosa Dias Rodrigues,0009-0006-2487-3588,Rebeca Dias,area_suspeita,0,
+2643,Mariane Pamplona,0009-0007-9205-3685,Mariane Antunes Pamplona,area_suspeita,0,
+2648,Elizabete Rodrigues de Campos Martins,0009-0008-8184-2184,Elizabete Gercina da Silva Martins,sem_dados,0,
+2651,Marlice Nazareth Soares de Azevedo,0009-0000-7689-3720,Marlice Nazareth Soares de Azevedo,sem_dados,0,
+2652,Renato da Gama-Rosa Costa,0000-0002-2569-0912,Renato Gama-Rosa,ok,6,"arquitet, construcao, heritage, patrimonio, urban, urbana"
+2653,Aline Machado Vieira,0000-0002-2479-6774,Aline Vieira,area_suspeita,0,
+2655,Luana Garcia Costa,0000-0003-2293-6806,Luana Costa,sem_dados,0,
+2658,Rodrigo Cury Paraízo,0000-0002-2012-556X,Rodrigo Paraizo,ok,7,"arquitet, city, design, heritage, urban, urbana"
+2660,Débora Zukeran,0009-0008-0946-4262,Débora Picorelli Zukeran,ok,1,city
+2662,Rebeca Waltenberg,0000-0001-8306-8411,Rebeca Waltenberg,ok,1,construcao
+2663,Alfredo Britto,0000-0002-6185-5358,Luis Alfredo Leon Britto,sem_dados,0,
+2665,Maria Maia Porto,0000-0002-9059-1953,Maria Porto,area_suspeita,0,
+2670,Renato Alves e Silva,0000-0002-3139-8440,Renato Alves e Silva,ok,9,"architect, arquitet, cidade, construcao, heritage, patrimonio"
+2672,Rayane Farias,0000-0001-6500-1096,Rayane Farias dos Santos,ok,1,heritage
+2673,Richard Pires,0009-0008-3057-4722,Richard  Da Costa Pires,sem_dados,0,
+2674,Thaís Fernanda Bette,0000-0002-9934-5206,Thaís Bette,sem_dados,0,
+2675,Vivian Horta,0000-0001-9334-5523,Vivian Horta,area_suspeita,0,
+2676,Márcio Ferreira Rangel,0000-0002-8208-3115,Marcio Rangel,ok,1,patrimonio
+2681,Hilton Berredo,0000-0003-1734-9105,Hilton Berredo,sem_dados,0,
+2686,Lígia Daniela Alves Ferreira,0009-0007-3470-5964,Lígia Ferreira,area_suspeita,0,
+2687,Olívia Vigneron Medeiros,0000-0002-4217-2914,Olivia Medeiros-Neta,nome_divergente,2,"cidade, construcao"
+2688,Rafael de Oliveira Gomes da Costa,0000-0002-9122-5373,Rafael Costa,sem_dados,0,
+2689,Ana Slade,0000-0003-4344-5096,Ana Slade,ok,4,"architect, arquitet, urban, urbanis"
+2693,Viviane Matos,0000-0003-1882-3243,Viviane Vieira Santos Matos,area_suspeita,0,
+2694,Adriana Capretz Borges da Silva Manhas,0000-0003-0019-1727,ADRIANA CAPRETZ BORGES DA SILVA MANHAS,ok,1,patrimonio
+2697,Celina Borges Lemos,0000-0001-8717-8095,CELINA BORGES LEMOS,ok,3,"arquitet, urban, urbana"
+2698,Fabio Jose Martins de Lima,0000-0001-9071-2383,Fábio Martins de Lima,area_suspeita,0,
+2700,Eduardo Bento Vasconcelos,0000-0002-3490-3596,Eduardo Mourão Vasconcelos,sem_dados,0,
+2703,Bruno Tropia Caldas,0009-0003-6582-6321,Bruno Wallace Barros Caldas,area_suspeita,0,
+2705,Douglas Oliveira Santos,0000-0002-2760-2541,douglas oliveira santos,area_suspeita,0,
+2708,Marcos Vinícius Teles Guimarães,0000-0002-2601-4377,Marcos Vinícius Teles Guimarães,ok,5,"architect, arquitet, heritage, urban, urbano"
+2709,Lisandra Mara Silva,0000-0003-3664-234X,Lisandra Mara Silva,sem_dados,0,
+2710,Lucy Ana Lassi Dias da Mota Leite,0000-0002-5874-6783,LUCY LEITE,area_suspeita,0,
+2713,Aline Werneck Barbosa de Carvalho,0000-0002-8215-7663,Aline Werneck Barbosa de Carvalho,sem_dados,0,
+2714,Ariel Luis Lazzarin,0000-0002-4686-8791,ARIEL LUÍS ROMANI LAZZARIN,sem_dados,0,
+2716,Larissa Oliveira Gonçalves,0000-0002-4163-1023,Larissa Gonçalves,ok,2,"fau, landscape"
+2718,Rayresson Lima da Rocha,0000-0003-1261-1696,RAYRESSON ROCHA,sem_dados,0,
+2721,Margaret Chokyu,0000-0001-5765-6850,Margaret Chokyu,area_suspeita,0,
+2722,Simone Guerra,0000-0002-2616-7613,Simone Zanatta Guerra,ok,1,cidade
+2724,Renata Cabral,0000-0001-6482-0233,Renata Cabral,ok,12,"architect, arquitet, cidade, construcao, edificio, heritage"
+2730,Marcus Vinicius Dantas de Queiroz,0000-0001-6949-0077,Marcus Vinicius Dantas de Queiroz,ok,4,"arquitet, cidade, urban, urbanis"
+2737,Hélio Takashi Maciel de Farias,0000-0002-0514-6389,Hélio Farias,area_suspeita,0,
+2754,Etianne Alves Souza de Oliveira,0000-0002-2782-9332,Eliane Alves de Oliveira,area_suspeita,0,
+2758,Tayana do Nascimento Santana Campos Figueiredo,0000-0002-0062-4900,tayana Cabral Figueiredo,sem_dados,0,
+2761,Carlos Frederico Lago Burnett,0009-0006-5998-5440,Carlos Burnett,area_suspeita,0,
+2762,Deise Coelho,0000-0002-2602-7362,DEISE COELHO DE SOUZA,area_suspeita,0,
+2763,Elena Castro,0000-0002-3691-6454,Elena Castro,area_suspeita,0,
+2764,Julia Machado,0009-0004-6997-9728,Julia Machado,area_suspeita,0,
+2765,Tiago Henrique,0000-0001-9100-539X,Tiago Henrique,area_suspeita,0,
+2769,Maria Berthilde de B. L. Moura Filha,0000-0001-7409-102X,Maria Berthilde Moura Filha,sem_dados,0,
+2770,Maria Reynaldo,0000-0003-4202-8151,María Onelia Urbina Reynaldo,area_suspeita,0,
+2771,Amélia Reynaldo,0000-0003-0022-1420,Amélia Maria de Oliveira Reynaldo,sem_dados,0,
+2773,Priscila Gonçalves Santos,0000-0001-5844-696X,Priscilla Santana,SUSPEITO,0,
+2779,Patricia Carneiro de Menezes,0000-0001-7993-1921,Patricia Dalcanale Meneses,nome_divergente,1,arquitet
+2784,Sandro Cabral,0000-0002-8663-2441,Sandro Cabral,ok,1,cidade
+2789,Fátima Maria Andrade Pelaes,0000-0003-0426-9659,Fátima Maria Andrade Pelaes,ok,1,arquitet
+2806,Suellen Dayse Versiani dos Santos,0000-0001-7280-7856,Suellen Santos,ok,3,"cidade, fau, iau"
+2808,André Guilherme Dornelles Dangelo,0000-0002-7143-6202,Andre Z.  Dornelles,area_suspeita,0,
+2814,Adelaide Zhayra Santos,0000-0002-2098-2887,Adelaide Junia dos Santos Rodrigues,area_suspeita,0,
+2815,Dayanne J. Azevedo Alves,0009-0009-5506-7724,Dayanne Alves da Silva,area_suspeita,0,
+2821,Marília Maria Brasileiro Teixeira Vale,0000-0002-1727-9445,Marília  do Vale,area_suspeita,0,
+2823,Raúl Estuardo Monterroso,0000-0003-0880-1796,Raúl Monterroso,area_suspeita,0,
+2825,Sérgio Ricardo dos Santos,0000-0003-3999-093X,Sérgio Santos,area_suspeita,0,
+2827,Sonia Fuentes,0000-0002-4595-855X,Sonia Fuentes,area_suspeita,0,
+2830,Patricia Alonso de Andrade,0000-0002-6405-5671,Patrícia Messa Alonso,sem_dados,0,
+2833,Dayse Luckwü Martins,0000-0001-6230-2168,Dayse Martins,ok,1,city
+2835,Terezinha Monteiro de Oliveira,0000-0001-5349-1059,Terezinha Oliveira,ok,1,cidade
+2841,Igor Araújo,0000-0002-9226-7321,Igor Araújo,ok,2,"cidade, city"
+2853,Débora Costa,0000-0001-7617-4945,Débora Barbosa Vendramini-Costa,SUSPEITO,0,
+2857,Rebeca Sabóia Martins,0009-0004-0328-1546,Rebeca Figueira Martins,area_suspeita,0,
+2866,Beatriz Helena Bezerra Nogueira Diógenes,0000-0003-4305-5485,Beatriz Diógenes,sem_dados,0,
+2868,Caroline Liu,0000-0002-6684-026X,Caroline  Liu,area_suspeita,0,
+2872,Manoel Moniz,0000-0001-9450-0214,Manoel Fernando Moniz Filho,area_suspeita,0,
+2873,Ceila Rosana Carneiro Cardoso,0000-0002-6420-4366,CEILA ROSANA CARNEIRO CARDOSO,area_suspeita,0,
+2894,Renata de Morais Santos Cunha,0009-0000-2000-0559,Renata Santos da Cunha,area_suspeita,0,
+2906,Luana Ferreira Cavalcante,0000-0002-0102-1108,Luana Cavalcante,ok,12,"architect, arquitet, cidade, design, edificio, fau"
+2908,Larissa Morgana Leão Silva de Sousa,0009-0005-8983-9367,Larissa Morgana Leão Silva de Sousa,ok,1,arquitet
+2912,Carlos Mario Pérez Nanclares,0000-0002-1320-2870,Carlos Mario Pérez Nanclares,ok,5,"edificio, urban, urbana, urbanis, urbano"
+2917,Ivan Manoel Rezende do Valle,0000-0002-6240-4284,Ivan Valle,ok,3,"arquitet, urban, urbanis"
+2920,Mauricio Cavalcante Lima,0000-0002-3700-2945,Mauricio Lima,area_suspeita,0,
+2926,Marcelo Chiquitelli Marques,0000-0001-8810-2412,Marcelo Marques,ok,1,design
+2935,Marina Araújo,0000-0002-7980-6618,Marina Campos Araujo,sem_dados,0,
+2936,Jadiane Beilfuss,0000-0003-4871-8794,Jadiane Beilfuss,sem_dados,0,
+2943,Philippe Arthur dos Reis,0000-0003-0645-1091,Philippe Arthur  dos Reis,ok,6,"arquitet, cidade, habitacao, urban, urbana, urbanis"
+2951,Jose Mario Pacheco Junior,0000-0002-7891-1475,JOSE ROBERTO BARBOZA JUNIOR,sem_dados,0,
+2965,Ana Rosa Soares Negreiros,0000-0001-8564-8882,ANA CRISTINA SOARES HERNANI VALVERDE NEGREIROS,area_suspeita,0,
+2974,Lara Serra Pinto de Alencar,0000-0002-2902-2823,Lara Serra Pinto de Alencar,ok,3,"arquitet, urban, urbanis"
+2977,Susanna Carrozzo Cohim Moreira,0000-0001-7028-553X,Susanna Moreira,ok,3,"architect, design, urban"
+2980,André Mendes de Carvalho Castelo Branco,0000-0002-4510-1134,Andre Mendes de Carvalho Castelo Branco,ok,4,"arquitet, iau, urban, urbanis"
+2986,Felipe Siqueira,0000-0002-9385-5053,Felipe Bagli Siqueira,area_suspeita,0,
+2993,Lorena Petrovich Pereira de Carvalho,0009-0000-6592-1298,Lorena de Carvalho Ramos,area_suspeita,0,
+3001,Karla Victória Nunes da Silva,0000-0002-9287-3970,Karla Nunes,ok,4,"arquitet, urban, urbanis, urbano"
+3007,Ana Carla de Sousa Lima,0000-0003-1417-1962,ana raquel de sousa lima,ok,1,iau
+3008,Maria Clara Primo Passos,0000-0002-9160-957X,Maria Clara Araújo dos Passos,area_suspeita,0,
+3010,Amanda Alves Pereira,0000-0002-9023-5756,Amanda Gomes Pereira,ok,1,city
+3013,Yasmin Rodrigues,0000-0001-9771-7523,Yasmin  Ferreira Rodrigues,area_suspeita,0,
+3018,Flávia Fernanda de Sousa Costa Castro,0000-0003-3031-6682,Flávia Adrianne de Castro Grello,area_suspeita,0,
+3022,Camilla Moura,0000-0002-5653-8403,Camilla Christian Gomes Moura,ok,2,"city, design"
+3026,Diego Ribeiro,0000-0002-9470-7028,Diego Ribeiro Santos,area_suspeita,0,
+3042,Erick Oliveira,0000-0001-8989-8344,Erick P. de Oliveira,ok,1,city
+3101,Rosana da Silva Santos,0000-0002-3950-8157,Rosana Cássia Kamita,SUSPEITO,0,
+3197,Isadora Paiva,0000-0002-2741-150X,Isadora Paiva,area_suspeita,0,
+3198,Jeová de Barros,0009-0008-5257-7799,Jeová  Freitas de Barros,area_suspeita,0,
+3202,Priscila Ferreira de Macedo,0000-0002-6623-469X,PRISCILA FERREIRA DE MACEDO,ok,5,"arquitet, design, housing, urban, urbanis"
+3203,Vanessa Cordeiro,0000-0003-4111-1121,Vanessa Cordeiro,area_suspeita,0,
+3208,Regina Barbosa Lopes Cavalcante,0000-0002-6121-4526,Regina  Barbosa Lopes Cavalcante,area_suspeita,0,
+3218,Carolina Leite,0000-0002-2229-9758,Claudia Carolina Santos Leite,ok,5,"architect, city, fau, urban, urbanis"
+3220,Marília Brito,0000-0002-3029-2361,Marília de Azevedo Brito,area_suspeita,0,
+3233,Amanda Cavalcante Moreira,0000-0001-7985-3329,Amanda Moreira,sem_dados,0,
+3235,Pedro Henrique Tajra Hidd Pearce Brito,0000-0001-6853-0225,Pedro  Brito,ok,1,cidade
+3242,Clara T. Peres,0000-0003-1632-2007,Clara de Andrade Pontual Peres,area_suspeita,0,
+3243,Camilla Gomes,0000-0001-6993-7289,Camilla de Magalhães Gomes,area_suspeita,0,
+3246,Ana Rita Sá Carneiro,0000-0002-2750-5354,Ana Rita Sá Carneiro Ribeiro,ok,9,"arquitet, habitacao, landscape, paisagis, patrimonio, urban"
+3247,Joelmir Marques da Silva,0000-0002-8323-7171,Joelmir Marques da Silva,ok,14,"architect, arquitet, cidade, construcao, edificio, heritage"
+3250,Gustavo Leite Sobral,0009-0006-6130-988X,Gustavo Sobral,ok,1,cidade
+3254,Fabiana Nathalie Ferreira,0000-0002-8513-1418,Fabiana Julio Ferreira,area_suspeita,0,
+3256,Karin Schwabe Meneguetti,0000-0002-4055-9138,Karin Meneguetti,ok,9,"architect, arquitet, cidade, landscape, paisagis, urban"
+3258,Marcelo Carlucci,0000-0002-1991-3649,Marcelo Carlucci,sem_dados,0,
+3264,Günter Weimer,0000-0002-9994-1059,Günter Weimer,ok,1,arquitet
+3271,Maria Cecília Tavares,0000-0002-6825-1784,Maria Célia Tavares,area_suspeita,0,
+3275,Letícia Peret Antunes Hardt,0000-0002-6661-0050,Letícia Peret Antunes Hardt,ok,10,"architect, arquitet, cidade, city, paisagis, patrimonio"
+3277,Geovany Jessé Alexandre da Silva,0000-0001-5030-9960,Geovany Silva,ok,8,"architect, cidade, city, design, urban, urbana"
+3286,Cezar Rabel,0000-0003-3141-177X,Cezar Rabel,ok,4,"arquitet, projeto de arquitetura, urban, urbanis"
+3287,Silmara Dias Feiber,0009-0005-9041-9749,Silmara Dias FEIBER,ok,2,"arquitet, urban"
+3288,Fúlvio Natércio Feiber,0000-0003-4416-929X,Fúlvio Natércio Feiber,ok,3,"arquitet, urban, urbanis"
+3294,Celina Fernandes Almeida Manso,0009-0007-4007-0993,Celina Manso,sem_dados,0,
+3295,Sandra Catharinne Pantaleão Resende,0000-0002-5145-9255,Sandra Pantaleão,ok,3,"housing, urban, urbana"
+3296,Pedro Henrique Máximo Pereira,0000-0002-2291-6613,PEDRO HENRIQUE MÁXIMO PEREIRA,ok,8,"arquitet, cidade, city, edificio, projeto de arquitetura, urban"
+3298,Carla Martins Olivo,0000-0001-8490-3706,Carla Martins Olivo,ok,6,"architect, arquitet, landscape, paisagis, urban, urbanis"
+3299,Tamara Vieira,0009-0001-4735-037X,Tamara Vieira,area_suspeita,0,
+3301,Leodi Antônio Covatti,0000-0003-3170-8127,Leodi Antonio Covatti,sem_dados,0,
+3304,Luiz da Rosa Garcia Garcia Netto,0000-0002-9028-6748,Luiz da Rosa Netto,ok,4,"construcao, paisagis, urban, urbano"
+3305,Amanda Yumi Yamaguchi,0000-0002-3673-6090,Amanda Yamaguchi,sem_dados,0,
+3306,Caio Smolarek Dias,0000-0003-1061-0550,Caio Gonçalves Dias,area_suspeita,0,
+3307,Hitomi Mukai,0009-0009-6145-6419,Hitomi Mukai,area_suspeita,0,
+3308,Solange Irene Smolarek Dias,0000-0002-8182-6829,Solange Dias,sem_dados,0,
+3309,Elisa Roberta Zanon,0000-0002-0542-3358,ELISA ROBERTA ZANON,ok,9,"arquitet, cidade, habitacao, iau, patrimonio, urban"
+3310,Leandro Henrique Magalhães,0000-0001-8206-251X,Leandro Henrique Magalhães,area_suspeita,0,
+3312,Lucas Battisti de Souza,0000-0002-9063-3391,Lucas de Souza,ok,1,construcao
+3313,Roberto Tourinho Fontan,0000-0001-6398-4439,Roberto Fontan,sem_dados,0,
+3315,Héctor Rivero Peña,0000-0003-4133-5168,Héctor Rivero Peña,ok,1,edificio
+3316,Marisol Rodríguez Sosa,0000-0002-5513-9355,Marisol Rodríguez Sosa,ok,3,"urban, urbana, urbanis"
+3317,Tânia Maria Bulhões Figueira,0000-0002-1844-3999,Tânia Figueira,area_suspeita,0,
+3319,Juliana Pêgo de Mello,0000-0002-9419-1244,Juliana de Mello Moraes,area_suspeita,0,
+3320,Naiane Marcon da Silva,0009-0006-3684-4768,Naiane Marcon da Silva,ok,5,"arquitet, iau, ppgau, urban, urbanis"
+3321,Marcelo da Rocha Silveira,0000-0002-8212-8432,Marcelo Silveira,area_suspeita,0,
+3323,Alessandra Braúna Meireles,0000-0002-3294-647X,Alessandra Braúna de Meireles,ok,7,"architect, design, heritage, iau, landscape, urban"
+3327,Elane Lopes Coutinho,0000-0003-1871-3888,Elane Coutinho,sem_dados,0,
+3329,Samir Santos da Conceição,0000-0003-3578-1655,Selma Cruz Santos,SUSPEITO,0,
+3331,Denise Rodrigues Santiago,0000-0003-1952-7913,Denise Santiago,ok,6,"arquitet, cidade, iau, urban, urbana, urbanis"
+3333,José Fernando de Castro Gonçalves,0000-0002-2927-7105,José Fernando Gonçalves,ok,6,"architect, arquitet, city, construcao, design, fau"
+3337,Tarcisio Dorn de Oliveira,0000-0001-5842-2415,Tarcisio Dorn de Oliveira,ok,10,"arquitet, cidade, design, docomomo, habitacao, patrimonio"
+3340,Andres Passaro,0000-0002-5121-4573,Andres Passaro,ok,8,"arquitet, construcao, design, edificio, fau, projeto de arquitetura"
+3342,Victoria Jannuzi da Cunha,0000-0002-3142-1751,Victoria  Jannuzzi da Cunha,sem_dados,0,
+3347,América Alfonsin de Azevedo,0009-0009-8471-4345,América Alfonsin de Azevedo,sem_dados,0,
+3348,Isabella de Carvalho Derenusson,0000-0003-3241-8316,Isabella  de Carvalho Derenusson,sem_dados,0,
+3350,Luiza Apolinário Rangel Victorino,0009-0003-0771-4057,Luiza Apolinário Rangel Victorino,area_suspeita,0,
+3351,Eduardo Venske,0000-0002-3643-1238,Eduardo Venske,ok,1,city
+3352,Gabriela Morais Pereira,0009-0007-4091-2425,Gabriela Morais Pereira,ok,4,"arquitet, habitacao, urban, urbanis"
+3354,Giovanna Cabral,0000-0002-4780-516X,Giovanna Cabral,ok,1,construcao
+3356,Fernando Luiz Camargos Lara,0000-0001-7743-6441,Fernando Lara,ok,6,"architect, arquitet, city, design, urban, urbanis"
+3357,Roberto Luís Torres Conduru,0000-0003-0197-0300,Roberto Conduru,area_suspeita,0,
+3359,Sílvia Lopes Carneiro Leão,0000-0001-9109-8127,Sílvia Leão,area_suspeita,0,
+3361,José Manoel Morales Sánchez,0000-0003-0426-8090,JOSÉ MANOEL MORALES SÁNCHEZ,ok,3,"cidade, design, edificio"
+3363,Rodrigo Botelho de Hollanda Vasconcellos,0000-0003-4808-4285,Rodrigo Vasconcellos,sem_dados,0,
+3368,Karina M. Ferraz dos S. Cadena,0000-0002-0849-4864,Karina Cadena,sem_dados,0,
+3371,Ana Clara Fonseca,0000-0001-7005-4416,Ana Clara Vieira da Fonseca,ok,1,construcao
+3372,Luciane Oliveira,0000-0001-9956-7768,Luciane Oliveira,ok,1,city
+3373,Flaviana Barreto Lira,0000-0003-2259-4885,Flaviana Barreto Lira,ok,5,"arquitet, cidade, city, fau, patrimonio"
+3384,Jean-Louis Cohen,0000-0002-8420-3598,Jean-Louis Cohen,sem_dados,0,
+3398,Lucia Borges,0000-0001-8978-4048,Lucia Borges,ok,1,city
+3399,Hilde Heynen,0000-0002-3920-4890,Hilde Heynen,ok,5,"architect, city, design, housing, urban"
+3400,Miles Glendinning,0000-0001-5512-5597,Miles Glendinning,ok,3,"architect, design, housing"
+3422,Catherine Townsend,0000-0002-3679-1233,Catherine Townsend,ok,6,"architect, city, design, housing, landscape, urban"
+3425,Philip Goad,0000-0002-8315-4325,Philip Goad,ok,3,"architect, design, housing"
+3426,Julie Willis,0000-0002-1605-2791,Julie Willis,ok,1,architect
+3431,Cláudia Sobreira,0000-0002-7420-1644,Claudia Sobreira,area_suspeita,0,
+3435,Renan Avanci,0000-0003-4364-6269,Renan Avanci,ok,1,edificio
+3437,Felippe Fideles,0009-0009-3734-8055,Felippe Fideles,sem_dados,0,
+3441,Fernando Luis Martinez Nespral,0000-0001-9140-1704,Fernando Luis Martinez Nespral,ok,1,architect
+3442,Florencia Amado Silvero,0000-0003-3334-6158,Florencia Amado Silvero,ok,2,"urban, urbanis"
+3454,Vanessa Nagel Vega,0000-0002-7971-4000,Vanessa Nagel Vega,ok,2,"urban, urbano"
+3460,André Luiz Tura Nunes,0000-0002-7601-1131,André Luiz Tura Nunes,ok,8,"arquitet, cidade, edificio, fau, projeto de arquitetura, urban"
+3464,Ana Luiza Zimmermann de Quadros,0000-0001-9175-7604,Ana Luiza de Quadros,ok,1,construcao
+3466,Gustavo Leal,0009-0000-4822-0772,Gustavo Adolfo Miranda Ortegal Leal,area_suspeita,0,
+3467,Lucas Marques,0000-0001-8145-8301,Lucas Marques,ok,1,patrimonio
+3468,Juliana Sicuro Corrêa,0000-0003-0545-3896,Juliana Corrêa,ok,7,"architect, cidade, city, design, housing, urban"
+3474,Yan Azevedo,0009-0009-6406-084X,Yan Azevedo,area_suspeita,0,
+3477,Rolando Figueiredo,0000-0001-8083-6059,Rolando Figueiredo,ok,1,arquitet
+3478,Paulo Pacheco,0000-0001-5976-5006,Paulo Henrique Silva Pacheco,area_suspeita,0,
+3480,Adriana Monzillo de Oliveira,0000-0001-9882-2747,Adriana,sem_dados,0,
+3486,Gabriela Tie Nagoya Tamari,0000-0003-1864-2979,Gabriela Tamari,ok,8,"architect, arquitet, design, fau, landscape, paisagis"
+3487,Julia Cavalcante,0000-0001-5554-1806,Julia Cavalcante de Andrade,ok,8,"architect, arquitet, cidade, fau, heritage, patrimonio"
+3498,Marta Bogéa,0000-0001-7295-9753,Marta Bogéa,ok,7,"architect, arquitet, cidade, fau, projeto de arquitetura, urban"
+3500,Romullo Baratto Fontenelle,0009-0000-0039-1724,Romullo Baratto Fontenelle,sem_dados,0,
+3504,Natália Costa Boff,0000-0001-6343-7902,Natália Boff,ok,1,cidade
+3508,Luiza Nadalutti,0009-0008-2278-9678,Luiza Nadalutti,sem_dados,0,
+3515,Marta Cristina Ferreira Buarque Guimarães,0000-0001-7489-4420,Marta Cristina Ferreira Buarque Guimarães,ok,8,"architect, arquitet, cidade, heritage, patrimonio, restauro"
+3519,Eunice Helena Sguizzardi Abascal,0000-0002-7721-220X,Eunice Helena Sguizzardi Abascal,ok,5,"edificio, urban, urbana, urbanis, urbano"
+3520,Gustavo Ladeira Caracuel,0009-0009-7937-9933,Gustavo Ladeira Caracuel,ok,6,"architect, arquitet, design, fau, urban, urbanis"
+3523,Elza Maria Alves Costeira,0000-0002-5635-4989,Elza Costeira,ok,2,"architect, arquitet"
+3530,Claudio Galeno-Ibaceta,0000-0002-5826-5824,Claudio Galeno-Ibaceta,ok,9,"architect, city, docomomo, heritage, housing, landscape"
+3533,Rani Silva,0000-0002-1848-7705,Rani Silva,sem_dados,0,
+3538,José Carlos Huapaya Espinoza,0000-0001-6776-8821,José Carlos Huapaya Espinoza,ok,6,"arquitet, cidade, fau, habitacao, urban, urbanis"
+3543,Fernanda Millan Fachi,0000-0003-4203-5335,Fernanda Millan Fachi,sem_dados,0,
+3547,Carlos Eduardo Binato de Castro,0009-0004-2416-3557,Carlos Eduardo Binato de Castro,area_suspeita,0,
+3554,Felipe Loureiro,0000-0003-4515-0304,Felipe Loureiro,ok,8,"architect, arquitet, design, fau, heritage, patrimonio"
+3555,Roberto Bartholo,0000-0003-2258-2198,Roberto Bartholo,ok,5,"architect, arquitet, city, design, heritage"
+3557,Cíntia Rebeca Quintans de Araújo,0000-0002-3220-8442,Cíntia Araújo,area_suspeita,0,
+3559,Adriana Leal de Almeida,0009-0004-4822-5767,Adriana Leal de Almeida Freire,area_suspeita,0,
+3561,Ana Beatriz Pahor Pereira da Costa,0000-0001-5137-4094,Ana Beatriz Nascimento Costa,area_suspeita,0,
+3564,Gabriela Carvalho de Moura,0000-0003-2243-6123,Gabriela Moura,ok,1,architect
+3565,Thomas Ilg,0009-0004-1942-0774,Thomas Ilg,sem_dados,0,
+3566,Lucas Caldas,0000-0002-3108-2833,Lucas Rosse Caldas,ok,10,"architect, arquitet, construcao, design, edificio, fau"
+3570,Flávia de Holanda Costa,0009-0003-0022-1444,Flávia de Holanda Costa,sem_dados,0,
+3571,Mônica Peixoto Vianna,0000-0002-4718-2417,Mônica Peixoto Vianna,ok,3,"arquitet, urban, urbanis"
+3573,Augusto Ruschel,0009-0000-3255-1403,Augusto Ruschel,ok,3,"architect, arquitet, edificio"
+3576,Omar de Oliveira Porto Junior,0000-0003-2034-1139,Omar de Oliveira Porto Junior,ok,5,"architect, arquitet, fau, urban, urbanis"
+3581,Zaida Garcia-Requejo,0000-0003-4743-815X,Zaida Garcia-Requejo,ok,1,architect
+3582,Luciana Fornari Colombo,0000-0002-3978-6456,Luciana Fornari Colombo,ok,2,"architect, arquitet"
+3583,Natália Maria Gaspar,0000-0001-7593-6872,Natália Morais Gaspar,area_suspeita,0,
+3585,Vitória Margotto Barroca,0009-0000-2285-1787,Vitória Margotto Barroca,ok,3,"arquitet, urban, urbanis"
+3587,Ana Esteban Maluenda,0000-0002-7786-9252,Ana Almagro Esteban,area_suspeita,0,
+3591,Leonardo Rodrigues Mesquita Santos,0000-0003-4606-2488,Leonardo Rodrigues dos Santos,ok,1,design
+3594,Christian Michael Seegerer,0000-0002-7616-4306,Christian Michael Seegerer,area_suspeita,0,
+3596,Vanessa de Conto,0000-0001-6895-8520,Vanessa De Conto,ok,5,"arquitet, paisagis, urban, urbanis, urbano"
+3600,Victor Oliveira,0000-0002-1117-8264,Vitor Reginaldo de Jesus Oliveira,SUSPEITO,0,
+3601,Guilherme Pianca Moreno,0000-0003-3190-4777,Guilherme Guedes Moreno,area_suspeita,0,
+3604,Franklin Roberto Ferreira de Paula,0000-0002-5298-8044,Franklin Roberto Ferreira de Paula,ok,5,"cidade, construcao, housing, urban, urbanis"
+3606,Tatiani Amadeu de Freitas,0009-0004-8033-4509,Tatiani  Amadeu de Freitas,ok,4,"architect, arquitet, urban, urbanis"
+3611,Denise Vianna Nunes,0000-0001-8537-4885,DENISE VIANNA NUNES,ok,9,"architect, arquitet, cidade, edificio, habitacao, projeto de arquitetura"
+3613,Maria Pronin,0000-0002-1443-8607,Maria Pronin,sem_dados,0,
+3621,Yuri Cristiano Berrido Gheler,0009-0004-5885-9325,Yuri Gheler,sem_dados,0,
+3622,João Paulo Schwerz,0000-0002-8566-2024,João Paulo Schwerz,ok,13,"architect, arquitet, cidade, city, design, heritage"
+3627,Marcelo Pimenta,0000-0002-4712-089X,Marcelo Pimenta,area_suspeita,0,
+3629,Ligia Maria Mello Dias,0000-0002-0751-5926,Ligia Dias,ok,2,"cidade, city"
+3630,Cesar Shundi Iwamizu,0000-0001-8940-8886,Cesar Shundi Iwamizu,ok,6,"arquitet, cidade, habitacao, projeto de arquitetura, urban, urbanis"
+3634,Artur Simões Rozestraten,0000-0001-9030-6182,Artur Rozestraten,ok,9,"architect, arquitet, cidade, city, design, habitacao"
+3636,Monaliza Cristina Gonçalves,0009-0001-0088-5465,Monaliza Matos Da Silva Gonçalves,sem_dados,0,
+3640,Rafael Urano Frajndlich,0000-0003-2378-5069,rafael urano frajndlich,ok,5,"architect, arquitet, construcao, urban, urbanis"
+3641,Fernando Araújo Costa,0000-0003-4329-2229,Fernando Araújo Costa,ok,5,"cidade, design, restauro, urban, urbano"
+3647,Marcella Aquila,0000-0002-9964-4185,Marcella Aquila,ok,1,arquitet
+3648,Marina Pedreira de Lacerda,0000-0003-0755-1916,Marina Basso Lacerda,area_suspeita,0,
+3649,Manuella Marianna Andrade,0000-0002-0728-2317,Manuella Andrade,ok,1,arquitet
+3652,Josélia Godoy Portugal,0000-0002-3239-832X,Josélia Portugal,sem_dados,0,
+3656,Fernanda Roque Taurino Magalhães,0000-0002-2858-6432,Fernanda Magalhães,ok,8,"arquitet, cidade, construcao, edificio, patrimonio, urban"
+3658,Thiago Allis,0000-0002-9070-7928,Thiago Allis,ok,4,"cidade, construcao, urban, urbano"
+3659,Marcela Chagas,0009-0007-8719-6358,Marcela Peres Chagas,ok,7,"arquitet, design, docomomo, fau, urban, urbana"
+3668,Jacopo Benedetti,0000-0002-1117-6779,Jacopo Benedetti,sem_dados,0,
+3671,Tainá Tábata Fialho Martins,0000-0002-1738-0041,Tainá Martins,area_suspeita,0,
+3672,Marilia Solfa,0000-0001-5364-8108,Marilia Solfa,ok,13,"architect, arquitet, cidade, city, design, heritage"
+3678,José Alberto de Oliveira Grechoniak,0000-0002-4927-5078,José Alberto de Oliveira Grechoniak,ok,7,"arquitet, cidade, patrimonio, propar, urban, urbana"
+3681,Greyce Souza,0000-0002-8169-1952,GREYCE KELLY ANTUNES DE SOUZA,sem_dados,0,
+3682,Joana Mello de Carvalho e Silva,0000-0001-5108-8186,Joana Mello de Carvalho e Silva,ok,9,"architect, arquitet, cidade, construcao, design, edificio"
+3696,Rafael d'Andrea,0000-0001-9687-6178,Rafael D'Andrea,ok,1,landscape
+3698,Pedro Murilo Gonçalves de Freitas,0000-0002-8563-6993,Pedro Murilo Gonçalves de Freitas,ok,13,"architect, arquitet, cidade, design, docomomo, fau"
+3706,Vanessa Borges Brasileiro,0000-0002-4625-5709,Yuri de Souza Duarte,SUSPEITO,0,
+3708,Elisangela de Almeida Chiquito,0000-0001-6611-7162,Elisângela de Almeida Chiquito,ok,5,"architect, design, housing, urban, urbanis"
+3721,Patricia Mendes,0000-0001-5840-0523,Patrícia Mendes,area_suspeita,0,
+3722,Cássia Marques,0009-0008-9676-4692,Cássia Mara Amorim Marques,area_suspeita,0,
+3728,Luana Espig Regiani,0000-0002-3950-0454,Luana Espig Regiani,ok,4,"arquitet, cidade, urban, urbanis"
+3730,Allyson Oliveira,0000-0002-3291-1971,Allyson Oliveira,sem_dados,0,
+3735,Silvia Regina Morel Corrêa,0000-0003-4286-3667,Sílvia Corrêa Oliveira,ok,1,urban
+3743,Carolina Lisot,0009-0004-9532-6683,Carolina Ernesta Alberti Lisot,sem_dados,0,
+3750,Nicolás Sica Palermo,0000-0003-0680-7684,Guilherme do Carmo Oliveira Feijó,sem_dados_nome_divergente,0,
+3751,Ricardo Felipe Gonçalves,0000-0002-1539-9056,Ricardo Gonçalves,ok,2,"cidade, construcao"
+3752,Flavia Botechia,0000-0002-5919-532X,Flavia Botechia,ok,4,"cidade, urban, urbana, urbanis"
+3756,João Marcos Pires,0000-0003-4121-4251,Michel Martins de Camargo,nome_divergente,1,design
+3759,Márcio Moraes Valença,0000-0002-7318-6606,MÁRCIO MORAES VALENÇA,ok,12,"architect, arquitet, cidade, city, design, housing"
+3760,Juliana Benetti,0009-0007-2398-1074,Juliana Costa Motta Benetti,ok,3,"arquitet, urban, urbanis"
+3763,Bruna Leite,0000-0002-5968-1758,Bruna Silva  Leite,ok,1,city
+3764,Larissa Timbó,0009-0001-7700-3715,Larissa Timbó,area_suspeita,0,
+3766,Fernanda Cavalheiro Marafon,0000-0002-4838-8978,Fernanda Cavalheiro Marafon,ok,8,"architect, arquitet, fau, iau, projeto de arquitetura, urban"
+3768,Carolina Vereza,0009-0008-3669-9411,Carolina Gaspar Vereza,sem_dados,0,
+3771,Alexandre Ruiz da Rosa,0000-0002-3468-3335,Alexandre Morais da Rosa,ok,1,construcao
+3777,Wilson Florio,0000-0002-6940-8341,Wilson Florio,ok,9,"architect, arquitet, city, design, edificio, fau"
+3788,Emanuella Kashiwakura,0009-0009-6527-142X,Emanuella Harume Kashiwakura,area_suspeita,0,
+3789,Letícia Aguiar,0000-0002-3239-2980,Leonete Schmidt,SUSPEITO,0,
+3793,Luciana de Paula Santos,0000-0003-4528-349X,Luciana Santos,area_suspeita,0,
+3798,Guilherme Lassance,0000-0002-0160-4100,Guilherme Lassance,ok,7,"architect, arquitet, cidade, city, design, projeto de arquitetura"
+3810,Vitória Barreiros,0009-0007-2596-9095,Vitória Cristina Vicente Barreiros,area_suspeita,0,
+3813,Tomas Cezar de Andrade Millan,0009-0002-6307-7809,Tomas Cezar de Andrade Millan,ok,4,"arquitet, fau, urban, urbanis"
+3814,Lígia Gimenes Paschoal,0000-0001-7463-6907,Lígia Gimenes Paschoal,sem_dados,0,
+3818,Jasmine Luiza Souza Silva Silva,0000-0001-6156-4086,Jasmine Luiza Silva,ok,12,"architect, arquitet, cidade, construcao, design, docomomo"
+3821,Letícia Bedendo Campanha Pires,0009-0006-0659-4569,Letícia Bedendo Campanha Pires,ok,5,"arquitet, urban, urbana, urbanis, urbano"
+3824,Ana Carolina Buim,0009-0003-5500-6581,Ana Carolina  Buim Azevedo Marques,area_suspeita,0,
+3826,Yasmin Elganim Vieira,0000-0001-7432-1817,Yasmin Elganim Vieira,ok,6,"arquitet, cidade, projeto de arquitetura, urban, urbanis, urbano"
+3828,Isabela Ignácio de Moura,0000-0001-9149-0954,Isabela Braga de Moura,ok,1,construcao
+3829,Olivia Abrahão,0009-0005-7549-373X,Olivia  Abrahão,ok,4,"arquitet, cidade, urban, urbanis"
+3831,Lucia Koch,0009-0001-0909-4563,Lucia  Koch,area_suspeita,0,
+3832,Marcus Deusdedit,0009-0006-4769-8292,Marcus Deusdedit,area_suspeita,0,
+3839,Mateus Mossmann Carneiro,0000-0002-5356-1480,Mateus F. Carneiro,ok,2,"architect, design"
+3842,Madson Nascimento,0000-0003-4405-6519,Madson Moreira Nascimento,ok,2,"urban, urbano"
+3843,Rosana Santos,0000-0002-7415-4980,Rosana Santos,sem_dados,0,
+3845,Isadora Dias Bido,0009-0002-6191-5426,Isadora Dias Bido,ok,4,"arquitet, patrimonio, urban, urbanis"
+3847,Rafaela Raffaele,0000-0002-7925-2168,Rafaela Raffaele Corrêa Vidal,ok,6,"arquitet, fau, projeto de arquitetura, urban, urbana, urbanis"
+3850,Yunlong YU,0000-0002-4809-9738,yunlong yu,area_suspeita,0,
+3851,Roberto Behar,0000-0002-7533-9506,Roberto Razón Behar,sem_dados,0,
+3855,Sarah Adorno Blanco Vencio,0000-0002-0011-3625,Sarah Vencio,ok,3,"arquitet, urban, urbanis"
+3859,Giovanna Merli,0000-0001-8258-529X,M. Giovanna Merli,ok,1,landscape
+3860,Zaída Muxí Martínez,0000-0002-8438-3824,Zaida Muxí Martínez,ok,5,"architect, city, urban, urbanis, urbano"
+3861,Sérgio Ferraz Magalhães,0009-0001-2584-3122,SERGIO  FERRAZ MAGALHAES,sem_dados,0,
+3868,Nathalia Lima,0000-0002-1550-5859,Nathalia Lima,ok,1,construcao
+3869,Kathrin Rosenfield,0000-0002-0061-3208,Kathrin Rosenfield,area_suspeita,0,

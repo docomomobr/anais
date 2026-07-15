@@ -1,28 +1,28 @@
 {
   "slug": "sdnne07",
-  "date": "2026-03-26",
-  "total_articles": 65,
+  "date": "2026-07-13",
+  "total_articles": 64,
   "profile": {
-    "total": 65,
+    "total": 64,
     "locale_es": 0,
-    "abstract": 63,
-    "abstract_en": 62,
-    "abstract_es": 0,
-    "keywords": 63,
-    "keywords_en": 63,
-    "keywords_es": 0,
-    "references_": 60
+    "abstract": 64,
+    "abstract_en": 64,
+    "abstract_es": 63,
+    "keywords": 64,
+    "keywords_en": 64,
+    "keywords_es": 63,
+    "references_": 64
   },
   "auto_fixed": [],
   "issues": [
     {
-      "check": "A02",
-      "article_id": "sdnne07-007",
-      "field": "abstract_en",
+      "check": "A19",
+      "article_id": "sdnne07-002",
+      "field": "abstract_es",
       "severity": "warning",
       "auto_fixable": false,
-      "detail": "keywords_en presente mas abstract_en faltando",
-      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+      "detail": "abstract_es: possível truncamento (termina com \"... (1972-76) y el conunto del campus de la\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
     },
     {
       "check": "A19",
@@ -34,6 +34,33 @@
       "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
     },
     {
+      "check": "A04",
+      "article_id": "sdnne07-020",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_es presente mas abstract_es faltando",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdnne07-020",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdnne07-044",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_es: possível truncamento (termina com \"... y el acervo de la Biblioteca . Nacional\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
       "check": "A19",
       "article_id": "sdnne07-055",
       "field": "abstract_en",
@@ -41,6 +68,15 @@
       "auto_fixable": false,
       "detail": "abstract_en: possível truncamento (termina com \"...ive dimension of architecture: tectonics\")",
       "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A03",
+      "article_id": "sdnne07-061",
+      "field": "keywords_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_es presente mas keywords_es faltando",
+      "suggestion": "Extrair keywords_es do fontes/ ou do PDF"
     }
   ],
   "category_b_candidates": []

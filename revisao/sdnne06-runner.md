@@ -65,6 +65,6 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 - [x] **3.4** Pipeline: sem gaps
 - [x] **3.5** Dry-run: 42 regressões (falsos positivos do normalizer — capitaliza palavras do dict como Residências, Praça, Hospital)
 - [x] **3.6** Aprendizado: sdnne06-aprendizado.json
-- [x] **3.7** Engenharia: 0 HIGH, 1 MEDIUM (42 regressões normalizer), 2 LOW (scripts one-shot)
+- [x] **3.7** Engenharia: auditoria completa de 13 scripts (validate_metadata, clean_references, fix_validation_issues, check_references, dedup_authors, normalizar, normalizar_maiusculas, gerar_runner, gerar_revisao_html, fetch_orcid, seed_titles, seed_authors, entity_resolution). 3 fixes: clean_references (type guard non-string refs), validate_metadata (A33 em check_desc), gerar_revisao_html (None em givenname/familyname). Maioria dos achados são falsos positivos ou limitações por design.
 - [x] **3.8** Checklist de conclusão
 - [x] **3.9** Fechar: dump + commit + CLAUDE.md

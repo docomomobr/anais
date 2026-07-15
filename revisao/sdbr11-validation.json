@@ -1,0 +1,47 @@
+{
+  "slug": "sdbr11",
+  "date": "2026-03-14",
+  "total_articles": 100,
+  "profile": {
+    "total": 100,
+    "locale_es": 0,
+    "abstract": 98,
+    "abstract_en": 99,
+    "abstract_es": 1,
+    "keywords": 99,
+    "keywords_en": 98,
+    "keywords_es": 1,
+    "references_": 99
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A01",
+      "article_id": "sdbr11-098",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr11-100",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 0,
+      "detail": "Ref muito longa (547 chars), possível concatenação: \"BOCCARA, Ernesto G.; CARVALHO, Agda R. de. Ballet Triádico da Bauhaus: pesquisa,...\"",
+      "suggestion": "Verificar e separar se necessário"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdbr11-100",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (547 chars), possível concatenação: \"BOCCARA, Ernesto G.; CARVALHO, Agda R. de. Ballet Triádico da Bauhaus: pesquisa,...\""
+    }
+  ]
+}
