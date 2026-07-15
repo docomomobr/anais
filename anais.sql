@@ -12177,7 +12177,7 @@ INSERT INTO "authors" VALUES(807,'Benedito Assagra Ribas de','Mello','mello@exem
 INSERT INTO "authors" VALUES(808,'Alexandre','Penedo','penedo@exemplo.com','0000-0003-1708-7475','2026-02-12','pre-2.0');
 INSERT INTO "authors" VALUES(809,'Jorge Simões','Pires','pires@exemplo.com',NULL,'2026-03-28','3.1');
 INSERT INTO "authors" VALUES(810,'Andréa Salvador','Lara','lara@exemplo.com',NULL,'2026-03-28','3.1');
-INSERT INTO "authors" VALUES(811,'Ricardo da Costa','Lima','lima@exemplo.com','0009-0006-2234-0040','2026-02-12','2.0');
+INSERT INTO "authors" VALUES(811,'Ricardo da Costa','Lima','lima@exemplo.com',NULL,'2026-02-12','2.0');
 INSERT INTO "authors" VALUES(812,'Clarissa Costa de','Oliveira','oliveira@exemplo.com',NULL,'2026-03-28','3.1');
 INSERT INTO "authors" VALUES(814,'Camilla Pilosio','Botelho','botelho@exemplo.com','0000-0002-0850-2481','2026-02-12','pre-2.0');
 INSERT INTO "authors" VALUES(815,'Clévio Dhevias Nobre','Rabelo','rabelo@exemplo.com',NULL,'2026-03-28','3.1');
@@ -13100,7 +13100,7 @@ INSERT INTO "authors" VALUES(2037,'Clara Bonna','Pignaton',NULL,NULL,'2026-03-28
 INSERT INTO "authors" VALUES(2039,'Ricardo de Souza','Rocha',NULL,'0000-0002-7291-2557','2026-02-12','pre-2.0');
 INSERT INTO "authors" VALUES(2040,'Pedro Sunyé Barbosa da','Silva',NULL,'0000-0001-8772-245X','2026-02-12','2.0');
 INSERT INTO "authors" VALUES(2041,'Samira Bueno','Chahin',NULL,'0000-0001-6935-7559','2026-02-12','pre-2.0');
-INSERT INTO "authors" VALUES(2042,'Marianna Gomes Pimentel','Cardoso',NULL,'0000-0002-7225-4793','2026-02-12','2.0');
+INSERT INTO "authors" VALUES(2042,'Marianna Gomes Pimentel','Cardoso',NULL,NULL,'2026-02-12','2.0');
 INSERT INTO "authors" VALUES(2044,'Rafaela Borsato','Belo',NULL,'0009-0000-3740-3506','2026-02-12','2.0');
 INSERT INTO "authors" VALUES(2046,'André Luiz de Souza','Castro','andrenaestrada@gmail.com',NULL,'2026-03-28','3.1');
 INSERT INTO "authors" VALUES(2047,'Jéssica Gomes','Silva',NULL,'0000-0001-7897-8365','2026-03-17','2.0');
@@ -13576,7 +13576,7 @@ INSERT INTO "authors" VALUES(2634,'Fritz Miguel Morais','Moura','fritz.moura@exe
 INSERT INTO "authors" VALUES(2635,'Iamna Benevides','Proença','proenca@exemplo.com',NULL,'2026-03-28','3.1');
 INSERT INTO "authors" VALUES(2636,'Amíria Bezerra','Brasil','amiria.brasil@exemplo.com','0000-0001-6877-4916','2026-02-12','2.0');
 INSERT INTO "authors" VALUES(2637,'Emanuel Ramos','Cavalcanti','emanuel.cavalcanti@exemplo.com','0000-0002-3131-7786','2026-02-12','2.0');
-INSERT INTO "authors" VALUES(2638,'Vitoria Alves dos','Santos','vitoria.santos@exemplo.com','0000-0003-1992-3780','2026-03-26','3.1');
+INSERT INTO "authors" VALUES(2638,'Vitoria Alves dos','Santos','vitoria.santos@exemplo.com',NULL,'2026-03-26','3.1');
 INSERT INTO "authors" VALUES(2639,'Rebeca Barbosa Dias','Rodrigues','rebecabdias@gmail.com','0009-0006-2487-3588','2026-02-12','pre-2.0');
 INSERT INTO "authors" VALUES(2641,'Renaly','Gonçalves','renaly.goncalves@exemplo.com',NULL,'2026-03-28','3.1');
 INSERT INTO "authors" VALUES(2642,'Adna','Lacerda','lacerda@exemplo.com',NULL,'2026-03-28','3.1');
