@@ -1225,3 +1225,14 @@ Segunda rodada sobre os 402 `area_suspeita`: dossiês com evidência ampliada (a
 ### 2026-07-15 — Incidente de privacidade corrigido: e-mails removidos do histórico público
 
 Detectei (ao desenhar a mala direta) que `revisao/campanha-autores/emails-atualizados-pilotis.csv` (483 e-mails pessoais) fora commitado no repo PÚBLICO na auditoria da manhã. Remediação com autorização do usuário: arquivo removido do rastreamento + `revisao/campanha-autores/*.csv` no gitignore; **histórico reescrito** com git-filter-repo (arquivo em 0 commits) e force push (usuário confirmou não ter clones). Backup bundle pré-reescrita no scratchpad da sessão. Ressalva: commits antigos podem permanecer acessíveis por SHA no cache do GitHub até o GC deles — se quisermos garantia total, abrir ticket no suporte do GitHub. REGRA daqui em diante: dados pessoais (e-mails, mala direta) NUNCA em arquivos versionados — a mala-direta.csv nasce gitignored.
+
+### 2026-08-05 — Sondagem de indexação (pré-5ª medição): 301 em digestão parcial
+
+Três semanas após os 301 (14/07). Painel GSC consolidado só até ~15/07 (lag de sempre): indexadas 110 → **93** (churn das fusões de autores de 14-15/07: páginas de autor apagadas/renomeadas), rastreada-não-indexada 14.264, robots 833 (o +1 é o catalog.json do OAI — bloqueio proposital de .json, sem efeito no worker).
+
+**Sondagens ao vivo (não sofrem lag):**
+- **Home re-rastreada em 31/07** (efeito do pedido de indexação de 14/07; antes o último rastreio era de abril) — mas segue "Rastreada, não indexada": o re-rating de domínio ainda não virou.
+- **`site:publicacoes...`**: URLs do OJS ainda indexadas (10+ páginas de resultados, com cache da era OJS) — transferência 301 em curso, incompleta; prazo esperado semanas-meses.
+- **`site:anais...`**: mistura qualitativamente saudável no índice — artigos de várias edições com "Citado por", autores, palavras-chave.
+
+**Decisões:** (1) 5ª medição quando o painel consolidar o pós-301 (~meados de agosto) — só então avaliar a validação em massa (gatilho: URLs OJS caindo do índice); (2) nenhuma mudança técnica até lá; (3) prioridade de agosto = campanha de autores (faltam: botão "Este sou eu", script de envio ~250/dia, revisão final do texto pelo usuário).
