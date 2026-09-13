@@ -1240,3 +1240,27 @@ Três semanas após os 301 (14/07). Painel GSC consolidado só até ~15/07 (lag 
 **GoatCounter (mesma sondagem de 05/08, última semana):** 944 visitas (~135/dia, acima dos ~115/dia do trimestre) e mudança estrutural nos referrers pós-301: **Google saltou de ~1% para 38%** (361/sem) e **"publicacoes" sumiu da lista** — o meta refresh carimbava o OJS como referrer; o 301 é transparente e preserva a origem real (os cliques nas URLs OJS indexadas agora contam como Google e chegam em 1 salto). **Scholar = 2º canal (11%)**; chatgpt.com aparece (2%). Camada de bots dissipada: Linux 26%→1%, EUA 23%→3%; **Brasil 91%** — tráfego quase todo humano, concentrado em artigos (vários +300~700% na semana). Lição de leitura: pós-301, o canal "OJS antigo" ficou invisível no referrer — comparações com o baseline de maio devem somar OJS+Google de então contra Google de agora.
 
 **Rascunho v2 do e-mail da campanha** (05/08, commit d3a1c0902): reescrito em três movimentos — **Conferir** (2 min; formulário identificado), **Ensinar** (passo a passo Lattes como capítulo de livro com o macete ISBN→abre o quadro→DOI no campo próprio; ORCID via Works→Add DOI, que importa sozinho), **Revisitar** (convite afetivo: relembrar a edição, colegas de sessão; nova variável {seminarios} com as edições da pessoa). Decisão de medição: URLs do site na campanha ganham `?utm_campaign=autores-2026` → painel Campaigns do GoatCounter mede o tráfego do e-mail separado do orgânico (ajuste pendente no gerar_campanha.py, junto com a variável {seminarios}). Análise registrada: clique de e-mail é tráfego legítimo mas NÃO sinal de ranking — o valor SEO da campanha são os backlinks de Lattes/ORCID que ela induz. **Texto v2 aguarda revisão final do usuário** (revisao/campanha-autores/rascunho-email.md).
+
+### 2026-09-13 — SEO/GSC: 5ª medição — queda em escada durante agosto (110→25); tráfego real em recorde
+
+Painel GSC consolidado até 03/09 (propriedade https://anais.docomomobrasil.com/):
+
+| Métrica GSC | 13/07 | ~15/07 | 03/09 | Δ |
+|---|---:|---:|---:|---|
+| **Páginas indexadas** | 110 | 93 | **25** | **−73%** |
+| Rastreada, não indexada | 14.203 | 14.264 | 14.480 | +216 |
+| Detectada, não indexada | 1.187 | — | 1.147 | −40 (validação "Aprovada" — sem efeito prático) |
+| Cópia, canônica diferente | 139 | — | 4 | −135 |
+| Bloqueada robots.txt | 832 | 833 | 833 | intencional |
+| 404 | 512 | 512 | 512 | URLs OJS antigas |
+| Erro redirecionamento | 8 | 8 | 8 | 0 |
+
+**Achado #1: a queda foi em escada, ao longo de agosto** (~100 no início → ~80 (~11/08) → ~55 (~18/08) → ~28 (~24/08) → 25), **sem nenhuma mudança nossa no período** — padrão de re-rating/update do próprio Google, o mesmo mecanismo de eventos discretos do salto de 12/06, agora na direção contrária. As 25 sobreviventes: 24 artigos (sdbr04–15, sdsul04, sdrj04) + 1 palavra-chave; home segue "rastreada, não indexada".
+
+**Achado #2: `site:publicacoes` ainda com 10+ páginas de resultados** — dois meses de 301 e o expurgo das URLs OJS mal começou. O gatilho da validação em massa (URLs OJS caindo do índice) NÃO disparou.
+
+**Achado #3 (o que importa): tráfego real em recorde.** GoatCounter, última semana: **1.070 visitas** (baseline maio: 928; agosto: 944), **Google = 43% (456/sem)** — contra 8/sem em maio —, Scholar 10% (107), chatgpt.com 4% (45), Brasil 90%. O acervo ESTÁ acessível via Google: o resultado aparece na URL OJS indexada e o 301 entrega a página canônica em 1 salto. O contador de "indexadas" do GSC mede só as URLs canônicas do domínio novo; o acesso real subiu enquanto ele caía.
+
+**Pergunta do usuário — canal humano no Google:** não existe suporte a indexação (sem SLA, sem direito exigível). Único canal semi-humano: fórum Search Central Help Community (Product Experts escalam apenas bugs comprovados; "rastreada, não indexada" é decisão discricionária que não revertem). "Enviar comentário" do GSC = fila do produto, sem resposta. Registrado: a alavanca real é sinal externo de autoridade — a campanha (backlinks Lattes/ORCID).
+
+**Decisões:** (1) prioridade máxima = campanha de autores (bloqueador: revisão do texto v2 pelo usuário, pendente desde 05/08); (2) **enxugamento do sitemap/noindex das taxonomias entrou em elegibilidade** pelo critério da 4ª medição ("reavaliar se o platô persistir 30-60 dias" — o platô virou queda; ~11,7 mil páginas-lista diluem o domínio) — decidir como frente paralela após destravar a campanha; (3) validação em massa segue suspensa (gatilho não disparou); (4) 6ª medição ~meados de outubro ou após o disparo da campanha.
