@@ -1264,3 +1264,22 @@ Painel GSC consolidado até 03/09 (propriedade https://anais.docomomobrasil.com/
 **Pergunta do usuário — canal humano no Google:** não existe suporte a indexação (sem SLA, sem direito exigível). Único canal semi-humano: fórum Search Central Help Community (Product Experts escalam apenas bugs comprovados; "rastreada, não indexada" é decisão discricionária que não revertem). "Enviar comentário" do GSC = fila do produto, sem resposta. Registrado: a alavanca real é sinal externo de autoridade — a campanha (backlinks Lattes/ORCID).
 
 **Decisões:** (1) prioridade máxima = campanha de autores (bloqueador: revisão do texto v2 pelo usuário, pendente desde 05/08); (2) **enxugamento do sitemap/noindex das taxonomias entrou em elegibilidade** pelo critério da 4ª medição ("reavaliar se o platô persistir 30-60 dias" — o platô virou queda; ~11,7 mil páginas-lista diluem o domínio) — decidir como frente paralela após destravar a campanha; (3) validação em massa segue suspensa (gatilho não disparou); (4) 6ª medição ~meados de outubro ou após o disparo da campanha.
+
+### 2026-10-07 — SEO/GSC: 6ª medição — indexadas estáveis (26); expurgo das URLs mortas começou; ChatGPT dobra de peso
+
+Painel GSC consolidado até 20/09:
+
+| Métrica GSC | 03/09 | 20/09 | Δ |
+|---|---:|---:|---|
+| Páginas indexadas | 25 | **26** | estável (fim da queda de agosto) |
+| Não indexadas (total) | 17 mil | **16,3 mil** | −700 |
+| Rastreada, não indexada | 14.480 | 14.044 | −436 |
+| **Não encontrado (404)** | 512 | **259** | **−253 (−49%)** |
+| Detectada, não indexada | 1.147 | 1.156 | ~ |
+| Bloqueada robots.txt | 833 | 833 | 0 |
+
+**Leitura:** a queda em escada de agosto PAROU (piso ~25); o Google começou a digerir o acervo morto — metade dos 404 (URLs OJS antigas) expurgada, "rastreada não indexada" encolhendo. Mas `site:publicacoes` ainda retorna 10+ páginas de resultados: **o gatilho da validação em massa (URLs OJS caindo do índice vivo) segue não disparado**. Nenhuma mudança nossa desde 13/09.
+
+**GoatCounter (última semana):** 805 visitas — dentro da faixa normal (ago: 944; pico 13/09: 1.070). Referrers: **Google 49% (392/sem)**, Scholar 12%+2% (114), **chatgpt.com 8% (68) — dobrou de peso desde 13/09 (era 4%)**, Brasil 87%. O acesso real segue saudável e o canal LLM cresce.
+
+**Estado das frentes:** campanha de autores segue bloqueada na revisão do texto v2 pelo usuário (pendente desde 05/08); enxugamento do sitemap elegível desde a 5ª medição, não decidido; 7ª medição ~novembro ou pós-campanha.
