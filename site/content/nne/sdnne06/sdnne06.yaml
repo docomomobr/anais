@@ -1,4 +1,4 @@
-- id: '1'
+- id: sdnne06-001
   type: paper-conference
   title: 'A (não) permanência das obras de Severiano Mário Porto: análise da reforma
     do edifício sede do TRE-AM'
@@ -17,8 +17,168 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/1/
-- id: '10'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-001/
+- id: sdnne06-002
+  type: paper-conference
+  title: 'A casa do pós-Guerra: a relação entre a forma e o espaço na casa binuclear
+    de Marcel Breuer'
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Soares
+    given: Eduardo Oliveira
+  - family: Cunha
+    given: Marcio Cotrim
+    ORCID: https://orcid.org/0000-0003-2008-8946
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-002/
+- id: sdnne06-003
+  type: paper-conference
+  title: 'A casa modernista como ponto de inflexão na natureza morfológica de uma
+    possível “Morada brasileira”: o caso Natal, RN'
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Trigueiro
+    given: Edja Bezerra Faria
+    ORCID: https://orcid.org/0000-0003-2847-5326
+  - family: Jacome
+    given: Lara Louise
+  - family: Araújo
+    given: Igor
+    ORCID: https://orcid.org/0000-0002-9226-7321
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  DOI: 10.5281/zenodo.19295800
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-003/
+- id: sdnne06-004
+  type: paper-conference
+  title: A contribuição de Geraldino Duda para a consolidação da Modernidade Arquitetônica
+    em Campina Grande, na década de 60
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Melo
+    given: Alcília Afonso de Albuquerque e
+    ORCID: https://orcid.org/0000-0002-6344-9329
+  - family: Silva
+    given: Francisco Allyson Barbosa
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  DOI: 10.5281/zenodo.19295893
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-004/
+- id: sdnne06-005
+  type: paper-conference
+  title: A memória da Arquitetura Moderna na cidade de São Luís no Maranhão (Brasil)
+    no período de 1930 a 1960
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Nascimento
+    given: Lúcia Moreira do
+    ORCID: https://orcid.org/0000-0001-8250-0719
+  - family: Pflueger
+    given: Grete Soares
+    ORCID: https://orcid.org/0000-0002-9376-8689
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  DOI: 10.5281/zenodo.19295976
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-005/
+- id: sdnne06-006
+  type: paper-conference
+  title: 'À procura do essencial na Arquitetura: construindo com pouco no Nordeste
+    Brasileiro — arte-indústria, regional-internacional, Trópicos-temperos: fenômenos
+    ainda gêmeos?'
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Naslavsky
+    given: Guilah
+    ORCID: https://orcid.org/0000-0003-3367-9657
+  - family: Ramos
+    given: Juliana Silva
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-006/
+- id: sdnne06-007
+  type: paper-conference
+  title: 'A produção moderna da praça pública nas cidades pequenas: reflexões sobre
+    Pau dos Ferros — RN'
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Barbosa
+    given: Antonio Carlos Leite
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  DOI: 10.5281/zenodo.19296077
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-007/
+- id: sdnne06-008
+  type: paper-conference
+  title: A residência modernista aracajuana dos Souza Freire
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Maciel
+    given: J.
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-008/
+- id: sdnne06-009
+  type: paper-conference
+  title: 'A transparência do desenho: João Filgueiras Lima estudado a partir de seus
+    desenhos'
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Paz
+    given: Daniel Juracy Mellado
+    ORCID: https://orcid.org/0000-0002-2119-5850
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-009/
+- id: sdnne06-010
   type: paper-conference
   title: Análise da adequação bioclimática de residências modernas em Teresina-PI
   container-title: Arquitetura — tectônica e lugar
@@ -32,7 +192,6 @@
     given: Rafael
   - family: Costa
     given: Débora
-    ORCID: https://orcid.org/0000-0001-7617-4945
   - family: Silveira
     given: Ana Lucia Ribeiro Camillo da
     ORCID: https://orcid.org/0000-0003-2324-3964
@@ -40,215 +199,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295025
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/10/
-- id: '100'
-  type: paper-conference
-  title: 'ROVSA/Campina Grande, Paraíba: análise arquitetônica'
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Almeida
-    given: Leonardo de
-    ORCID: https://orcid.org/0000-0002-0958-4888
-  - family: Pinheiro
-    given: N.
-  - family: Borges
-    given: R.
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/100/
-- id: '101'
-  type: paper-conference
-  title: 'SESC Pompéia: Arquitetura Moderna e Patrimônio Industrial na obra de Lina
-    Bo Bardi'
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Freire
-    given: Pamela K. Ribeiro Franco
-  - family: Moura
-    given: Vivianny de Paula Fernandes
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  DOI: 10.5281/zenodo.19295033
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/101/
-- id: '102'
-  type: paper-conference
-  title: 'Traços modernos e Arquitetura Bioclimática: Centro de Tecnologia da Universidade
-    Federal do Piauí (UFPI)'
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Meneses
-    given: Priscila de Oliveira
-  - family: Teles
-    given: T.
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/102/
-- id: '103'
-  type: paper-conference
-  title: Transformações do Centro Cívico do Estado do Piauí
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Feitosa
-    given: Ana Rosa Soares Negreiros
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/103/
-- id: '104'
-  type: paper-conference
-  title: 'A presença de Moacyr Gomes em Mossoró (RN): Escola Estadual Jerônimo Rosado'
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Silva
-    given: A. L.
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/104/
-- id: '105'
-  type: paper-conference
-  title: O Moderno no antigo Largo do Amparo
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Meireles
-    given: Alessandra Braúna
-    ORCID: https://orcid.org/0000-0002-3294-647X
-  - family: Liberato
-    given: Ana Karolyne de Souza
-  - family: Machado
-    given: Daniel Oliveira
-  - family: Pessoa
-    given: Daniel Victor Oliveira
-  - family: Coutinho
-    given: Elane Lopes
-    ORCID: https://orcid.org/0000-0003-1871-3888
-  - family: Caddah
-    given: Yasmine Ibiapina
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  DOI: 10.5281/zenodo.19295048
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/105/
-- id: '106'
-  type: paper-conference
-  title: 'Perdas, danos ou ganho?: sobre as intervenções no edifício do antigo Restaurante
-    Universitário da UFBA'
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Nery
-    given: Juliana Cardoso
-    ORCID: https://orcid.org/0000-0002-8476-5339
-  - family: Moreira
-    given: Susanna Carrozzo Cohim
-    ORCID: https://orcid.org/0000-0001-7028-553X
-  - family: Conceição
-    given: Samir Santos da
-    ORCID: https://orcid.org/0000-0003-3578-1655
-  - family: Corongiu
-    given: Rafael Teles de Menezes Luz
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  DOI: 10.5281/zenodo.19295627
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/106/
-- id: '107'
-  type: paper-conference
-  title: 'Colégio Zacarias de Goés: a arquitetura como reflexo da reforma educacional
-    em Teresina'
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Feitosa
-    given: Ana Rosa Soares Negreiros
-  - family: Santiago
-    given: Denise Rodrigues
-    ORCID: https://orcid.org/0000-0003-1952-7913
-  - family: Ferreira
-    given: Lucas Coelho
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  DOI: 10.5281/zenodo.19295639
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/107/
-- id: '108'
-  type: paper-conference
-  title: 'Modernidade (Arqui)Tectônica: a arte de construir'
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Paiva
-    given: Ricardo Alexandre
-    ORCID: https://orcid.org/0000-0002-0332-097X
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  DOI: 10.5281/zenodo.19295651
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/108/
-- id: '109'
-  type: paper-conference
-  title: 'Arquiteturas da Modernidade em Belém: materialidades e conceitos'
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Chaves
-    given: Celma
-    ORCID: https://orcid.org/0000-0003-3437-3844
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  DOI: 10.5281/zenodo.19295659
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/109/
-- id: '11'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-010/
+- id: sdnne06-011
   type: paper-conference
   title: Análise das técnicas construtivas e adequação bioclimática do edifício Tribunal
     Judiciário do Piauí
@@ -265,18 +217,16 @@
     given: Lourrane Carolina Sousa e
   - family: Martins
     given: Rebeca Sabóia
-    ORCID: https://orcid.org/0009-0004-0328-1546
   - family: Santos
     given: Rosana da Silva
-    ORCID: https://orcid.org/0000-0002-3950-8157
   - family: Nunes
     given: Taynan Daniel Faustino Rachid Cunha
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295669
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/11/
-- id: '12'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-011/
+- id: sdnne06-012
   type: paper-conference
   title: Análise projetual do complexo arquitetônico do Clube do Trabalhador do Serviço
     Social da Indústria (SESI). Campina Grande — PB
@@ -296,8 +246,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295677
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/12/
-- id: '13'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-012/
+- id: sdnne06-013
   type: paper-conference
   title: 'Arquitetura do poder: análise teórica da avenida Gétulio Vargas em São Luis
     — MA'
@@ -316,8 +266,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295687
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/13/
-- id: '14'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-013/
+- id: sdnne06-014
   type: paper-conference
   title: Arquitetura Moderna & conforto ambiental em casas modernistas Potiguares
   container-title: Arquitetura — tectônica e lugar
@@ -339,8 +289,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295701
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/14/
-- id: '15'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-014/
+- id: sdnne06-015
   type: paper-conference
   title: 'Arquitetura Moderna e o lugar: registro e estudo de duas residências modernas
     em Aracaju/SE'
@@ -364,8 +314,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295713
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/15/
-- id: '16'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-015/
+- id: sdnne06-016
   type: paper-conference
   title: 'Arquitetura Moderna em Fortaleza: nascimento e morte da residência unifamiliar
     na cidade'
@@ -385,8 +335,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/16/
-- id: '17'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-016/
+- id: sdnne06-017
   type: paper-conference
   title: 'Arquitetura Nordestina [des]conhecida: por uma ampliação da História da
     Arquitetura Moderna Brasileira, 1950-1970'
@@ -402,13 +352,12 @@
     ORCID: https://orcid.org/0000-0001-6776-8821
   - family: Liu
     given: Caroline
-    ORCID: https://orcid.org/0000-0002-6684-026X
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295722
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/17/
-- id: '18'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-017/
+- id: sdnne06-018
   type: paper-conference
   title: 'Arquiteturas entre o plano e a cidade: os projetos do Engenheiro-Arquiteto
     Otávio Roscoe no contexto de modernização urbana de Currais Novos/RN (década de
@@ -429,8 +378,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295744
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/18/
-- id: '19'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-018/
+- id: sdnne06-019
   type: paper-conference
   title: 'ARTENE: um plano para o desenvolvimento industrial nordestino ou uma lojinha
     de souvenir para turistas?'
@@ -450,28 +399,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/19/
-- id: '2'
-  type: paper-conference
-  title: 'A casa do pós-Guerra: a relação entre a forma e o espaço na casa binuclear
-    de Marcel Breuer'
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Soares
-    given: Eduardo Oliveira
-  - family: Cunha
-    given: Marcio Cotrim
-    ORCID: https://orcid.org/0000-0003-2008-8946
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/2/
-- id: '20'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-019/
+- id: sdnne06-020
   type: paper-conference
   title: As casas modernistas de Cleon Furtado em São Luis-MA
   container-title: Arquitetura — tectônica e lugar
@@ -482,7 +411,7 @@
   language: pt-BR
   author:
   - family: Pflueger
-    given: Grete Soares -
+    given: Grete Soares
     ORCID: https://orcid.org/0000-0002-9376-8689
   - family: Moniz
     given: Manoel
@@ -491,8 +420,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295756
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/20/
-- id: '21'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-020/
+- id: sdnne06-021
   type: paper-conference
   title: As escolas de João Filgueiras Lima em Salvador
   container-title: Arquitetura — tectônica e lugar
@@ -508,8 +437,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/21/
-- id: '22'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-021/
+- id: sdnne06-022
   type: paper-conference
   title: 'BASA: um "Palácio de Cristal" na Amazônia'
   container-title: Arquitetura — tectônica e lugar
@@ -530,8 +459,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295760
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/22/
-- id: '23'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-022/
+- id: sdnne06-023
   type: paper-conference
   title: Boas práticas de manutenção do concreto para conservação de monumentos modernos
     de Teresina
@@ -560,8 +489,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/23/
-- id: '24'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-023/
+- id: sdnne06-024
   type: paper-conference
   title: 'Carcomido pelas beiradas: intervenções à Sede Social do América Futebol
     Clube ao longo de cinco décadas'
@@ -578,8 +507,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295770
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/24/
-- id: '25'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-024/
+- id: sdnne06-025
   type: paper-conference
   title: 'Centros administrativos como tipologia urbana moderna: o caso do Cambeba
     em Fortaleza'
@@ -600,8 +529,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295784
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/25/
-- id: '26'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-025/
+- id: sdnne06-026
   type: paper-conference
   title: 'Diagnóstico dos conjuntos habitacionais de Teresina: um estudo de caso sobre
     o Mocambinho'
@@ -627,13 +556,12 @@
     given: Thais Venâncio
   - family: Cunha
     given: Renata de Morais Santos
-    ORCID: https://orcid.org/0009-0000-2000-0559
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295790
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/26/
-- id: '27'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-026/
+- id: sdnne06-027
   type: paper-conference
   title: 'Discutindo a descaraterização do bem cultural: jardins modernos de Burle
     Marx'
@@ -649,8 +577,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/27/
-- id: '28'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-027/
+- id: sdnne06-028
   type: paper-conference
   title: 'Dois projetos distintos e uma única biblioteca: análise do projeto de intervenção
     na Biblioteca Central Zila Mamede (UFRN), a partir da inserção de seu anexo'
@@ -672,8 +600,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/28/
-- id: '29'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-028/
+- id: sdnne06-029
   type: paper-conference
   title: 'Escola Politécnica da Universidade Federal da Bahia: Documentação e genealogia
     do projeto'
@@ -696,7 +624,6 @@
     given: K.
   - family: Silva
     given: Alexandre Bataioli da
-    ORCID: https://orcid.org/0000-0002-5714-8992
   - family: Souza
     given: Laís de Matos
   - family: Vasconcellos
@@ -704,32 +631,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/29/
-- id: '3'
-  type: paper-conference
-  title: 'A casa modernista como ponto de inflexão na natureza morfológica de uma
-    possível “Morada brasileira”: o caso Natal, RN'
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Trigueiro
-    given: Edja Bezerra Faria
-    ORCID: https://orcid.org/0000-0003-2847-5326
-  - family: Jacome
-    given: Lara Louise
-  - family: Araújo
-    given: Igor
-    ORCID: https://orcid.org/0000-0002-9226-7321
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  DOI: 10.5281/zenodo.19295800
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/3/
-- id: '30'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-029/
+- id: sdnne06-030
   type: paper-conference
   title: 'Espaço público x espaço privado: uma análise de edifícios residenciais multifamiliares
     modernos no bairro Meireles em Fortaleza-CE'
@@ -750,8 +653,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295806
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/30/
-- id: '31'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-030/
+- id: sdnne06-031
   type: paper-conference
   title: 'Espaços escolares e princípios modernistas: o Instituto de Educação do Ceará'
   container-title: Arquitetura — tectônica e lugar
@@ -768,8 +671,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295817
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/31/
-- id: '32'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-031/
+- id: sdnne06-032
   type: paper-conference
   title: 'Estádio Alberto Tavares Silva: conhecimento e reconhecimento de uma obra'
   container-title: Arquitetura — tectônica e lugar
@@ -789,8 +692,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295826
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/32/
-- id: '33'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-032/
+- id: sdnne06-033
   type: paper-conference
   title: 'Conjunto Itararé: análise morfológica e reflexos do Urbanismo de Teresina'
   container-title: Arquitetura — tectônica e lugar
@@ -808,8 +711,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295835
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/33/
-- id: '34'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-033/
+- id: sdnne06-034
   type: paper-conference
   title: La planta baja, Unión de diferencias
   container-title: Arquitetura — tectônica e lugar
@@ -826,8 +729,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295845
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/34/
-- id: '35'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-034/
+- id: sdnne06-035
   type: paper-conference
   title: 'Modernidade Arquitetônica na obra do Engenheiro Rafael Grimaldi em Aracaju:
     o Edifício Atalaia e o Terminal Rodoviário Luiz Garcia'
@@ -845,8 +748,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/35/
-- id: '36'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-035/
+- id: sdnne06-036
   type: paper-conference
   title: 'Modernidade e tradição na construção em madeira: três casas de Zanine Caldas
     em Brasília'
@@ -870,8 +773,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295856
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/36/
-- id: '37'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-036/
+- id: sdnne06-037
   type: paper-conference
   title: 'O conceito de lugar no projeto de Arquitetura: notas a partir da obra de
     Fernando Távora'
@@ -887,8 +790,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/37/
-- id: '38'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-037/
+- id: sdnne06-038
   type: paper-conference
   title: 'O edifício de apartamentos em Fortaleza (1960-1972): a atuação dos arquitetos
     pioneiros na incorporação dos conceitos modernos'
@@ -906,8 +809,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295872
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/38/
-- id: '39'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-038/
+- id: sdnne06-039
   type: paper-conference
   title: 'O lugar da adequação em Severiano Porto: Aldeia SOS do Amazonas'
   container-title: Arquitetura — tectônica e lugar
@@ -919,34 +822,12 @@
   author:
   - family: Lima
     given: Mauricio Cavalcante
-    ORCID: https://orcid.org/0000-0002-3700-2945
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295881
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/39/
-- id: '4'
-  type: paper-conference
-  title: A contribuição de Geraldino Duda para a consolidação da Modernidade Arquitetônica
-    em Campina Grande, na década de 60
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Melo
-    given: Alcília Afonso de Albuquerque e
-    ORCID: https://orcid.org/0000-0002-6344-9329
-  - family: Silva
-    given: Francisco Allyson Barbosa
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  DOI: 10.5281/zenodo.19295893
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/4/
-- id: '40'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-039/
+- id: sdnne06-040
   type: paper-conference
   title: 'O Residencial Iracema em Fortaleza: a simples Modernidade ameaçada'
   container-title: Arquitetura — tectônica e lugar
@@ -971,8 +852,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295903
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/40/
-- id: '41'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-040/
+- id: sdnne06-041
   type: paper-conference
   title: 'O Urbanismo Moderno interrompido: análise da proposta não executada de Lúcio
     Costa para o Novo Polo Urbano em São Luís-MA, anos 70'
@@ -990,8 +871,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295909
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/41/
-- id: '42'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-041/
+- id: sdnne06-042
   type: paper-conference
   title: Os arquitetos modernistas em Manaus
   container-title: Arquitetura — tectônica e lugar
@@ -1009,8 +890,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/42/
-- id: '43'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-042/
+- id: sdnne06-043
   type: paper-conference
   title: Os elementos da Arquitetura Moderna traduzidos nas residências parnaibanas
   container-title: Arquitetura — tectônica e lugar
@@ -1027,8 +908,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/43/
-- id: '44'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-043/
+- id: sdnne06-044
   type: paper-conference
   title: 'Patrimônio Moderno industrial no Nordeste Brasileiro: dois estudos de casos'
   container-title: Arquitetura — tectônica e lugar
@@ -1045,8 +926,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295917
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/44/
-- id: '45'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-044/
+- id: sdnne06-045
   type: paper-conference
   title: 'Patrimônio recente: proposta de intervenção no Tribunal de Justiça do Piauí'
   container-title: Arquitetura — tectônica e lugar
@@ -1058,7 +939,6 @@
   author:
   - family: Marques
     given: Rômulo
-    ORCID: https://orcid.org/0000-0003-1712-3579
   - family: Pinheiro
     given: Wilnne
   - family: Melo
@@ -1068,8 +948,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295929
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/45/
-- id: '46'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-045/
+- id: sdnne06-046
   type: paper-conference
   title: 'Pousada na Ilha de Silves de Severiano Porto: Modernidade, lugar e tectônica'
   container-title: Arquitetura — tectônica e lugar
@@ -1087,13 +967,12 @@
     ORCID: https://orcid.org/0000-0002-3327-1451
   - family: Maciel
     given: Vitor Lessa
-    ORCID: https://orcid.org/0000-0002-3288-9604
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295935
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/46/
-- id: '47'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-046/
+- id: sdnne06-047
   type: paper-conference
   title: 'Praça Monumento da Costa e Silva: a desconstrução de um patrimônio na cidade
     de Teresina, Piaui'
@@ -1118,8 +997,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295952
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/47/
-- id: '48'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-047/
+- id: sdnne06-048
   type: paper-conference
   title: Residência Djalma da Costa e Silva
   container-title: Arquitetura — tectônica e lugar
@@ -1143,8 +1022,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295958
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/48/
-- id: '49'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-048/
+- id: sdnne06-049
   type: paper-conference
   title: 'Rota moderna: proposta de estudo e (re)conhecimento das edificações presentes
     na Avenida Frei Serafim em Teresina-PI'
@@ -1163,30 +1042,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295966
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/49/
-- id: '5'
-  type: paper-conference
-  title: A memória da Arquitetura Moderna na cidade de São Luís no Maranhão (Brasil)
-    no período de 1930 a 1960
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Nascimento
-    given: Lúcia Moreira do
-    ORCID: https://orcid.org/0000-0001-8250-0719
-  - family: Pflueger
-    given: Grete Soares -
-    ORCID: https://orcid.org/0000-0002-9376-8689
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  DOI: 10.5281/zenodo.19295976
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/5/
-- id: '50'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-049/
+- id: sdnne06-050
   type: paper-conference
   title: 'Trajetórias do moderno em Belém: construção, expansão e destruição'
   container-title: Arquitetura — tectônica e lugar
@@ -1203,8 +1060,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295984
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/50/
-- id: '51'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-050/
+- id: sdnne06-051
   type: paper-conference
   title: Transferências modernistas e o conjunto edificado da Praça dos Girassóis
     em Palmas
@@ -1217,7 +1074,6 @@
   author:
   - family: Cardoso
     given: Marianna Gomes Pimentel
-    ORCID: https://orcid.org/0000-0002-7225-4793
   - family: Reis
     given: Philippe Arthur dos
     ORCID: https://orcid.org/0000-0003-0645-1091
@@ -1225,8 +1081,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19295994
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/51/
-- id: '52'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-051/
+- id: sdnne06-052
   type: paper-conference
   title: 'Um sonho de unidade: João Filgueiras Lima e sua Gesamtkunstwerk'
   container-title: Arquitetura — tectônica e lugar
@@ -1243,8 +1099,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296001
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/52/
-- id: '53'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-052/
+- id: sdnne06-053
   type: paper-conference
   title: Uma análise da concepção positivista de ocupação industrial no espaço geográfico
     do Amapá
@@ -1260,8 +1116,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/53/
-- id: '54'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-053/
+- id: sdnne06-054
   type: paper-conference
   title: 'Uma reflexão sobre Acessibilidade na obra de Oscar Niemeyer: a Cidade Administrativa
     Tancredo Neves'
@@ -1279,8 +1135,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/54/
-- id: '55'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-054/
+- id: sdnne06-055
   type: paper-conference
   title: Vida e morte do Hotel Esplanada em Fortaleza
   container-title: Arquitetura — tectônica e lugar
@@ -1300,8 +1156,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296010
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/55/
-- id: '56'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-055/
+- id: sdnne06-056
   type: paper-conference
   title: A Arquitetura de Miguel Caddah para a paisagem moderna teresinense
   container-title: Arquitetura — tectônica e lugar
@@ -1321,8 +1177,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296019
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/56/
-- id: '57'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-056/
+- id: sdnne06-057
   type: paper-conference
   title: 'A arquitetura pública modernista: a contribuição de Antônio Luis para Teresina'
   container-title: Arquitetura — tectônica e lugar
@@ -1338,8 +1194,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296031
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/57/
-- id: '58'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-057/
+- id: sdnne06-058
   type: paper-conference
   title: 'A legitimidade material e estrutural na criação da identidade da obra moderna:
     o edifício do Centro de Tecnologia da Universidade Federal do Piauí'
@@ -1361,8 +1217,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296037
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/58/
-- id: '59'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-058/
+- id: sdnne06-059
   type: paper-conference
   title: 'Pesquisas sobre Modernidade Arquitetônica em Campina Grande: um trabalho
     de arquitetura e documentação do acervo'
@@ -1380,29 +1236,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296043
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/59/
-- id: '6'
-  type: paper-conference
-  title: 'À procura do essencial na Arquitetura: construindo com pouco no Nordeste
-    Brasileiro — arte-indústria, regional-internacional, Trópicos-temperos: fenômenos
-    ainda gêmeos?'
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Naslavsky
-    given: Guilah
-    ORCID: https://orcid.org/0000-0003-3367-9657
-  - family: Ramos
-    given: Juliana Silva
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/6/
-- id: '60'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-059/
+- id: sdnne06-060
   type: paper-conference
   title: 'Arquitetura Moderna em Teresina: a contribuição do Arquiteto Antonio Luiz'
   container-title: Arquitetura — tectônica e lugar
@@ -1420,8 +1255,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296045
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/60/
-- id: '61'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-060/
+- id: sdnne06-061
   type: paper-conference
   title: 'Arquitetura Moderna na Amazônia: digitalizando em 3D o cinema de Oswaldo
     Bratke em Santana – AP'
@@ -1443,8 +1278,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/61/
-- id: '62'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-061/
+- id: sdnne06-062
   type: paper-conference
   title: 'Brutalismo em São Luis: análise de três edifícios — Estádio Castelão (1981),
     Ministério da Fazenda (1983) e Memorial Bandeira Tribuzzi (1985)'
@@ -1458,14 +1293,14 @@
   - family: Silva
     given: Rodrigo José de Oliveira
   - family: Pflueger
-    given: Grete Soares -
+    given: Grete Soares
     ORCID: https://orcid.org/0000-0002-9376-8689
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296053
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/62/
-- id: '63'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-062/
+- id: sdnne06-063
   type: paper-conference
   title: Características vernacular na arquitetura moderna teresinese
   container-title: Arquitetura — tectônica e lugar
@@ -1482,8 +1317,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/63/
-- id: '64'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-063/
+- id: sdnne06-064
   type: paper-conference
   title: 'Cine Rex: uma análise de sua importância Arquitetônica e cultural para a
     cidade de Teresina'
@@ -1503,15 +1338,13 @@
     given: R.
   - family: Costa
     given: Débora
-    ORCID: https://orcid.org/0000-0001-7617-4945
   - family: Negreiros
     given: Ana Rosa Soares
-    ORCID: https://orcid.org/0000-0001-8564-8882
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/64/
-- id: '65'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-064/
+- id: sdnne06-065
   type: paper-conference
   title: 'Cobogós de Teresina: inventário visual na Arquitetura Moderna'
   container-title: Arquitetura — tectônica e lugar
@@ -1528,8 +1361,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/65/
-- id: '66'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-065/
+- id: sdnne06-066
   type: paper-conference
   title: 'Conservação da Arquitetura Moderna: um estudo sobre a significância cultural
     patrimonial do edifício São Carlos, projetado pelo Arquiteto Walter Cunha na segunda
@@ -1550,8 +1383,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296061
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/66/
-- id: '67'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-066/
+- id: sdnne06-067
   type: paper-conference
   title: 'Design e Arquitetura na obra de Delfim Amorim: uso de azulejos como revestimento
     de fachadas de edifícios na Arquitetura Moderna Recifense'
@@ -1570,8 +1403,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/67/
-- id: '68'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-067/
+- id: sdnne06-068
   type: paper-conference
   title: 'Digitalizando o Moderno na Amazônia: levantamento do Clube Social da Vila
     Amazonas em Santana – AP'
@@ -1593,8 +1426,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/68/
-- id: '69'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-068/
+- id: sdnne06-069
   type: paper-conference
   title: 'Ideários urbanos: estudo do plano de Wit Olaf Prochinik para São Luis em
     1977'
@@ -1606,7 +1439,7 @@
   language: pt-BR
   author:
   - family: Pflueger
-    given: Grete Soares -
+    given: Grete Soares
     ORCID: https://orcid.org/0000-0002-9376-8689
   - family: Alencar
     given: Lara Serra Pinto de
@@ -1615,26 +1448,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296069
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/69/
-- id: '7'
-  type: paper-conference
-  title: 'A produção moderna da praça pública nas cidades pequenas: reflexões sobre
-    Pau dos Ferros — RN'
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Barbosa
-    given: Antonio Carlos Leite
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  DOI: 10.5281/zenodo.19296077
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/7/
-- id: '70'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-069/
+- id: sdnne06-070
   type: paper-conference
   title: 'Instituto Nacional de Previdência Social (INPS): uma análise arquitetônica
     e histórica'
@@ -1654,12 +1469,11 @@
     ORCID: https://orcid.org/0000-0002-5389-1842
   - family: Negreiros
     given: Ana Rosa Soares
-    ORCID: https://orcid.org/0000-0001-8564-8882
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/70/
-- id: '71'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-070/
+- id: sdnne06-071
   type: paper-conference
   title: 'Modernidade em Campina Grande: o edifício da Escola Politécnica da Universidade
     da Paraíba'
@@ -1681,8 +1495,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/71/
-- id: '72'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-071/
+- id: sdnne06-072
   type: paper-conference
   title: 'Movimento Moderno em Campina Grande: um estudo residencial'
   container-title: Arquitetura — tectônica e lugar
@@ -1697,8 +1511,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/72/
-- id: '73'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-072/
+- id: sdnne06-073
   type: paper-conference
   title: 'O comportamento dos espelhos: documentos, Modernidade e verticalização em
     Campina Grande, Paraíba (1942 a 1970)'
@@ -1714,8 +1528,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/73/
-- id: '74'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-073/
+- id: sdnne06-074
   type: paper-conference
   title: 'O mestre e a madeira: trajetória profissional e contribuição de Zanine Caldas
     para a construção em madeira na arquitetura moderna brasileira'
@@ -1739,8 +1553,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296083
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/74/
-- id: '75'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-074/
+- id: sdnne06-075
   type: paper-conference
   title: 'O modernismo no Edifício Chagas Rodrigues (DER-PI): conhecimento e preservação'
   container-title: Arquitetura — tectônica e lugar
@@ -1761,8 +1575,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296089
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/75/
-- id: '76'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-075/
+- id: sdnne06-076
   type: paper-conference
   title: O processo de integração socioespacial da Praça Ocílio Lago (Praça dos Skatistas)
     em Teresina — PI
@@ -1780,8 +1594,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/76/
-- id: '77'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-076/
+- id: sdnne06-077
   type: paper-conference
   title: 'O projeto e o pensamento do Arquiteto: uma análise do edifício Alberto Silva'
   container-title: Arquitetura — tectônica e lugar
@@ -1799,8 +1613,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/77/
-- id: '78'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-077/
+- id: sdnne06-078
   type: paper-conference
   title: 'Paisagens participativas: o uso da praça Edgar Nogueira como incentivo ao
     (re) conhecimento da Arquitetura Moderna Piauiense'
@@ -1813,7 +1627,6 @@
   author:
   - family: Siqueira
     given: Felipe
-    ORCID: https://orcid.org/0000-0002-9385-5053
   - family: Andrade
     given: Giesse Monteiro Alves de
     ORCID: https://orcid.org/0009-0008-6847-5965
@@ -1824,8 +1637,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296110
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/78/
-- id: '79'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-078/
+- id: sdnne06-079
   type: paper-conference
   title: 'Patrimônio Arquitetônico Moderno nordestino: edifício Holiday, Recife'
   container-title: Arquitetura — tectônica e lugar
@@ -1843,24 +1656,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/79/
-- id: '8'
-  type: paper-conference
-  title: A residência modernista aracajuana dos Souza Freire
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Maciel
-    given: J.
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/8/
-- id: '80'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-079/
+- id: sdnne06-080
   type: paper-conference
   title: 'Raimundo Dias: contribuições para a Arquitetura Moderna Piauiense'
   container-title: Arquitetura — tectônica e lugar
@@ -1877,8 +1674,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/80/
-- id: '81'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-080/
+- id: sdnne06-081
   type: paper-conference
   title: Três casas modernas e a transformação do espaço doméstico em Belém
   container-title: Arquitetura — tectônica e lugar
@@ -1895,8 +1692,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/81/
-- id: '82'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-081/
+- id: sdnne06-082
   type: paper-conference
   title: Um estudo de edifícios modernos na cidade de Floriano, Piauí. 1950-1980
   container-title: Arquitetura — tectônica e lugar
@@ -1908,15 +1705,14 @@
   author:
   - family: Carvalho
     given: Lorena Petrovich Pereira de
-    ORCID: https://orcid.org/0009-0000-6592-1298
   - family: Melo
     given: Alcília Afonso de Albuquerque e
     ORCID: https://orcid.org/0000-0002-6344-9329
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/82/
-- id: '83'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-082/
+- id: sdnne06-083
   type: paper-conference
   title: A Estação Ferroviária Nova de Campina Grande
   container-title: Arquitetura — tectônica e lugar
@@ -1935,8 +1731,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/83/
-- id: '84'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-083/
+- id: sdnne06-084
   type: paper-conference
   title: 'A expressão tectônica na obra residencial de Geraldino Duda: Campina Grande,
     anos 1960'
@@ -1954,8 +1750,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/84/
-- id: '85'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-084/
+- id: sdnne06-085
   type: paper-conference
   title: A influência da metodologia modernista no partido urbanístico do conjunto
     habitacional Tancredo Neves em Teresina/PI
@@ -1977,8 +1773,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296118
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/85/
-- id: '86'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-085/
+- id: sdnne06-086
   type: paper-conference
   title: 'A Modernidade Brutalista Paraibana na década de 70: o caso do Museu de Artes
     Assis Chateaubriand'
@@ -2001,8 +1797,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296126
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/86/
-- id: '87'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-086/
+- id: sdnne06-087
   type: paper-conference
   title: 'A permanência dos critérios modernos na obra de Glauco Campello: Estação
     Rodoviária Argemiro de Figueiredo. Campina Grande. PB'
@@ -2022,8 +1818,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296132
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/87/
-- id: '88'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-087/
+- id: sdnne06-088
   type: paper-conference
   title: Análise da eficiência do conforto e funcionalidade das edificações modernistas
     de Fortaleza
@@ -2047,8 +1843,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296136
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/88/
-- id: '89'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-088/
+- id: sdnne06-089
   type: paper-conference
   title: 'Análise projetual do acervo moderno da cidade de Campina Grande, PB: edifício
     Lucas de Hugo Marques'
@@ -2061,13 +1857,11 @@
   author:
   - family: Almeida
     given: Eneida de
-    ORCID: https://orcid.org/0000-0001-9773-5289
   - family: Lima
     given: Ana Carla de Sousa
     ORCID: https://orcid.org/0000-0003-1417-1962
   - family: Passos
     given: Maria Clara Primo
-    ORCID: https://orcid.org/0000-0002-9160-957X
   - family: Melo
     given: Alcília Afonso de Albuquerque e
     ORCID: https://orcid.org/0000-0002-6344-9329
@@ -2075,26 +1869,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296142
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/89/
-- id: '9'
-  type: paper-conference
-  title: 'A transparência do desenho: João Filgueiras Lima estudado a partir de seus
-    desenhos'
-  container-title: Arquitetura — tectônica e lugar
-  event-title: 6º Seminário Docomomo Norte/Nordeste
-  issued:
-    date-parts:
-    - - 2016
-  language: pt-BR
-  author:
-  - family: Paz
-    given: Daniel Juracy Mellado
-    ORCID: https://orcid.org/0000-0002-2119-5850
-  event-place: Teresina, PI
-  publisher-place: Teresina, PI
-  ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/9/
-- id: '90'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-089/
+- id: sdnne06-090
   type: paper-conference
   title: 'Arquitetura bioclimática: a obra de Acácio Gil Borsoi em Teresina, PI'
   container-title: Arquitetura — tectônica e lugar
@@ -2113,7 +1889,6 @@
     given: Plínio Eduardo Pinheiro
   - family: Marques
     given: Rômulo
-    ORCID: https://orcid.org/0000-0003-1712-3579
   - family: Silveira
     given: Ana Lucia Ribeiro Camillo da
     ORCID: https://orcid.org/0000-0003-2324-3964
@@ -2121,8 +1896,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296150
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/90/
-- id: '91'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-090/
+- id: sdnne06-091
   type: paper-conference
   title: 'Arquitetura Moderna em Fortaleza: análise arquitetônica das residências
     da Família Alcântara'
@@ -2140,13 +1915,12 @@
     given: Francisco Allyson Barbosa
   - family: Rodrigues
     given: Yasmin
-    ORCID: https://orcid.org/0000-0001-9771-7523
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296159
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/91/
-- id: '92'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-091/
+- id: sdnne06-092
   type: paper-conference
   title: 'CEPISA: um marco da arquitetura moderna da década de 70 até os dias atuais'
   container-title: Arquitetura — tectônica e lugar
@@ -2160,13 +1934,12 @@
     given: Rafael
   - family: Negreiros
     given: Ana Rosa Soares
-    ORCID: https://orcid.org/0000-0001-8564-8882
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296163
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/92/
-- id: '93'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-092/
+- id: sdnne06-093
   type: paper-conference
   title: 'Cine Rex: memória sobrevivente'
   container-title: Arquitetura — tectônica e lugar
@@ -2188,8 +1961,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/93/
-- id: '94'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-093/
+- id: sdnne06-094
   type: paper-conference
   title: Contribuições do arquiteto Raimundo Dias para Arquitetura Moderna Piauiense
   container-title: Arquitetura — tectônica e lugar
@@ -2201,7 +1974,6 @@
   author:
   - family: Castro
     given: Flávia Fernanda de Sousa Costa
-    ORCID: https://orcid.org/0000-0003-3031-6682
   - family: Feitosa
     given: Ana Rosa Soares Negreiros
   - family: Serra
@@ -2210,8 +1982,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296169
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/94/
-- id: '95'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-094/
+- id: sdnne06-095
   type: paper-conference
   title: 'Desafios para a preservação do Patrimônio Cultural Moderno no Piauí: Av.
     Frei Serafim e Hospital Getúlio Vargas'
@@ -2222,7 +1994,7 @@
     - - 2016
   language: pt-BR
   author:
-  - family: Magalhaes
+  - family: Magalhães
     given: Aracelly Moreira
   - family: Rodrigues
     given: Isis Meireles
@@ -2238,8 +2010,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296173
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/95/
-- id: '96'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-095/
+- id: sdnne06-096
   type: paper-conference
   title: 'Monumento da Batalha do Jenipapo: o exemplar moderno no interior do Piauí'
   container-title: Arquitetura — tectônica e lugar
@@ -2249,13 +2021,13 @@
     - - 2016
   language: pt-BR
   author:
-  - family: Araujo
+  - family: Araújo
     given: Joaquim dos Anjos
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/96/
-- id: '97'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-096/
+- id: sdnne06-097
   type: paper-conference
   title: O Edifício Dourado e a introdução de novas formas de habitar
   container-title: Arquitetura — tectônica e lugar
@@ -2270,8 +2042,8 @@
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/97/
-- id: '98'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-097/
+- id: sdnne06-098
   type: paper-conference
   title: O resgate de obras residenciais modernas do arquiteto Antonio Luiz em Teresina
   container-title: Arquitetura — tectônica e lugar
@@ -2292,8 +2064,8 @@
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296178
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/98/
-- id: '99'
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-098/
+- id: sdnne06-099
   type: paper-conference
   title: 'Prédios modernistas geminados da avenida Magalhães de Almeida: um estudo
     de reabilitação arquitetônica'
@@ -2307,10 +2079,215 @@
   - family: Barbosa
     given: Bianca Tereza Lins Rabelo
   - family: Pflueger
-    given: Grete Soares -
+    given: Grete Soares
     ORCID: https://orcid.org/0000-0002-9376-8689
   event-place: Teresina, PI
   publisher-place: Teresina, PI
   DOI: 10.5281/zenodo.19296182
   ISBN: 978-85-7463-919-2
-  URL: https://anais.docomomobrasil.com/nne/sdnne06/99/
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-099/
+- id: sdnne06-100
+  type: paper-conference
+  title: 'ROVSA/Campina Grande, Paraíba: análise arquitetônica'
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Almeida
+    given: Leonardo de
+  - family: Pinheiro
+    given: N.
+  - family: Borges
+    given: R.
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-100/
+- id: sdnne06-101
+  type: paper-conference
+  title: 'SESC Pompéia: Arquitetura Moderna e Patrimônio Industrial na obra de Lina
+    Bo Bardi'
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Freire
+    given: Pamela K. Ribeiro Franco
+  - family: Moura
+    given: Vivianny de Paula Fernandes
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  DOI: 10.5281/zenodo.19295033
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-101/
+- id: sdnne06-102
+  type: paper-conference
+  title: 'Traços modernos e Arquitetura Bioclimática: Centro de Tecnologia da Universidade
+    Federal do Piauí (UFPI)'
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Meneses
+    given: Priscila de Oliveira
+  - family: Teles
+    given: T.
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-102/
+- id: sdnne06-103
+  type: paper-conference
+  title: Transformações do Centro Cívico do Estado do Piauí
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Feitosa
+    given: Ana Rosa Soares Negreiros
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-103/
+- id: sdnne06-104
+  type: paper-conference
+  title: 'A presença de Moacyr Gomes em Mossoró (RN): Escola Estadual Jerônimo Rosado'
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Silva
+    given: A. L.
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-104/
+- id: sdnne06-105
+  type: paper-conference
+  title: O Moderno no antigo Largo do Amparo
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Meireles
+    given: Alessandra Braúna
+    ORCID: https://orcid.org/0000-0002-3294-647X
+  - family: Liberato
+    given: Ana Karolyne de Souza
+  - family: Machado
+    given: Daniel Oliveira
+  - family: Pessoa
+    given: Daniel Victor Oliveira
+  - family: Coutinho
+    given: Elane Lopes
+    ORCID: https://orcid.org/0000-0003-1871-3888
+  - family: Caddah
+    given: Yasmine Ibiapina
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  DOI: 10.5281/zenodo.19295048
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-105/
+- id: sdnne06-106
+  type: paper-conference
+  title: 'Perdas, danos ou ganho?: sobre as intervenções no edifício do antigo Restaurante
+    Universitário da UFBA'
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Nery
+    given: Juliana Cardoso
+    ORCID: https://orcid.org/0000-0002-8476-5339
+  - family: Moreira
+    given: Susanna Carrozzo Cohim
+    ORCID: https://orcid.org/0000-0001-7028-553X
+  - family: Conceição
+    given: Samir Santos da
+  - family: Corongiu
+    given: Rafael Teles de Menezes Luz
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  DOI: 10.5281/zenodo.19295627
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-106/
+- id: sdnne06-107
+  type: paper-conference
+  title: 'Colégio Zacarias de Goés: a arquitetura como reflexo da reforma educacional
+    em Teresina'
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Feitosa
+    given: Ana Rosa Soares Negreiros
+  - family: Santiago
+    given: Denise Rodrigues
+    ORCID: https://orcid.org/0000-0003-1952-7913
+  - family: Ferreira
+    given: Lucas Coelho
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  DOI: 10.5281/zenodo.19295639
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-107/
+- id: sdnne06-108
+  type: paper-conference
+  title: 'Modernidade (Arqui)Tectônica: a arte de construir'
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Paiva
+    given: Ricardo Alexandre
+    ORCID: https://orcid.org/0000-0002-0332-097X
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  DOI: 10.5281/zenodo.19295651
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-108/
+- id: sdnne06-109
+  type: paper-conference
+  title: 'Arquiteturas da Modernidade em Belém: materialidades e conceitos'
+  container-title: Arquitetura — tectônica e lugar
+  event-title: 6º Seminário Docomomo Norte/Nordeste
+  issued:
+    date-parts:
+    - - 2016
+  language: pt-BR
+  author:
+  - family: Chaves
+    given: Celma
+    ORCID: https://orcid.org/0000-0003-3437-3844
+  event-place: Teresina, PI
+  publisher-place: Teresina, PI
+  DOI: 10.5281/zenodo.19295659
+  ISBN: 978-85-7463-919-2
+  URL: https://anais.docomomobrasil.com/nne/sdnne06/sdnne06-109/

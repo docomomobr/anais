@@ -242,6 +242,9 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
         lines.append(f'subtitle_es: "{yaml_escape(article["subtitle_es"])}"')
     lines.append(f'date: {seminar["date_published"]}')
     lines.append(f'slug: {article_id}')
+    # sdnne06 usou ids numéricos puros até 2026-10; alias mantém as URLs antigas vivas
+    if seminar['slug'] == 'sdnne06':
+        lines.append(f"aliases: ['/{ambito_slug}/sdnne06/{int(article_id.split('-')[1])}/']")
     lines.append(f'type: artigo')
     if article['document_type'] and article['document_type'] != 'artigo':
         lines.append(f'document_type: {article["document_type"]}')
