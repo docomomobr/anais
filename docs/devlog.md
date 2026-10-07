@@ -1283,3 +1283,16 @@ Painel GSC consolidado até 20/09:
 **GoatCounter (última semana):** 805 visitas — dentro da faixa normal (ago: 944; pico 13/09: 1.070). Referrers: **Google 49% (392/sem)**, Scholar 12%+2% (114), **chatgpt.com 8% (68) — dobrou de peso desde 13/09 (era 4%)**, Brasil 87%. O acesso real segue saudável e o canal LLM cresce.
 
 **Estado das frentes:** campanha de autores segue bloqueada na revisão do texto v2 pelo usuário (pendente desde 05/08); enxugamento do sitemap elegível desde a 5ª medição, não decidido; 7ª medição ~novembro ou pós-campanha.
+
+### 2026-10-07 — DOI próprio via ABEC/Crossref: frente aberta; campanha REPROGRAMADA para fevereiro/2027
+
+Oportunidade trazida do projeto da revista (docomomo/revista, log 17/09): a associação já é membro Crossref via ABEC (prefixo 10.59804, membro 39324, conta `acd8`); a revista depositou 126/126 DOIs. Verificado hoje nos sites:
+- **Crossref** (crossref.org/fees + post oficial): back-year hoje US$ 0,15 (≤2023) e current US$ 1,00 (2024-26); **a partir de 01/01/2027, back-year (em 2027: ≤2024) = US$ 0** e current cai a US$ 0,95.
+- **ABEC**: sem tarifa própria por DOI — repassa a fatura trimestral do Crossref; anuidade (R$ 930/2025) já paga pela revista. Prefixo é da associação.
+- **Conta para os anais** (2.907 trabalhos no Zenodo): tudo agora ≈ US$ 808; tudo em jan/2027 ≈ US$ 309 (325 trabalhos de 2025 a 0,95); escalonado (≤2024 em jan/2027 + os de 2025 em jan/2028) = **US$ 0**.
+
+**Motivação SEO (evidência nova):** `site:zenodo.org docomomo seminário` mostra as cópias Zenodo dos nossos trabalhos INDEXADAS no Google enquanto as canônicas seguem "rastreada, não indexada" — o duplo efeito: competição de cópias (domínio CERN vence) e desvio estrutural de autoridade (todo o encanamento DOI — Lattes, ORCID, referências, agregadores — resolve para zenodo.org). DOI próprio reverte: doi.org (302, padrão do sistema) passa a entregar no nosso domínio.
+
+**Decisão de sequenciamento (usuário):** a campanha de autores NÃO dispara com DOI Zenodo — induziria centenas de Lattes/ORCID permanentes reforçando o domínio errado (autor não refaz Lattes). Sequência: (1) out: consulta à ABEC (aceita proceedings? muda anuidade?); (2) nov-dez: pipeline XML Crossref a partir do anais.db (sufixo a definir, ex. 10.59804/anais.sdbr16-001) + revisão do texto do e-mail (passo a passo migra para o DOI da casa) + botão "Este sou eu" + {seminarios}/utm; (3) jan/2027: depósito do acervo ≤2024 (2.582, grátis); site exibe DOI da casa; Zenodo vira cópia de repositório com isIdenticalTo; (4) fev: regenerar mala direta e disparar. Plano B se a ABEC recusar: campanha com DOI Zenodo + URL própria.
+
+**Sanidade do 301 (ao vivo, hoje):** artigo mapeado 301→canônica ✓; /anais 301 ✓; não mapeada 404 honesto ✓; raiz 200 hub ✓.
