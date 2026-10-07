@@ -1296,3 +1296,11 @@ Oportunidade trazida do projeto da revista (docomomo/revista, log 17/09): a asso
 **Decisão de sequenciamento (usuário):** a campanha de autores NÃO dispara com DOI Zenodo — induziria centenas de Lattes/ORCID permanentes reforçando o domínio errado (autor não refaz Lattes). Sequência: (1) out: consulta à ABEC (aceita proceedings? muda anuidade?); (2) nov-dez: pipeline XML Crossref a partir do anais.db (sufixo a definir, ex. 10.59804/anais.sdbr16-001) + revisão do texto do e-mail (passo a passo migra para o DOI da casa) + botão "Este sou eu" + {seminarios}/utm; (3) jan/2027: depósito do acervo ≤2024 (2.582, grátis); site exibe DOI da casa; Zenodo vira cópia de repositório com isIdenticalTo; (4) fev: regenerar mala direta e disparar. Plano B se a ABEC recusar: campanha com DOI Zenodo + URL própria.
 
 **Sanidade do 301 (ao vivo, hoje):** artigo mapeado 301→canônica ✓; /anais 301 ✓; não mapeada 404 honesto ✓; raiz 200 hub ✓.
+
+### 2026-10-07 — sdnne06 normalizado: ids padrão, aliases, OAI e backlinks — frente de backlinks 100%
+
+Executada a pendência de julho (anomalia `/nne/sdnne06/43/`): os 109 artigos do sdnne06 tinham id numérico puro (1-109) em vez de `sdnne06-NNN`. Disco e coluna `file` já estavam no padrão; a troca ficou em `articles.id` + `article_author.article_id` (109+266 linhas, zero órfãos; backup `anais.db.backup_sdnne06_ids`). db2hugo ganhou aliases das URLs numéricas antigas (stub canonical+refresh do Hugo — verificado no ar). Catálogo OAI regenerado: 0 URLs numéricas, 109 novas (3.104 registros). Deploy pela trava normal (commit e400b7482, CI verde). **Backlinks Zenodo dos 66 registros restantes: added 66/66, zero erros** (isIdenticalTo conferido ao vivo) — a frente de backlinks fecha em **2.907/2.907**.
+
+Nota de manutenção descoberta no caminho: `site/public/` está VERSIONADO (71 mil arquivos, snapshot morto de 2026-04-06; o deploy real é build do CI). Worktree restaurado pós-build local. Candidato a sair do versionamento — decisão pendente.
+
+Também hoje: proposta de enxugamento do sitemap apresentada ao usuário (noindex + fora do sitemap para as 9.453 páginas de palavra-chave nas 3 línguas; autores FICAM indexáveis por serem alvo dos backlinks da campanha) — AGUARDA DECISÃO. Pendências do usuário: enviar consulta ABEC; rotacionar token GitHub; ok para desativar GitHub Pages do publicacoes.
