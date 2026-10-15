@@ -32,7 +32,6 @@ authors:
   - givenname: "Lorena Petrovich Pereira de"
     familyname: "Carvalho"
     affiliation: "PPGAU – UFRN"
-    orcid: "0009-0000-6592-1298"
   - givenname: "Márcio Moraes"
     familyname: "Valença"
     affiliation: "PPGAU-UFRN"

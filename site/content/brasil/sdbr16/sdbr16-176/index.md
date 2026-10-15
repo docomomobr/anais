@@ -31,7 +31,6 @@ authors:
   - givenname: "Tainá Tábata"
     familyname: "Fialho Martins"
     affiliation: "DAU-UFV"
-    orcid: "0000-0002-1738-0041"
   - givenname: "Marilia"
     familyname: "Solfa"
     affiliation: "IAU-USP"

@@ -26,7 +26,6 @@ abstract: |
 authors:
   - givenname: "Carlos Eduardo Binatto de"
     familyname: "Castro"
-    orcid: "0000-0002-3944-1642"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Castro, Carlos Eduardo Binatto de"

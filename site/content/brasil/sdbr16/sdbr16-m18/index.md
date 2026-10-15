@@ -29,10 +29,10 @@ authors:
     affiliation: "ECA-USP"
     orcid: "0000-0002-7088-6885"
   - givenname: "Maria Isabel"
-    familyname: "Imbrunito"
+    familyname: "Imbronito"
     orcid: "0000-0001-7394-3809"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Queiroz, Rodrigo Cristiano"
-  - "Imbrunito, Maria Isabel"
+  - "Imbronito, Maria Isabel"
 ---

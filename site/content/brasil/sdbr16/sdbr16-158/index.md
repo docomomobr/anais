@@ -38,7 +38,6 @@ authors:
   - givenname: "Marina Pedreira de"
     familyname: "Lacerda"
     affiliation: "USJT"
-    orcid: "0000-0003-0755-1916"
 doi: "10.5281/zenodo.19434443"
 zenodo_pdf_url: "https://zenodo.org/records/19434444/files/sdbr16-158.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

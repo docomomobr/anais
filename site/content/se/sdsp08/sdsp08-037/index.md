@@ -51,7 +51,6 @@ authors:
     orcid: "0000-0001-5310-6106"
   - givenname: "Daniela"
     familyname: "Moro"
-    orcid: "0000-0002-3845-3406"
 doi: "10.5281/zenodo.19290067"
 zenodo_pdf_url: "https://zenodo.org/records/19290068/files/sdsp08-037.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

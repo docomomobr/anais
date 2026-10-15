@@ -53,7 +53,6 @@ authors:
     familyname: "Carcavalli"
   - givenname: "Diego Petrini"
     familyname: "Pinheiro"
-    orcid: "0000-0001-7626-6321"
 doi: "10.5281/zenodo.19289737"
 zenodo_pdf_url: "https://zenodo.org/records/19289738/files/sdsp07-030.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

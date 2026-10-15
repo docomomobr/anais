@@ -32,7 +32,6 @@ authors:
   - givenname: "Jônatas Sousa da"
     familyname: "Costa"
     affiliation: "UFRJ"
-    orcid: "0000-0002-1550-2009"
   - givenname: "Lucas A. S. F."
     familyname: "Salvador"
     affiliation: "UFRJ"

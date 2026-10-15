@@ -27,7 +27,6 @@ abstract_en: |
 authors:
   - givenname: "Yunlong"
     familyname: "YU"
-    orcid: "0000-0002-4809-9738"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "YU, Yunlong"

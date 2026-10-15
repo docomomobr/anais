@@ -34,7 +34,6 @@ authors:
   - givenname: "Gustavo"
     familyname: "Leal"
     affiliation: "PROURB-FAU-UFRJ"
-    orcid: "0009-0000-4822-0772"
   - givenname: "Lucas"
     familyname: "Marques"
     affiliation: "PROURB-FAU-UFRJ"

@@ -37,7 +37,6 @@ authors:
   - givenname: "Letícia"
     familyname: "Aguiar"
     affiliation: "FAU-UnB"
-    orcid: "0000-0002-3239-2980"
 doi: "10.5281/zenodo.19434616"
 zenodo_pdf_url: "https://zenodo.org/records/19434617/files/sdbr16-232.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

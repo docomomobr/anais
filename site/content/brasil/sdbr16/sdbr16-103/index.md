@@ -27,7 +27,6 @@ authors:
   - givenname: "Izabel Fraga do"
     familyname: "Amaral"
     affiliation: "UdeM"
-    orcid: "0000-0002-9106-6341"
 doi: "10.5281/zenodo.19434312"
 zenodo_pdf_url: "https://zenodo.org/records/19434313/files/sdbr16-103.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

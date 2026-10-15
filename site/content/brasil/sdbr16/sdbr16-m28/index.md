@@ -28,10 +28,8 @@ authors:
   - givenname: "Ana"
     familyname: "Esteban Maluenda"
     affiliation: "UPM"
-    orcid: "0000-0002-7786-9252"
   - givenname: "Patricia"
     familyname: "Mendes"
-    orcid: "0000-0001-5840-0523"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Esteban Maluenda, Ana"

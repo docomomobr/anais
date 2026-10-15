@@ -40,7 +40,6 @@ authors:
   - givenname: "Victor"
     familyname: "Oliveira"
     affiliation: "FAU-USP"
-    orcid: "0000-0002-1117-8264"
 doi: "10.5281/zenodo.19434353"
 zenodo_pdf_url: "https://zenodo.org/records/19434354/files/sdbr16-120.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

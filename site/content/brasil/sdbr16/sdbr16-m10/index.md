@@ -30,7 +30,6 @@ authors:
     orcid: "0000-0002-2569-0912"
   - givenname: "Ana Maria Gadelha Albano"
     familyname: "Amora"
-    orcid: "0009-0007-1064-364X"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Costa, Renato da Gama-Rosa"

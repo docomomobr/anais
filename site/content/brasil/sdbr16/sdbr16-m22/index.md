@@ -26,7 +26,6 @@ abstract: |
 authors:
   - givenname: "Mônica Junqueira de"
     familyname: "Camargo"
-    orcid: "0000-0002-2625-5074"
   - givenname: "Sabrina Studart Fontenele"
     familyname: "Costa"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

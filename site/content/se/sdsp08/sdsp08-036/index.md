@@ -46,7 +46,6 @@ keywords_es:
 authors:
   - givenname: "Julia"
     familyname: "Andrade"
-    orcid: "0009-0000-5286-8387"
 doi: "10.5281/zenodo.19290060"
 zenodo_pdf_url: "https://zenodo.org/records/19290061/files/sdsp08-036.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

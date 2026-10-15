@@ -49,7 +49,6 @@ keywords_es:
 authors:
   - givenname: "Flávia Cavicchioli"
     familyname: "Monteiro"
-    orcid: "0000-0002-7024-660X"
   - givenname: "Adriana Leal de"
     familyname: "Almeida"
     orcid: "0009-0004-4822-5767"

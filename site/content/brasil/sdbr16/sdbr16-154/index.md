@@ -31,7 +31,6 @@ authors:
   - givenname: "Arthur"
     familyname: "Prates"
     affiliation: "FAUeD-USP"
-    orcid: "0000-0002-1443-8607"
 doi: "10.5281/zenodo.19434435"
 zenodo_pdf_url: "https://zenodo.org/records/19434436/files/sdbr16-154.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

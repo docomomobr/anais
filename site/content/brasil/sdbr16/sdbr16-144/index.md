@@ -31,7 +31,6 @@ authors:
   - givenname: "Pilar"
     familyname: "Tejero Baeza"
     affiliation: "UNESA"
-    orcid: "0000-0002-1848-7705"
   - givenname: "Ligia Maria"
     familyname: "Mello Dias"
     affiliation: "UFRJ"

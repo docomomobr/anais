@@ -26,7 +26,6 @@ pdf_file: "sdsp08-002.pdf"
 authors:
   - givenname: "Vitor"
     familyname: "Lima"
-    orcid: "0000-0001-6750-1641"
   - givenname: "João Bittar"
     familyname: "Fiammenghi"
     orcid: "0000-0001-8810-0855"

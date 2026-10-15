@@ -27,7 +27,7 @@ abstract: |
 authors:
   - givenname: "Ana Carolina Buim Azevedo"
     familyname: "Marques"
-    orcid: "0000-0003-1568-7231"
+    orcid: "0009-0003-5500-6581"
   - givenname: "Rafael"
     familyname: "d'Andrea"
     orcid: "0000-0001-9687-6178"

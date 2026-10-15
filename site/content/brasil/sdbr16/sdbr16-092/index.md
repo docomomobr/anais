@@ -35,7 +35,6 @@ authors:
   - givenname: "Ana Beatriz Pahor Pereira da"
     familyname: "Costa"
     affiliation: "FAU-USP"
-    orcid: "0000-0001-5137-4094"
 doi: "10.5281/zenodo.19434288"
 zenodo_pdf_url: "https://zenodo.org/records/19446643/files/sdbr16-092.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

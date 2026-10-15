@@ -43,7 +43,6 @@ keywords_es:
 authors:
   - givenname: "Mônica Junqueira de"
     familyname: "Camargo"
-    orcid: "0000-0002-2625-5074"
   - givenname: "Thais Ribeiro da"
     familyname: "Cruz"
 doi: "10.5281/zenodo.19289920"

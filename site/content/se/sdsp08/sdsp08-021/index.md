@@ -49,7 +49,7 @@ authors:
     orcid: "0000-0003-3472-5598"
   - givenname: "Ana Carolina Buim Azevedo"
     familyname: "Marques"
-    orcid: "0000-0003-1568-7231"
+    orcid: "0009-0003-5500-6581"
 doi: "10.5281/zenodo.19289979"
 zenodo_pdf_url: "https://zenodo.org/records/19289980/files/sdsp08-021.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

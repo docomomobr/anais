@@ -32,7 +32,6 @@ authors:
   - givenname: "Ana"
     familyname: "Esteban Maluenda"
     affiliation: "UPM"
-    orcid: "0000-0002-7786-9252"
   - givenname: "Nicolás"
     familyname: "Mariné Carretero"
     affiliation: "UPM"

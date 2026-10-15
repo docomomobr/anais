@@ -51,7 +51,6 @@
   author:
   - family: Leão
     given: Sílvia Lopes Carneiro
-    ORCID: https://orcid.org/0000-0001-9109-8127
   - family: Fischmann
     given: Daniel Pitta
     ORCID: https://orcid.org/0009-0002-8082-4853
@@ -148,7 +147,7 @@
   author:
   - family: Marques
     given: Ana Carolina Buim Azevedo
-    ORCID: https://orcid.org/0000-0003-1568-7231
+    ORCID: https://orcid.org/0009-0003-5500-6581
   - family: d'Andrea
     given: Rafael
     ORCID: https://orcid.org/0000-0001-9687-6178
@@ -191,7 +190,6 @@
     ORCID: https://orcid.org/0000-0002-2569-0912
   - family: Amora
     given: Ana Maria Gadelha Albano
-    ORCID: https://orcid.org/0009-0007-1064-364X
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   ISBN: 978-65-993024-6-6
@@ -267,7 +265,6 @@
     given: Felipe Henrique
   - family: Brasileiro
     given: Vanessa Borges
-    ORCID: https://orcid.org/0000-0002-4625-5709
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   ISBN: 978-65-993024-6-6
@@ -302,8 +299,8 @@
     - - 2026
   language: pt-BR
   author:
-  - family: Ceravolo
-    given: Ana Lucia
+  - family: Cerávolo
+    given: Ana Lúcia
     ORCID: https://orcid.org/0000-0001-5409-7045
   - family: Chiquito
     given: Elisangela de Almeida
@@ -324,7 +321,6 @@
   author:
   - family: Castro
     given: Carlos Eduardo Binatto de
-    ORCID: https://orcid.org/0000-0002-3944-1642
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   ISBN: 978-65-993024-6-6
@@ -342,7 +338,7 @@
   - family: Queiroz
     given: Rodrigo Cristiano
     ORCID: https://orcid.org/0000-0002-7088-6885
-  - family: Imbrunito
+  - family: Imbronito
     given: Maria Isabel
     ORCID: https://orcid.org/0000-0001-7394-3809
   event-place: Porto Alegre
@@ -420,7 +416,6 @@
   author:
   - family: Camargo
     given: Mônica Junqueira de
-    ORCID: https://orcid.org/0000-0002-2625-5074
   - family: Costa
     given: Sabrina Studart Fontenele
   event-place: Porto Alegre
@@ -532,10 +527,8 @@
   author:
   - family: Esteban Maluenda
     given: Ana
-    ORCID: https://orcid.org/0000-0002-7786-9252
   - family: Mendes
     given: Patricia
-    ORCID: https://orcid.org/0000-0001-5840-0523
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   ISBN: 978-65-993024-6-6
@@ -593,7 +586,7 @@
   - family: Cabral
     given: Cláudia Piantá Costa
     ORCID: https://orcid.org/0000-0003-0079-1861
-  - family: Bogea
+  - family: Bogéa
     given: Marta
     ORCID: https://orcid.org/0000-0001-7295-9753
   event-place: Porto Alegre
@@ -868,7 +861,6 @@
   author:
   - family: Koury
     given: Ana Paula
-    ORCID: https://orcid.org/0000-0001-9511-5561
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434042
@@ -977,7 +969,6 @@
     given: Pablo
   - family: Corrêa Oliveira
     given: Nathália Bichinho C.
-    ORCID: https://orcid.org/0000-0002-7420-4634
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434060
@@ -1126,7 +1117,6 @@
   author:
   - family: Leal
     given: Gustavo
-    ORCID: https://orcid.org/0009-0000-4822-0772
   - family: Marques
     given: Lucas
     ORCID: https://orcid.org/0000-0001-8145-8301
@@ -1218,7 +1208,6 @@
   author:
   - family: Costa
     given: Jônatas Sousa da
-    ORCID: https://orcid.org/0000-0002-1550-2009
   - family: Salvador
     given: Lucas A. S. F.
   event-place: Porto Alegre
@@ -1294,7 +1283,6 @@
   author:
   - family: Pacheco
     given: Paulo
-    ORCID: https://orcid.org/0000-0001-5976-5006
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434107
@@ -1389,7 +1377,6 @@
   author:
   - family: Santos
     given: Priscila Gonçalves
-    ORCID: https://orcid.org/0000-0001-5844-696X
   - family: Tamari
     given: Gabriela Tie Nagoya
     ORCID: https://orcid.org/0000-0003-1864-2979
@@ -1536,7 +1523,6 @@
   author:
   - family: Leão
     given: Sílvia Lopes Carneiro
-    ORCID: https://orcid.org/0000-0001-9109-8127
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434133
@@ -1864,7 +1850,7 @@
   language: pt-BR
   author:
   - family: Pflueger
-    given: Grete Soares -
+    given: Grete Soares
     ORCID: https://orcid.org/0000-0002-9376-8689
   - family: Ferreira
     given: Bruno David -
@@ -2003,7 +1989,7 @@
   author:
   - family: Oresko
     given: Bianca
-  - family: Imbrunito
+  - family: Imbronito
     given: Maria Isabel
     ORCID: https://orcid.org/0000-0001-7394-3809
   event-place: Porto Alegre
@@ -2263,7 +2249,6 @@
   author:
   - family: Vargas
     given: Priscila
-    ORCID: https://orcid.org/0009-0004-1912-7770
   - family: Bernardy
     given: Fabiana
     ORCID: https://orcid.org/0009-0008-9972-8136
@@ -2383,7 +2368,6 @@
     given: Larissa Cristina da
   - family: Costa
     given: Ana Beatriz Pahor Pereira da
-    ORCID: https://orcid.org/0000-0001-5137-4094
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434288
@@ -2458,8 +2442,8 @@
     - - 2026
   language: pt-BR
   author:
-  - family: Thamay
-    given: Thiago
+  - family: Medeiros
+    given: Arthur Thiago Thamay
     ORCID: https://orcid.org/0000-0002-0629-9408
   event-place: Porto Alegre
   publisher-place: Porto Alegre
@@ -2592,7 +2576,6 @@
   author:
   - family: Amaral
     given: Izabel Fraga do
-    ORCID: https://orcid.org/0000-0002-9106-6341
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434312
@@ -2666,7 +2649,6 @@
   author:
   - family: Gaspar
     given: Natália Maria
-    ORCID: https://orcid.org/0000-0001-7593-6872
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434320
@@ -2684,7 +2666,6 @@
   author:
   - family: Godoi
     given: Fabrício Ribeiro dos Santos
-    ORCID: https://orcid.org/0000-0003-2196-8339
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434322
@@ -2723,7 +2704,6 @@
   author:
   - family: Esteban Maluenda
     given: Ana
-    ORCID: https://orcid.org/0000-0002-7786-9252
   - family: Mariné Carretero
     given: Nicolás
   event-place: Porto Alegre
@@ -2914,7 +2894,6 @@
   author:
   - family: Oliveira
     given: Victor
-    ORCID: https://orcid.org/0000-0002-1117-8264
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434353
@@ -2932,7 +2911,6 @@
   author:
   - family: Moreno
     given: Guilherme Pianca
-    ORCID: https://orcid.org/0000-0003-3190-4777
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434356
@@ -3059,7 +3037,6 @@
   author:
   - family: Jardim
     given: Mariana Comerlato
-    ORCID: https://orcid.org/0000-0002-2542-1659
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434376
@@ -3336,7 +3313,6 @@
   author:
   - family: Pimenta
     given: Marcelo
-    ORCID: https://orcid.org/0000-0002-4712-089X
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434412
@@ -3354,7 +3330,6 @@
   author:
   - family: Tejero Baeza
     given: Pilar
-    ORCID: https://orcid.org/0000-0002-1848-7705
   - family: Mello Dias
     given: Ligia Maria
     ORCID: https://orcid.org/0000-0002-0751-5926
@@ -3546,7 +3521,6 @@
   author:
   - family: Prates
     given: Arthur
-    ORCID: https://orcid.org/0000-0002-1443-8607
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434435
@@ -3585,7 +3559,6 @@
   author:
   - family: Machado
     given: Tamiris de Oliveira
-    ORCID: https://orcid.org/0009-0004-5885-9325
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434439
@@ -3621,7 +3594,6 @@
   author:
   - family: Lacerda
     given: Marina Pedreira de
-    ORCID: https://orcid.org/0000-0003-0755-1916
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434443
@@ -3790,7 +3762,6 @@
   author:
   - family: Andrade Neto
     given: Gustavo Pires de
-    ORCID: https://orcid.org/0009-0001-0088-5465
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434467
@@ -3934,7 +3905,6 @@
     given: Michel Martins de
   - family: Torres
     given: Fernanda Freitas Costa de
-    ORCID: https://orcid.org/0000-0001-6982-855X
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434480
@@ -3952,7 +3922,6 @@
   author:
   - family: Fialho Martins
     given: Tainá Tábata
-    ORCID: https://orcid.org/0000-0002-1738-0041
   - family: Solfa
     given: Marilia
     ORCID: https://orcid.org/0000-0001-5364-8108
@@ -4269,7 +4238,6 @@
   author:
   - family: YU
     given: Yunlong
-    ORCID: https://orcid.org/0000-0002-4809-9738
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   ISBN: 978-65-993024-6-6
@@ -4472,7 +4440,6 @@
   author:
   - family: Palermo
     given: Nicolás Sica
-    ORCID: https://orcid.org/0000-0003-0680-7684
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434550
@@ -4564,7 +4531,6 @@
   author:
   - family: Pires
     given: João Marcos
-    ORCID: https://orcid.org/0000-0003-4121-4251
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434561
@@ -4601,7 +4567,6 @@
   author:
   - family: Carvalho
     given: Lorena Petrovich Pereira de
-    ORCID: https://orcid.org/0009-0000-6592-1298
   - family: Valença
     given: Márcio Moraes
     ORCID: https://orcid.org/0000-0002-7318-6606
@@ -4759,7 +4724,6 @@
   author:
   - family: Saboia Martins
     given: Thais
-    ORCID: https://orcid.org/0000-0002-3950-0454
   - family: Rosa
     given: Alexandre Ruiz da
     ORCID: https://orcid.org/0000-0002-3468-3335
@@ -4799,7 +4763,6 @@
   author:
   - family: Saboia
     given: Luciana
-    ORCID: https://orcid.org/0000-0002-6394-9024
   - family: Dullius
     given: Juliana
   event-place: Porto Alegre
@@ -4972,7 +4935,6 @@
   author:
   - family: Mentone
     given: Bruno Juliani
-    ORCID: https://orcid.org/0009-0009-6527-142X
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434612
@@ -5013,7 +4975,6 @@
     ORCID: https://orcid.org/0009-0009-6527-142X
   - family: Aguiar
     given: Letícia
-    ORCID: https://orcid.org/0000-0002-3239-2980
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434616
@@ -5065,7 +5026,6 @@
   author:
   - family: Lima
     given: Mauricio Cavalcante
-    ORCID: https://orcid.org/0000-0002-3700-2945
   - family: Salgado
     given: Victor
   event-place: Porto Alegre
@@ -5085,7 +5045,6 @@
   author:
   - family: Santos
     given: Luciana de Paula
-    ORCID: https://orcid.org/0000-0003-4528-349X
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434622
@@ -5122,7 +5081,6 @@
   author:
   - family: Campos
     given: Bruno Pedro Alves de
-    ORCID: https://orcid.org/0009-0009-5940-170X
   - family: Aliaga Fuentes
     given: Maribel
     ORCID: https://orcid.org/0000-0001-8244-8412
@@ -5686,7 +5644,6 @@
   author:
   - family: Koch
     given: Lucia
-    ORCID: https://orcid.org/0009-0001-0909-4563
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   DOI: 10.5281/zenodo.19434706
@@ -6065,8 +6022,9 @@
     - - 2026
   language: pt-BR
   author:
-  - family: Pessoa
+  - family: Pessôa
     given: José Simões de Belmont
+    ORCID: https://orcid.org/0000-0001-7956-7840
   event-place: Porto Alegre
   publisher-place: Porto Alegre
   ISBN: 978-65-993024-6-6

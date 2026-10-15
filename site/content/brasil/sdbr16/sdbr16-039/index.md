@@ -36,7 +36,6 @@ authors:
   - givenname: "Priscila Gonçalves"
     familyname: "Santos"
     affiliation: "FAU-UFRJ"
-    orcid: "0000-0001-5844-696X"
   - givenname: "Gabriela Tie Nagoya"
     familyname: "Tamari"
     affiliation: "FAU-USP"

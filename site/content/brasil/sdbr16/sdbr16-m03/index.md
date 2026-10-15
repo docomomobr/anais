@@ -27,7 +27,6 @@ authors:
   - givenname: "Sílvia Lopes Carneiro"
     familyname: "Leão"
     affiliation: "DA-UFRGS"
-    orcid: "0000-0001-9109-8127"
   - givenname: "Daniel Pitta"
     familyname: "Fischmann"
     affiliation: "UFRGS"

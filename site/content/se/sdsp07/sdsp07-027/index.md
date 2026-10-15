@@ -49,7 +49,6 @@ authors:
     orcid: "0009-0008-4992-805X"
   - givenname: "Marcelo"
     familyname: "Suzuki"
-    orcid: "0000-0003-4226-6280"
   - givenname: "Paulo Yassuhide"
     familyname: "Fujioka"
     orcid: "0000-0003-2113-6778"

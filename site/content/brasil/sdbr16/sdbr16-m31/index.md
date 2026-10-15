@@ -29,10 +29,10 @@ authors:
     affiliation: "UFRGS"
     orcid: "0000-0003-0079-1861"
   - givenname: "Marta"
-    familyname: "Bogea"
+    familyname: "Bogéa"
     orcid: "0000-0001-7295-9753"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Cabral, Cláudia Piantá Costa"
-  - "Bogea, Marta"
+  - "Bogéa, Marta"
 ---

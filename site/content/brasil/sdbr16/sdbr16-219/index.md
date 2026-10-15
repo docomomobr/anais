@@ -32,7 +32,6 @@ authors:
   - givenname: "Thais"
     familyname: "Saboia Martins"
     affiliation: "UTFPR"
-    orcid: "0000-0002-3950-0454"
   - givenname: "Alexandre Ruiz da"
     familyname: "Rosa"
     affiliation: "saboia+ruiz"

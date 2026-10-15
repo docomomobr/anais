@@ -31,7 +31,6 @@ authors:
   - givenname: "Tamiris de Oliveira"
     familyname: "Machado"
     affiliation: "NPGAU-UFMG"
-    orcid: "0009-0004-5885-9325"
 doi: "10.5281/zenodo.19434439"
 zenodo_pdf_url: "https://zenodo.org/records/19434440/files/sdbr16-156.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

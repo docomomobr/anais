@@ -32,7 +32,6 @@ authors:
   - givenname: "Priscila"
     familyname: "Vargas"
     affiliation: "PROPAR-UFRGS"
-    orcid: "0009-0004-1912-7770"
   - givenname: "Fabiana"
     familyname: "Bernardy"
     affiliation: "PROPAR-UFRGS"

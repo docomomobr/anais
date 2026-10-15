@@ -33,7 +33,6 @@ authors:
   - givenname: "Luciana"
     familyname: "Saboia"
     affiliation: "FAU-UnB"
-    orcid: "0000-0002-6394-9024"
   - givenname: "Juliana"
     familyname: "Dullius"
     affiliation: "FAU-UnB"

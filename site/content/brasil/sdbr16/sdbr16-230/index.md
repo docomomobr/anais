@@ -31,7 +31,6 @@ authors:
   - givenname: "Bruno Juliani"
     familyname: "Mentone"
     affiliation: "FEC-FAU UNICAMP"
-    orcid: "0009-0009-6527-142X"
 doi: "10.5281/zenodo.19434612"
 zenodo_pdf_url: "https://zenodo.org/records/19434613/files/sdbr16-230.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

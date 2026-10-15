@@ -32,7 +32,6 @@ authors:
   - givenname: "Mauricio Cavalcante"
     familyname: "Lima"
     affiliation: "FAU-USP"
-    orcid: "0000-0002-3700-2945"
   - givenname: "Victor"
     familyname: "Salgado"
     affiliation: "FAU-USP"

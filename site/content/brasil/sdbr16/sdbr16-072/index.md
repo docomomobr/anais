@@ -32,12 +32,12 @@ authors:
   - givenname: "Bianca"
     familyname: "Oresko"
   - givenname: "Maria Isabel"
-    familyname: "Imbrunito"
+    familyname: "Imbronito"
     orcid: "0000-0001-7394-3809"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Oresko, Bianca"
-  - "Imbrunito, Maria Isabel"
+  - "Imbronito, Maria Isabel"
 palavras-chave:
   - "Hospital das Clínicas da FMUSP"
   - "Patrimônio histórico hospitalar"

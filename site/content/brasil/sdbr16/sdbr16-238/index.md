@@ -32,7 +32,6 @@ authors:
   - givenname: "Bruno Pedro Alves de"
     familyname: "Campos"
     affiliation: "FAU.UnB"
-    orcid: "0009-0009-5940-170X"
   - givenname: "Maribel"
     familyname: "Aliaga Fuentes"
     affiliation: "FAU.UnB"

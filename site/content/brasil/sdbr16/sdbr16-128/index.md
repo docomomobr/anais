@@ -34,7 +34,6 @@ authors:
   - givenname: "Mariana Comerlato"
     familyname: "Jardim"
     affiliation: "FA-UFRGS"
-    orcid: "0000-0002-2542-1659"
 doi: "10.5281/zenodo.19434376"
 zenodo_pdf_url: "https://zenodo.org/records/19434377/files/sdbr16-128.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

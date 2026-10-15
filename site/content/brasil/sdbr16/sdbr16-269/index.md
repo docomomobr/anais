@@ -33,7 +33,6 @@ authors:
   - givenname: "Lucia"
     familyname: "Koch"
     affiliation: "PPGAV e CAP ECA-USP"
-    orcid: "0009-0001-0909-4563"
 doi: "10.5281/zenodo.19434706"
 zenodo_pdf_url: "https://zenodo.org/records/19434707/files/sdbr16-269.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

@@ -29,7 +29,7 @@ keywords:
   - "Maranhão"
   - "Cartografias Modernas"
 authors:
-  - givenname: "Grete Soares -"
+  - givenname: "Grete Soares"
     familyname: "Pflueger"
     affiliation: "UEM"
     orcid: "0000-0002-9376-8689"
@@ -40,7 +40,7 @@ doi: "10.5281/zenodo.19434220"
 zenodo_pdf_url: "https://zenodo.org/records/19434221/files/sdbr16-065.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
-  - "Pflueger, Grete Soares -"
+  - "Pflueger, Grete Soares"
   - "Ferreira, Bruno David -"
 palavras-chave:
   - "arquitetura hospitalar"

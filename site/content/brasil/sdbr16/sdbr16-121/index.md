@@ -32,7 +32,6 @@ authors:
   - givenname: "Guilherme Pianca"
     familyname: "Moreno"
     affiliation: "FAU-USP"
-    orcid: "0000-0003-3190-4777"
 doi: "10.5281/zenodo.19434356"
 zenodo_pdf_url: "https://zenodo.org/records/19446658/files/sdbr16-121.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

@@ -28,7 +28,6 @@ authors:
     familyname: "Franco"
   - givenname: "Vanessa Borges"
     familyname: "Brasileiro"
-    orcid: "0000-0002-4625-5709"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Franco, Felipe Henrique"

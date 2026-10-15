@@ -49,7 +49,6 @@ authors:
     orcid: "0000-0003-2000-0633"
   - givenname: "João Pedro"
     familyname: "Barbosa"
-    orcid: "0009-0007-6033-7157"
   - givenname: "Beatriz Barsoumian"
     familyname: "Carvalho"
     orcid: "0000-0002-4438-4275"

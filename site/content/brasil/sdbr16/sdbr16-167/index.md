@@ -33,7 +33,6 @@ authors:
   - givenname: "Gustavo Pires de"
     familyname: "Andrade Neto"
     affiliation: "UDESC"
-    orcid: "0009-0001-0088-5465"
 doi: "10.5281/zenodo.19434467"
 zenodo_pdf_url: "https://zenodo.org/records/19434468/files/sdbr16-167.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

@@ -32,7 +32,6 @@ authors:
   - givenname: "Sílvia Lopes Carneiro"
     familyname: "Leão"
     affiliation: "UFRGS"
-    orcid: "0000-0001-9109-8127"
 doi: "10.5281/zenodo.19434133"
 zenodo_pdf_url: "https://zenodo.org/records/19434134/files/sdbr16-047.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

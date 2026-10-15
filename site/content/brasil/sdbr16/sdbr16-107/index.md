@@ -31,7 +31,6 @@ authors:
   - givenname: "Natália Maria"
     familyname: "Gaspar"
     affiliation: "UNIFESP"
-    orcid: "0000-0001-7593-6872"
 doi: "10.5281/zenodo.19434320"
 zenodo_pdf_url: "https://zenodo.org/records/19434321/files/sdbr16-107.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

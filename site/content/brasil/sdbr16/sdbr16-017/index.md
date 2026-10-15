@@ -40,7 +40,6 @@ authors:
   - givenname: "Nathália Bichinho C."
     familyname: "Corrêa Oliveira"
     affiliation: "FADU-UdelaR"
-    orcid: "0000-0002-7420-4634"
 doi: "10.5281/zenodo.19434060"
 zenodo_pdf_url: "https://zenodo.org/records/19434196/files/sdbr16-017.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

@@ -12349,7 +12349,7 @@ INSERT INTO "authors" VALUES(998,'Fernando Prudente','Comparini','comparini@exem
 INSERT INTO "authors" VALUES(999,'Thais Ribeiro da','Cruz','cruz@exemplo.com',NULL,'2026-03-28','3.1');
 INSERT INTO "authors" VALUES(1000,'Rodrigo Henrique','Geraldo','geraldo@exemplo.com','0000-0003-0536-7621','2026-03-17','2.0');
 INSERT INTO "authors" VALUES(1002,'Mario Tavares','Moura Filho','moura_filho@exemplo.com',NULL,'2026-03-28','3.1');
-INSERT INTO "authors" VALUES(1003,'Ana Carolina Buim Azevedo','Marques','anacbuim@gmail.com','0000-0003-1568-7231','2026-02-12','2.0');
+INSERT INTO "authors" VALUES(1003,'Ana Carolina Buim Azevedo','Marques','anacbuim@gmail.com','0009-0003-5500-6581','2026-02-12','2.0');
 INSERT INTO "authors" VALUES(1005,'Miriam','Elwing','elwing@exemplo.com',NULL,'2026-03-28','3.1');
 INSERT INTO "authors" VALUES(1006,'Ana Marta','Ditolvo','ditolvo@exemplo.com',NULL,'2026-04-05','3.1');
 INSERT INTO "authors" VALUES(1007,'Maria Aparecida','Soukef','soukef@exemplo.com',NULL,'2026-03-28','3.1');

@@ -49,7 +49,6 @@ keywords_es:
 authors:
   - givenname: "Aline Nami dos"
     familyname: "Santos"
-    orcid: "0000-0003-3730-5388"
   - givenname: "Paulo Yassuhide"
     familyname: "Fujioka"
     orcid: "0000-0003-2113-6778"
