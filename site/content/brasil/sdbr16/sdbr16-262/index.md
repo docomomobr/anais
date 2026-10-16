@@ -30,8 +30,8 @@ keywords:
   - "Regime Militar"
   - "Canteiros Emancipatórios"
 authors:
-  - givenname: "Ana Carolina"
-    familyname: "Buim"
+  - givenname: "Ana Carolina Buim Azevedo"
+    familyname: "Marques"
     affiliation: "USJT"
     orcid: "0009-0003-5500-6581"
   - givenname: "Andréa de Oliveira"
@@ -42,7 +42,7 @@ doi: "10.5281/zenodo.19434691"
 zenodo_pdf_url: "https://zenodo.org/records/19434692/files/sdbr16-262.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
-  - "Buim, Ana Carolina"
+  - "Marques, Ana Carolina Buim Azevedo"
   - "Tourinho, Andréa de Oliveira"
 palavras-chave:
   - "Teoria da Arquitetura Brasileira"

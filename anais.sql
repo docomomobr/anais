@@ -5147,7 +5147,7 @@ INSERT INTO "article_author" VALUES('sdbr16-259',2133,0,0,'FAU-USP',NULL,'BR');
 INSERT INTO "article_author" VALUES('sdbr16-260',2176,0,0,'PROURB-FAU-UFRJ',NULL,'BR');
 INSERT INTO "article_author" VALUES('sdbr16-260',3821,1,0,'PROURB-FAU-UFRJ',NULL,'BR');
 INSERT INTO "article_author" VALUES('sdbr16-261',2126,0,0,'UFBA',NULL,'BR');
-INSERT INTO "article_author" VALUES('sdbr16-262',3824,0,0,'USJT',NULL,'BR');
+INSERT INTO "article_author" VALUES('sdbr16-262',1003,0,0,'USJT',NULL,'BR');
 INSERT INTO "article_author" VALUES('sdbr16-262',905,1,0,'USJT',NULL,'BR');
 INSERT INTO "article_author" VALUES('sdbr16-263',742,0,0,NULL,NULL,'BR');
 INSERT INTO "article_author" VALUES('sdbr16-264',3826,0,0,'USP',NULL,'BR');
@@ -11525,6 +11525,7 @@ INSERT INTO "author_variants" VALUES(1422,1373,'Ana Paula','Garcia Spolon','vari
 INSERT INTO "author_variants" VALUES(1423,116,'Thiago','Thamay','variant_merge_orcid');
 INSERT INTO "author_variants" VALUES(1424,1923,'Natália Miranda','Vieira','variant_merge_orcid');
 INSERT INTO "author_variants" VALUES(1425,738,'Maria Isabel','Imbrunito','variant_merge_orcid');
+INSERT INTO "author_variants" VALUES(1426,1003,'Ana Carolina','Buim','usuario-2026-10-16');
 CREATE TABLE authors (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     givenname TEXT NOT NULL,
@@ -14209,7 +14210,6 @@ INSERT INTO "authors" VALUES(3813,'Tomas Cezar de Andrade','Millan','tomas.milla
 INSERT INTO "authors" VALUES(3814,'Lígia Gimenes','Paschoal','ligia.paschoal@usp.br','0000-0001-7463-6907',NULL,NULL);
 INSERT INTO "authors" VALUES(3818,'Jasmine Luiza Souza Silva','Silva','silva@exemplo.com','0000-0001-6156-4086',NULL,NULL);
 INSERT INTO "authors" VALUES(3821,'Letícia Bedendo Campanha','Pires','leticia.campanha@fau.ufrj.br','0009-0006-0659-4569','2026-03-31','3.1');
-INSERT INTO "authors" VALUES(3824,'Ana Carolina','Buim',NULL,'0009-0003-5500-6581','2026-03-31','3.1');
 INSERT INTO "authors" VALUES(3826,'Yasmin Elganim','Vieira','yasminelganim@usp.br','0000-0001-7432-1817','2026-03-31','3.1');
 INSERT INTO "authors" VALUES(3828,'Isabela Ignácio de','Moura','isabela.igmoura@usp.br','0000-0001-9149-0954','2026-03-31','3.1');
 INSERT INTO "authors" VALUES(3829,'Olivia','Abrahão','olivia.abrahao@gmail.com','0009-0005-7549-373X','2026-04-05','3.1');
@@ -17660,5 +17660,5 @@ CREATE INDEX idx_authors_familyname ON authors(familyname);
 DELETE FROM "sqlite_sequence";
 INSERT INTO "sqlite_sequence" VALUES('sections',387);
 INSERT INTO "sqlite_sequence" VALUES('authors',3871);
-INSERT INTO "sqlite_sequence" VALUES('author_variants',1425);
+INSERT INTO "sqlite_sequence" VALUES('author_variants',1426);
 COMMIT;
