@@ -1318,3 +1318,7 @@ Ficha 1003 (Ana Carolina Buim Azevedo Marques, sdsp07-042/sdsp08-021/sdbr16-m08)
 **BLOQUEIO: push negado — `danilomm` com pull-only e fora da org docomomobr** (membership 404; último push ok em 10/10). Commit da correção represado localmente; deploy do site aguarda um admin da org readicionar `danilomm` com escrita. Testado por SSH e HTTPS/gh (403 nos dois).
 
 **Resolução do bloqueio (mesma tarde):** causa confirmada — `danilomm` nunca fora colaborador (0 colaboradores no repo); os pushes até 10/10 autenticavam como `docomomobr` pelo token embutido na URL https; a rotação de 10/10 revogou o token e o remote virou SSH. Conserto: `danilomm` adicionado como colaborador (write) do docomomobr/anais pelo painel (conta tesouraria, via Chrome), convite aceito via gh, commits empurrados, deploy da correção da Buim no ar. `docomomobr/publicacoes` ficou sem colaborador (navegação negada pelo classificador) — adicionar quando formos desativar o Pages de lá.
+
+### 2026-10-16 — Fusão das fichas de Ana Carolina Buim Azevedo Marques
+
+Usuário confirmou: fichas 1003 ("Ana Carolina Buim Azevedo Marques") e 3824 ("Ana Carolina Buim", sdbr16-262) são a mesma pessoa. Fusão via merge_authors (3824→1003, grafia longa mantida, variante registrada, backup anais.db.backup_merge_buim); ficha única com 4 trabalhos (sdsp07-042, sdsp08-021, sdbr16-m08, sdbr16-262). Site regenerado (sdbr16) e Zenodo sincronizado: fixed 1/1 (19434692, creators com nome longo + ORCID 0009-0003-5500-6581). Página antiga /autores/buim-ana-carolina/ passa a 404 (padrão das fusões de julho).
